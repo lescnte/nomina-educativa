@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "NUEVO LEÓN",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 18333177.720000025,
+            "plazas": 300
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15745151.36000001,
+            "plazas": 217
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PRIMARIA",
+            "percepciones": 14522855.02000003,
+            "plazas": 261
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 13376223.690000007,
+            "plazas": 210
+          },
+          {
+            "nombre": "SUBSECRETARIA DE EDUCACION BASICA",
+            "percepciones": 10696201.260000002,
+            "plazas": 269
+          },
+          {
+            "nombre": "GRAL. LAZARO CARDENAS",
+            "percepciones": 9729355.14,
+            "plazas": 147
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PREESCOLAR",
+            "percepciones": 9182064.160000002,
+            "plazas": 148
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 9148229.599999996,
+            "plazas": 151
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 9008034.790000007,
+            "plazas": 160
+          },
+          {
+            "nombre": "SECRETARIA DE EDUCACION DE NUEVO LEON",
+            "percepciones": 8781202.310000004,
+            "plazas": 167
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 18333177.72
+          },
+          "min": {
+            "nombre": "JESUS NIÑO CASTILLO",
+            "percepciones": 26902.66
+          }
+        },
+        "total": 2560
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 584658.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO JAVIER JARDINES GARZA",
+            "rfc": "JAGF4412207S0",
+            "percepciones": 577700.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRTHALA DORA MORALES GONZALEZ",
+            "rfc": "MOGM590422HH6",
+            "percepciones": 513892.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. MERCEDES VILLEGAS IPIÑA",
+            "rfc": "VIIM590516QT8",
+            "percepciones": 513892.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTHELA NUÑEZ MARTINEZ",
+            "rfc": "NUMB510814FC7",
+            "percepciones": 479933.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "IRIZABELLA BRUIXOLA DE LOS SANTOS",
+            "rfc": "BUSI401007Q94",
+            "percepciones": 479933.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA NELLY CUELLAR SALAZAR",
+            "rfc": "CUSR500304SC3",
+            "percepciones": 479933.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SIFUENTES BARRERA",
+            "rfc": "SIBE460809222",
+            "percepciones": 479835.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "GRACIELA GONZALEZ CRUZ",
+            "rfc": "GOCG560521G13",
+            "percepciones": 476111.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EUGENIA PUENTE VILLARREAL",
+            "rfc": "PUVE580331641",
+            "percepciones": 472917.39,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 584658.92
+          },
+          "min": {
+            "nombre": "ELENA VIRGINIA GONZALEZ MORALES",
+            "rfc": "GOME650801Q64",
+            "percepciones": 397.12
+          }
+        },
+        "total": 38971
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 25,
+        "1,000 - 10,000": 5316,
+        "10,000 - 50,000": 9677,
+        "50,000 - 100,000": 27631,
+        "100,000 - 250,000": 2703,
+        "250,000 - 500,000": 386,
+        "500,000 - 1,000,000": 4
+      },
+      "distribucion_plazas": {
+        "1 plaza": 29756,
+        "2 plazas": 2648,
+        "3 plazas": 1674,
+        "4 plazas": 1317,
+        "5 plazas": 1078,
+        "6 o más plazas": 2498
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 24484579.13000001,
+            "plazas": 302
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 20650252.35999999,
+            "plazas": 217
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PRIMARIA",
+            "percepciones": 19457752.689999994,
+            "plazas": 269
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 17698145.099999987,
+            "plazas": 211
+          },
+          {
+            "nombre": "SUBSECRETARIA DE EDUCACION BASICA",
+            "percepciones": 14281652.220000014,
+            "plazas": 258
+          },
+          {
+            "nombre": "GRAL. LAZARO CARDENAS",
+            "percepciones": 13018002.800000004,
+            "plazas": 147
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 12294608.899999991,
+            "plazas": 152
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 11781369.91,
+            "plazas": 158
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PREESCOLAR",
+            "percepciones": 11505937.769999987,
+            "plazas": 147
+          },
+          {
+            "nombre": "BICENTENARIO DE LA INDEPENDENCIA DE MEXICO",
+            "percepciones": 11279381.010000002,
+            "plazas": 163
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 24484579.129999995
+          },
+          "min": {
+            "nombre": "PROFRA. MARIA VALDES MORALES",
+            "percepciones": 22438.75
+          }
+        },
+        "total": 2561
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "FRANCISCO JAVIER JARDINES GARZA",
+            "rfc": "JAGF4412207S0",
+            "percepciones": 851176.42,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 738919.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRTHALA DORA MORALES GONZALEZ",
+            "rfc": "MOGM590422HH6",
+            "percepciones": 738748.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. MERCEDES VILLEGAS IPIÑA",
+            "rfc": "VIIM590516QT8",
+            "percepciones": 738748.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTHELA NUÑEZ MARTINEZ",
+            "rfc": "NUMB510814FC7",
+            "percepciones": 695563.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA NELLY CUELLAR SALAZAR",
+            "rfc": "CUSR500304SC3",
+            "percepciones": 695563.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "IRIZABELLA BRUIXOLA DE LOS SANTOS",
+            "rfc": "BUSI401007Q94",
+            "percepciones": 695563.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SIFUENTES BARRERA",
+            "rfc": "SIBE460809222",
+            "percepciones": 695439.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EUGENIA PUENTE VILLARREAL",
+            "rfc": "PUVE580331641",
+            "percepciones": 677557.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS ROBERTO BLANCA LOPEZ",
+            "rfc": "BALL560513S63",
+            "percepciones": 672159.6,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FRANCISCO JAVIER JARDINES GARZA",
+            "rfc": "JAGF4412207S0",
+            "percepciones": 851176.42
+          },
+          "min": {
+            "nombre": "JOSE ANGEL MENDOZA GARCIA",
+            "rfc": "MEGA011105HG4",
+            "percepciones": 1505.55
+          }
+        },
+        "total": 39106
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 30,
+        "1,000 - 10,000": 4395,
+        "10,000 - 50,000": 8635,
+        "50,000 - 100,000": 26524,
+        "100,000 - 250,000": 5460,
+        "250,000 - 500,000": 917,
+        "500,000 - 1,000,000": 81
+      },
+      "distribucion_plazas": {
+        "1 plaza": 29779,
+        "2 plazas": 2696,
+        "3 plazas": 1648,
+        "4 plazas": 1325,
+        "5 plazas": 1116,
+        "6 o más plazas": 2542
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 26077068.41999997,
+            "plazas": 310
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21957749.740000006,
+            "plazas": 221
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 19364462.759999994,
+            "plazas": 226
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PRIMARIA",
+            "percepciones": 17813224.829999976,
+            "plazas": 232
+          },
+          {
+            "nombre": "GRAL. LAZARO CARDENAS",
+            "percepciones": 14405068.21,
+            "plazas": 158
+          },
+          {
+            "nombre": "SUBSECRETARIA DE EDUCACION BASICA",
+            "percepciones": 14168453.099999996,
+            "plazas": 267
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 13325000.890000002,
+            "plazas": 167
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PREESCOLAR",
+            "percepciones": 13162112.70999999,
+            "plazas": 155
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 12953094.890000006,
+            "plazas": 169
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 11626658.730000006,
+            "plazas": 137
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 26077068.42
+          },
+          "min": {
+            "nombre": "JOSE PEON Y CONTRERAS",
+            "percepciones": 3132.51
+          }
+        },
+        "total": 2553
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "FRANCISCO JAVIER JARDINES GARZA",
+            "rfc": "JAGF4412207S0",
+            "percepciones": 798004.68,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 711697.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. MERCEDES VILLEGAS IPIÑA",
+            "rfc": "VIIM590516QT8",
+            "percepciones": 711534.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRTHALA DORA MORALES GONZALEZ",
+            "rfc": "MOGM590422HH6",
+            "percepciones": 711534.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "IRIZABELLA BRUIXOLA DE LOS SANTOS",
+            "rfc": "BUSI401007Q94",
+            "percepciones": 664665.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTHELA NUÑEZ MARTINEZ",
+            "rfc": "NUMB510814FC7",
+            "percepciones": 664665.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA NELLY CUELLAR SALAZAR",
+            "rfc": "CUSR500304SC3",
+            "percepciones": 664665.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SIFUENTES BARRERA",
+            "rfc": "SIBE460809222",
+            "percepciones": 664548.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EUGENIA PUENTE VILLARREAL",
+            "rfc": "PUVE580331641",
+            "percepciones": 655569.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELENA VILLARREAL PEREZ",
+            "rfc": "VIPE570915LY4",
+            "percepciones": 638421.32,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FRANCISCO JAVIER JARDINES GARZA",
+            "rfc": "JAGF4412207S0",
+            "percepciones": 798004.68
+          },
+          "min": {
+            "nombre": "ITZEL RODRIGUEZ PRADO",
+            "rfc": "ROPI801101RH5",
+            "percepciones": 177.51
+          }
+        },
+        "total": 39774
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 389,
+        "1,000 - 10,000": 4677,
+        "10,000 - 50,000": 9138,
+        "50,000 - 100,000": 25029,
+        "100,000 - 250,000": 7017,
+        "250,000 - 500,000": 872,
+        "500,000 - 1,000,000": 64
+      },
+      "distribucion_plazas": {
+        "1 plaza": 30087,
+        "2 plazas": 2841,
+        "3 plazas": 1696,
+        "4 plazas": 1361,
+        "5 plazas": 1148,
+        "6 o más plazas": 2641
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 39957681.91999996,
+            "plazas": 306
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PRIMARIA",
+            "percepciones": 34537018.08999992,
+            "plazas": 302
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 32920710.8,
+            "plazas": 217
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 28810579.799999993,
+            "plazas": 216
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PREESCOLAR",
+            "percepciones": 22030700.779999994,
+            "plazas": 169
+          },
+          {
+            "nombre": "GRAL. LAZARO CARDENAS",
+            "percepciones": 21279566.52000001,
+            "plazas": 151
+          },
+          {
+            "nombre": "SUBSECRETARIA DE EDUCACION BASICA",
+            "percepciones": 19965944.75,
+            "plazas": 250
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 19654281.58000001,
+            "plazas": 160
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 19284420.669999998,
+            "plazas": 167
+          },
+          {
+            "nombre": "BICENTENARIO DE LA INDEPENDENCIA DE MEXICO",
+            "percepciones": 18668459.250000015,
+            "plazas": 160
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 39957681.919999994
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA NUM. 48 DE EDUCACION PRIMARIA",
+            "percepciones": 5700.0
+          }
+        },
+        "total": 2556
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 1179915.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. MERCEDES VILLEGAS IPIÑA",
+            "rfc": "VIIM590516QT8",
+            "percepciones": 1179555.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRTHALA DORA MORALES GONZALEZ",
+            "rfc": "MOGM590422HH6",
+            "percepciones": 1179555.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "IRIZABELLA BRUIXOLA DE LOS SANTOS",
+            "rfc": "BUSI401007Q94",
+            "percepciones": 1096467.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTHELA NUÑEZ MARTINEZ",
+            "rfc": "NUMB510814FC7",
+            "percepciones": 1082281.51,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA NELLY CUELLAR SALAZAR",
+            "rfc": "CUSR500304SC3",
+            "percepciones": 1082281.51,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SIFUENTES BARRERA",
+            "rfc": "SIBE460809222",
+            "percepciones": 1082020.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EUGENIA PUENTE VILLARREAL",
+            "rfc": "PUVE580331641",
+            "percepciones": 1082006.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELENA VILLARREAL PEREZ",
+            "rfc": "VIPE570915LY4",
+            "percepciones": 1048818.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "OTONIEL ARRAMBIDE VILLARREAL",
+            "rfc": "AAVO440923QXA",
+            "percepciones": 1028612.77,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 1179915.67
+          },
+          "min": {
+            "nombre": "DORA NELLY RODRIGUEZ NIETO",
+            "rfc": "ROND6609178R4",
+            "percepciones": 338.6
+          }
+        },
+        "total": 40097
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 168,
+        "1,000 - 10,000": 2691,
+        "10,000 - 50,000": 9048,
+        "50,000 - 100,000": 4743,
+        "100,000 - 250,000": 29057,
+        "250,000 - 500,000": 1845,
+        "500,000 - 1,000,000": 470,
+        "Mayor a 1,000,000": 13
+      },
+      "distribucion_plazas": {
+        "1 plaza": 30105,
+        "2 plazas": 2968,
+        "3 plazas": 1749,
+        "4 plazas": 1403,
+        "5 plazas": 1159,
+        "6 o más plazas": 2713
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 24174840.469999984,
+            "plazas": 302
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PRIMARIA",
+            "percepciones": 21053465.84999996,
+            "plazas": 295
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 19613148.609999985,
+            "plazas": 212
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 16755318.65999999,
+            "plazas": 204
+          },
+          {
+            "nombre": "ESCUELA DE EDUCACION PREESCOLAR",
+            "percepciones": 13270987.579999998,
+            "plazas": 167
+          },
+          {
+            "nombre": "GRAL. LAZARO CARDENAS",
+            "percepciones": 12526251.519999992,
+            "plazas": 147
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 11917939.65,
+            "plazas": 158
+          },
+          {
+            "nombre": "SUBSECRETARIA DE EDUCACION BASICA",
+            "percepciones": 11880033.150000002,
+            "plazas": 231
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 11390260.06000001,
+            "plazas": 162
+          },
+          {
+            "nombre": "BICENTENARIO DE LA INDEPENDENCIA DE MEXICO",
+            "percepciones": 11283426.329999996,
+            "plazas": 158
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 24174840.47
+          },
+          "min": {
+            "nombre": "PROFRA. REMIGIA PEDRAZA CARDENAS",
+            "percepciones": 29366.25
+          }
+        },
+        "total": 2548
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 680189.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. MERCEDES VILLEGAS IPIÑA",
+            "rfc": "VIIM590516QT8",
+            "percepciones": 680017.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRTHALA DORA MORALES GONZALEZ",
+            "rfc": "MOGM590422HH6",
+            "percepciones": 680017.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA NELLY CUELLAR SALAZAR",
+            "rfc": "CUSR500304SC3",
+            "percepciones": 633744.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTHELA NUÑEZ MARTINEZ",
+            "rfc": "NUMB510814FC7",
+            "percepciones": 633744.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SIFUENTES BARRERA",
+            "rfc": "SIBE460809222",
+            "percepciones": 633620.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EUGENIA PUENTE VILLARREAL",
+            "rfc": "PUVE580331641",
+            "percepciones": 622418.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELENA VILLARREAL PEREZ",
+            "rfc": "VIPE570915LY4",
+            "percepciones": 609421.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS ROBERTO BLANCA LOPEZ",
+            "rfc": "BALL560513S63",
+            "percepciones": 606443.66,
+            "plazas": 1
+          },
+          {
+            "nombre": "IDELFONSO VILLEGAS VILLAGOMEZ",
+            "rfc": "VIVI6402172H7",
+            "percepciones": 602335.6,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EDITH MELGAR MONDRAGON",
+            "rfc": "MEME530811KW1",
+            "percepciones": 680189.14
+          },
+          "min": {
+            "nombre": "AGUSTIN ENRIQUE HERNANDEZ MARTINEZ",
+            "rfc": "HEMA9711023P7",
+            "percepciones": 2909.88
+          }
+        },
+        "total": 38886
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 26,
+        "1,000 - 10,000": 4042,
+        "10,000 - 50,000": 8975,
+        "50,000 - 100,000": 26733,
+        "100,000 - 250,000": 4720,
+        "250,000 - 500,000": 768,
+        "500,000 - 1,000,000": 52
+      },
+      "distribucion_plazas": {
+        "1 plaza": 29816,
+        "2 plazas": 2442,
+        "3 plazas": 1603,
+        "4 plazas": 1345,
+        "5 plazas": 1125,
+        "6 o más plazas": 2555
+      }
+    }
+  }
+}

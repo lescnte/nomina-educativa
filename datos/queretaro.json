@@ -1,0 +1,815 @@
+{
+  "entidad_federativa": "QUERÉTARO",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 30216305.43999988,
+            "plazas": 822
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 13694510.469999999,
+            "plazas": 241
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 13095409.459999999,
+            "plazas": 291
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 12517729.779999992,
+            "plazas": 206
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 12145732.119999994,
+            "plazas": 390
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 11222389.920000004,
+            "plazas": 300
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 10458765.619999994,
+            "plazas": 181
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 10226727.59999999,
+            "plazas": 195
+          },
+          {
+            "nombre": "OCTAVIO PAZ",
+            "percepciones": 9646834.340000004,
+            "plazas": 404
+          },
+          {
+            "nombre": "EPIGMENIO GONZALEZ",
+            "percepciones": 9517575.359999998,
+            "plazas": 385
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 30216305.44000001
+          },
+          "min": {
+            "nombre": "JOSE LUIS FIGUEROA PEREZ",
+            "percepciones": 28319.85
+          }
+        },
+        "total": 1448
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSEFINA RAPPA GUDIÑO",
+            "rfc": "RAGJ571009J80",
+            "percepciones": 1865394.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL PUEBLITO MORALES DIAZ",
+            "rfc": "MODP4403245Q7",
+            "percepciones": 1614146.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICENTE ROCHA DELGADO",
+            "rfc": "RODV6611053Q6",
+            "percepciones": 846390.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA DOLORES TREJO COVARRUBIAS",
+            "rfc": "TECD630114QI3",
+            "percepciones": 784660.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANA JULIA VIVEROS GUZMAN",
+            "rfc": "VIGA7203258N6",
+            "percepciones": 687492.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN GARCIA SANCHEZ",
+            "rfc": "GASJ580624FX1",
+            "percepciones": 667632.81,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL CARMEN GARAY LUGO",
+            "rfc": "GALC6804046L5",
+            "percepciones": 662468.48,
+            "plazas": 1
+          },
+          {
+            "nombre": "NICANOR AMOR ALMANZA SANCHEZ",
+            "rfc": "AASN610913AX4",
+            "percepciones": 642853.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELVIRA REQUENA REYNA",
+            "rfc": "RERE5501133L5",
+            "percepciones": 639042.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "SUSANA SANTANA GONZALEZ",
+            "rfc": "SAGS660216ET2",
+            "percepciones": 626021.85,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFINA RAPPA GUDIÑO",
+            "rfc": "RAGJ571009J80",
+            "percepciones": 1865394.43
+          },
+          "min": {
+            "nombre": "JULIO CESAR RODRIGUEZ TRUJILLO",
+            "rfc": "ROTJ770508QS3",
+            "percepciones": 843.56
+          }
+        },
+        "total": 18053
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 46,
+        "1,000 - 10,000": 2635,
+        "10,000 - 50,000": 4024,
+        "50,000 - 100,000": 13896,
+        "100,000 - 250,000": 999,
+        "250,000 - 500,000": 106,
+        "500,000 - 1,000,000": 11,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13607,
+        "2 plazas": 1902,
+        "3 plazas": 425,
+        "4 plazas": 365,
+        "5 plazas": 809,
+        "6 o más plazas": 945
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 40938387.97999988,
+            "plazas": 805
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 19451680.699999973,
+            "plazas": 387
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 18153071.40999999,
+            "plazas": 232
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 16176163.599999981,
+            "plazas": 281
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 15515239.729999984,
+            "plazas": 204
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 14509607.05999999,
+            "plazas": 304
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 14502119.979999984,
+            "plazas": 176
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 12764450.12999999,
+            "plazas": 189
+          },
+          {
+            "nombre": "OCTAVIO PAZ",
+            "percepciones": 12571702.879999965,
+            "plazas": 401
+          },
+          {
+            "nombre": "EPIGMENIO GONZALEZ",
+            "percepciones": 12328645.809999987,
+            "plazas": 388
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 40938387.97999999
+          },
+          "min": {
+            "nombre": "EPIGMENIO GONZALEZ FLORES",
+            "percepciones": 15289.1
+          }
+        },
+        "total": 1451
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "YOLANDA ORTIZ DEL ANGEL",
+            "rfc": "OIAY690117TA0",
+            "percepciones": 1508423.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER HURTADO RUIZ",
+            "rfc": "HURJ661123535",
+            "percepciones": 1451102.91,
+            "plazas": 1
+          },
+          {
+            "nombre": "GEMA GARCIA OLVERA",
+            "rfc": "GAOG601205KE2",
+            "percepciones": 1426177.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL CHAVEZ RUIZ",
+            "rfc": "CARM610929FK5",
+            "percepciones": 1408481.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL CARMEN LUGO RAMOS",
+            "rfc": "LURM610702819",
+            "percepciones": 1361309.13,
+            "plazas": 1
+          },
+          {
+            "nombre": "IRINEO ALVARADO BARQUERA",
+            "rfc": "AABI620405DX9",
+            "percepciones": 1295036.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "LAURA CERVANTES MANRIQUEZ",
+            "rfc": "CEML650719QX9",
+            "percepciones": 1278276.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGEL MARTINEZ DE LEON",
+            "rfc": "MALA641003EX5",
+            "percepciones": 1231220.51,
+            "plazas": 1
+          },
+          {
+            "nombre": "MOISES MANDUJANO ALONSO",
+            "rfc": "MAAM590803DY1",
+            "percepciones": 1202809.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER ARVIZU URQUIZA",
+            "rfc": "AIUJ6507228M1",
+            "percepciones": 1198825.32,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "YOLANDA ORTIZ DEL ANGEL",
+            "rfc": "OIAY690117TA0",
+            "percepciones": 1508423.11
+          },
+          "min": {
+            "nombre": "JOAQUIN GUTIERREZ BALTAZAR",
+            "rfc": "GUBJ7109295K5",
+            "percepciones": 1515.7599999999998
+          }
+        },
+        "total": 17997
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 23,
+        "1,000 - 10,000": 2181,
+        "10,000 - 50,000": 2861,
+        "50,000 - 100,000": 14497,
+        "100,000 - 250,000": 1770,
+        "250,000 - 500,000": 242,
+        "500,000 - 1,000,000": 52,
+        "Mayor a 1,000,000": 18
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13926,
+        "2 plazas": 1586,
+        "3 plazas": 400,
+        "4 plazas": 357,
+        "5 plazas": 787,
+        "6 o más plazas": 941
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 47062937.68000002,
+            "plazas": 808
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21467292.729999978,
+            "plazas": 232
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 20496005.789999973,
+            "plazas": 281
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 19769923.68999999,
+            "plazas": 393
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 19469981.519999992,
+            "plazas": 205
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 17952452.859999985,
+            "plazas": 305
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 17402210.53999999,
+            "plazas": 178
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 15863965.84,
+            "plazas": 189
+          },
+          {
+            "nombre": "OCTAVIO PAZ",
+            "percepciones": 15479463.83999999,
+            "plazas": 403
+          },
+          {
+            "nombre": "EPIGMENIO GONZALEZ",
+            "percepciones": 15474332.199999988,
+            "plazas": 388
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 47062937.679999955
+          },
+          "min": {
+            "nombre": "EPIGMENIO GONZALEZ FLORES",
+            "percepciones": 28063.34
+          }
+        },
+        "total": 1452
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "RUBEN ARELLANO DOMINGUEZ",
+            "rfc": "AEDR650724F4A",
+            "percepciones": 1401039.04,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSEFA OLVERA RAMIREZ",
+            "rfc": "OERJ630827PX8",
+            "percepciones": 1107712.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE MEDINA RAMIREZ",
+            "rfc": "MERJ700423KS9",
+            "percepciones": 1074898.55,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSEFINA FERNANDEZ SANTIAGO",
+            "rfc": "FESJ690319CT2",
+            "percepciones": 1015405.3,
+            "plazas": 2
+          },
+          {
+            "nombre": "JAVIER HERNANDEZ RAMIREZ",
+            "rfc": "HERJ670304N6A",
+            "percepciones": 979824.65,
+            "plazas": 2
+          },
+          {
+            "nombre": "SARA MONTES HERNANDEZ",
+            "rfc": "MOHS640620IA7",
+            "percepciones": 941420.25,
+            "plazas": 1
+          },
+          {
+            "nombre": "TOMASA SANTOS DOMINGUEZ",
+            "rfc": "SADT651221SR0",
+            "percepciones": 929655.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS OMAR ALANIS PEREZ",
+            "rfc": "AAPC6702072IA",
+            "percepciones": 858277.7200000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "MINERVA CHAVEZ MARTINEZ",
+            "rfc": "CAMM690212MZ7",
+            "percepciones": 850661.1,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSE AGUSTIN NAJERA MENDOZA",
+            "rfc": "NAMA6703275B4",
+            "percepciones": 816164.02,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "RUBEN ARELLANO DOMINGUEZ",
+            "rfc": "AEDR650724F4A",
+            "percepciones": 1401039.04
+          },
+          "min": {
+            "nombre": "JUAN CARLOS MARTINEZ TAVAREZ",
+            "rfc": "MATJ881228QT1",
+            "percepciones": 180.32
+          }
+        },
+        "total": 18482
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 201,
+        "1,000 - 10,000": 2168,
+        "10,000 - 50,000": 3704,
+        "50,000 - 100,000": 11447,
+        "100,000 - 250,000": 5021,
+        "250,000 - 500,000": 368,
+        "500,000 - 1,000,000": 42,
+        "Mayor a 1,000,000": 4
+      },
+      "distribucion_plazas": {
+        "1 plaza": 14061,
+        "2 plazas": 1824,
+        "3 plazas": 422,
+        "4 plazas": 379,
+        "5 plazas": 810,
+        "6 o más plazas": 986
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 72430269.3700001,
+            "plazas": 814
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 33208419.270000007,
+            "plazas": 240
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 31901732.970000006,
+            "plazas": 289
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 30852351.32,
+            "plazas": 411
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 30698963.520000026,
+            "plazas": 208
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 27931894.28000001,
+            "plazas": 313
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 24986781.320000004,
+            "plazas": 195
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 24326129.129999988,
+            "plazas": 175
+          },
+          {
+            "nombre": "EPIGMENIO GONZALEZ",
+            "percepciones": 22220462.269999977,
+            "plazas": 380
+          },
+          {
+            "nombre": "OCTAVIO PAZ",
+            "percepciones": 21898491.850000035,
+            "plazas": 383
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 72430269.37
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL NUM. 86",
+            "percepciones": 14406.56
+          }
+        },
+        "total": 1435
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANDRES AGUILAR CORTES",
+            "rfc": "AUCA630204JX3",
+            "percepciones": 1452242.93,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER GREGORIO LOZA MARTINEZ",
+            "rfc": "LOMJ5301192R5",
+            "percepciones": 1039719.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR TORRES GONZALEZ",
+            "rfc": "TOGV520615RS2",
+            "percepciones": 1037913.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL ALBARRAN TELLEZ",
+            "rfc": "AATR49102115A",
+            "percepciones": 1037913.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "ABRAHAM GARCIA ESPERICUETA",
+            "rfc": "GAEA550316QD4",
+            "percepciones": 1037465.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTHA LEONOR GONZALEZ ESTRADA",
+            "rfc": "GOEM511031DB1",
+            "percepciones": 1032808.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALBERTO BOTELLO URIBE",
+            "rfc": "BOUA670529AM0",
+            "percepciones": 1007003.9500000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "MANUEL SALGUERO ESPINOZA",
+            "rfc": "SAEM581225CL4",
+            "percepciones": 982667.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAMON HERNANDEZ RAMOS",
+            "rfc": "HERR590609RR3",
+            "percepciones": 982667.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE LA LUZ LARA GONZALEZ",
+            "rfc": "LAGM551201M72",
+            "percepciones": 982399.14,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANDRES AGUILAR CORTES",
+            "rfc": "AUCA630204JX3",
+            "percepciones": 1452242.93
+          },
+          "min": {
+            "nombre": "MARIA DEL CARMEN GUZMAN NOVAL",
+            "rfc": "GUNC581022F87",
+            "percepciones": 328.76
+          }
+        },
+        "total": 18164
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 51,
+        "1,000 - 10,000": 1641,
+        "10,000 - 50,000": 2720,
+        "50,000 - 100,000": 1888,
+        "100,000 - 250,000": 14531,
+        "250,000 - 500,000": 903,
+        "500,000 - 1,000,000": 203,
+        "Mayor a 1,000,000": 6
+      },
+      "distribucion_plazas": {
+        "1 plaza": 14048,
+        "2 plazas": 1582,
+        "3 plazas": 401,
+        "4 plazas": 360,
+        "5 plazas": 802,
+        "6 o más plazas": 971
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 30020027.44000006,
+            "plazas": 793
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 14224492.509999964,
+            "plazas": 231
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 13862726.429999981,
+            "plazas": 285
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 12918046.319999974,
+            "plazas": 400
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 12849499.63999999,
+            "plazas": 205
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 12053608.919999994,
+            "plazas": 297
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 11465225.60999999,
+            "plazas": 172
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 10753523.499999981,
+            "plazas": 193
+          },
+          {
+            "nombre": "EPIGMENIO GONZALEZ",
+            "percepciones": 10176601.380000005,
+            "plazas": 397
+          },
+          {
+            "nombre": "OCTAVIO PAZ",
+            "percepciones": 9938600.189999998,
+            "plazas": 391
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 30020027.440000005
+          },
+          "min": {
+            "nombre": "ENLACE INSTITUCIONAL",
+            "percepciones": 34488.3
+          }
+        },
+        "total": 1453
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "J. JESUS GONZALEZ MANCILLA",
+            "rfc": "GOMJ610331NL5",
+            "percepciones": 1261947.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "RICARDO SANCHEZ CABELLO",
+            "rfc": "SACR6804039P2",
+            "percepciones": 780781.49,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA CONCEPCION LEAL GARCIA",
+            "rfc": "LEGC681129U48",
+            "percepciones": 727173.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "VERONICA SALAZAR ALBARRAN",
+            "rfc": "SAAV690917QY7",
+            "percepciones": 721008.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "RODOLFO COSME CRUZ RAMIREZ",
+            "rfc": "CURR670502D49",
+            "percepciones": 694718.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELESTINA SILVA GALVAN",
+            "rfc": "SIGC6408101P6",
+            "percepciones": 672453.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "HECTOR BAUTISTA FRIAS",
+            "rfc": "BAFH670912BJ1",
+            "percepciones": 633953.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUZ DEL CARMEN GARCIA CAMPOS",
+            "rfc": "GACL690905387",
+            "percepciones": 613490.59,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCOS CONTRERAS CORTES",
+            "rfc": "COCM6704257H7",
+            "percepciones": 604352.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELVIRA GUADALUPE MIRANDA LEON",
+            "rfc": "MILE671016B20",
+            "percepciones": 595168.75,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "J. JESUS GONZALEZ MANCILLA",
+            "rfc": "GOMJ610331NL5",
+            "percepciones": 1261947.0
+          },
+          "min": {
+            "nombre": "LUIS OMAR ORTIZ SEGURA",
+            "rfc": "OISL770405F17",
+            "percepciones": 2484.7
+          }
+        },
+        "total": 17948
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 28,
+        "1,000 - 10,000": 2440,
+        "10,000 - 50,000": 3673,
+        "50,000 - 100,000": 13911,
+        "100,000 - 250,000": 1079,
+        "250,000 - 500,000": 117,
+        "500,000 - 1,000,000": 19,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 14048,
+        "2 plazas": 1455,
+        "3 plazas": 391,
+        "4 plazas": 344,
+        "5 plazas": 778,
+        "6 o más plazas": 932
+      }
+    }
+  }
+}

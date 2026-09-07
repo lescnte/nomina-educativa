@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nómina Educativa Federalizada - Datos por Estado</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <nav aria-label="Navegación principal">
+        <div class="nav-top">
+            <a href="index.html" class="nav-home" aria-label="Ir a la página principal" title="Ir a la página principal">
+                <svg width="38px" height="38px" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="color: #ffffff;">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0L0 6V8H1V15H4V10H7V15H15V8H16V6L14 4.5V1H11V2.25L8 0ZM9 10H12V13H9V10Z" fill="currentColor"/>
+                </svg>
+            </a>
+            <form id="formulario-consulta" aria-label="Formulario de consulta">
+                <label for="estado">Consulta por Estado de la República:</label>
+                <select id="estado" name="estado" required>
+                    <option value="">Cargando estados...</option>
+                </select>
+                <label for="trimestre">Trimestre:</label>
+                <select id="trimestre" name="trimestre" required>
+                    <option value="">Cargando trimestres...</option>
+                </select>
+                <button type="submit">Consultar</button>
+            </form>
+        </div>
+    </nav>
+
+    <header class="header-consulta">
+        <h1 id="titulo-principal">Cargando datos...</h1>
+    </header>
+
+    <main>
+        <section class="lyt-doscols-unfil" aria-labelledby="titulo-centros">
+            <div>
+                <h2 id="titulo-centros">Centros de trabajo con más percepciones</h2>
+                <ul id="lista-top-centros" class="lista-simple" aria-live="polite">
+                    <li>Cargando...</li>
+                </ul>
+                <button class="top-toggle" type="button" id="toggle-centros" aria-expanded="false">Ver Top 10</button>
+            </div>
+            <div>
+                <article class="card">
+                    <h3>Centro de trabajo con más percepciones</h3>
+                    <p id="centro-max" class="valor-destacado">Cargando...</p>
+                </article>
+                <div class="separador" aria-hidden="true"></div>
+                <article class="card">
+                    <h3>Centro de trabajo con menos percepciones</h3>
+                    <p id="centro-min" class="valor-destacado">Cargando...</p>
+                </article>
+                <div class="separador" aria-hidden="true"></div>
+                <article class="card">
+                    <h3>Número de centros de trabajo</h3>
+                    <p id="num-centros" class="valor-destacado">Cargando...</p>
+                </article>
+            </div>
+            
+        </section>
+
+        <section class="lyt-doscols-unfil" aria-labelledby="titulo-trabajadores">
+            <div>
+                <h2 id="titulo-trabajadores">Trabajadores con más percepciones</h2>
+                <ul id="lista-top-trabajadores" class="lista-simple" aria-live="polite">
+                    <li>Cargando...</li>
+                </ul>
+                <button class="top-toggle" type="button" id="toggle-trabajadores" aria-expanded="false">Ver Top 10</button>
+            </div>
+            <div>
+                <article class="card">
+                    <h3>Trabajador con más percepciones</h3>
+                    <p id="trabajador-max" class="valor-destacado">Cargando...</p>
+                </article>
+                <div class="separador" aria-hidden="true"></div>
+                <article class="card">
+                    <h3>Trabajador con menos percepciones</h3>
+                    <p id="trabajador-min" class="valor-destacado">Cargando...</p>
+                </article>
+                <div class="separador" aria-hidden="true"></div>
+                <article class="card">
+                    <h3>Número de trabajadores</h3>
+                    <p id="num-trabajadores" class="valor-destacado">Cargando...</p>
+                </article>  
+            </div>
+        </section>
+
+        <section class="lyt-doscols" aria-labelledby="titulo-sueldos">
+            <div>
+                <h2 id="titulo-sueldos">Distribución de percepciones por rango</h2>
+                <ul id="lista-distribucion-sueldos" class="lista-simple">
+                    <li>Cargando...</li>
+                </ul>
+            </div>
+            <div class="grafica-contenedor">
+                <canvas id="sueldoChart" aria-label="Gráfico de distribución de percepciones"></canvas>
+            </div>
+        </section>
+
+        <section class="lyt-doscols" aria-labelledby="titulo-plazas">
+            <div>
+                <h2 id="titulo-plazas">Plazas por trabajador</h2>
+                <ul id="lista-distribucion-plazas" class="lista-simple">
+                    <li>Cargando...</li>
+                </ul>
+            </div>
+            <div class="grafica-contenedor">
+                <canvas id="plazasChart" aria-label="Gráfico de distribución de plazas por trabajador"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p><a href="https://dgsanef.sep.gob.mx/art73lgcg">Datos Públicos Artículo 73 de la Ley General de Contabilidad
+                Gubernamental</a></p>
+    </footer>
+
+    <script src="master.js"></script>
+</body>
+
+</html>

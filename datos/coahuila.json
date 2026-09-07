@@ -1,0 +1,814 @@
+{
+  "entidad_federativa": "COAHUILA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 33276679.12999999,
+            "plazas": 678
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 32396458.329999976,
+            "plazas": 487
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 30338329.880000018,
+            "plazas": 652
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 29696412.26999995,
+            "plazas": 823
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 29121046.699999966,
+            "plazas": 637
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 24006496.389999997,
+            "plazas": 440
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15682761.24000001,
+            "plazas": 373
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 15304446.070000025,
+            "plazas": 211
+          },
+          {
+            "nombre": "MANUEL ACUÑA",
+            "percepciones": 14402498.36000001,
+            "plazas": 285
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 14399886.890000015,
+            "plazas": 286
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 33276679.12999999
+          },
+          "min": {
+            "nombre": "MODULO DE ATENCION DE PADRES DE FAMILIA 75",
+            "percepciones": 45516.95
+          }
+        },
+        "total": 1623
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "FRANCISCO JAVIER TREVIÑO CASTRO",
+            "rfc": "TECF531008BX7",
+            "percepciones": 1893594.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROBERTO JAIME CONTRERAS CAVAZOS",
+            "rfc": "COCR540529GZ3",
+            "percepciones": 1426062.0,
+            "plazas": 2
+          },
+          {
+            "nombre": "JUAN ANTONIO RAMIREZ ORTEGA",
+            "rfc": "RAOJ520901U13",
+            "percepciones": 1277147.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 633727.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA ENRIQUETA MARTINEZ GUERRA",
+            "rfc": "MAGA520112QE9",
+            "percepciones": 615846.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN HORACIO GARCIA BOONE",
+            "rfc": "GABJ460624MY3",
+            "percepciones": 615846.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL ACOSTA GUILLEN",
+            "rfc": "AOGR571202QY1",
+            "percepciones": 615846.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICELA VALDES DELGADO",
+            "rfc": "VADM640125PJ7",
+            "percepciones": 603786.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS JESUS MONTELONGO GUERRERO",
+            "rfc": "MOGL600621TF3",
+            "percepciones": 570755.91,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. TERESA VELASQUEZ PIÑA",
+            "rfc": "VEPT541003IK4",
+            "percepciones": 566265.41,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FRANCISCO JAVIER TREVIÑO CASTRO",
+            "rfc": "TECF531008BX7",
+            "percepciones": 1893594.44
+          },
+          "min": {
+            "nombre": "DAFNE DANIELA CALZONCIT URIBE",
+            "rfc": "CAUD9709129T7",
+            "percepciones": 302.08
+          }
+        },
+        "total": 30779
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 544,
+        "1,000 - 10,000": 4854,
+        "10,000 - 50,000": 8007,
+        "50,000 - 100,000": 20496,
+        "100,000 - 250,000": 3946,
+        "250,000 - 500,000": 360,
+        "500,000 - 1,000,000": 21,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22843,
+        "2 plazas": 3282,
+        "3 plazas": 1508,
+        "4 plazas": 977,
+        "5 plazas": 721,
+        "6 o más plazas": 1448
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 38069545.56999994,
+            "plazas": 480
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 37534568.78000004,
+            "plazas": 667
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 34544223.27999998,
+            "plazas": 810
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 34338641.719999984,
+            "plazas": 645
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 33197087.42000003,
+            "plazas": 620
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 27629619.339999996,
+            "plazas": 448
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 18219308.67,
+            "plazas": 370
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 17953815.22,
+            "plazas": 211
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 16736032.569999993,
+            "plazas": 317
+          },
+          {
+            "nombre": "SOR JUANA INES DE LA CRUZ",
+            "percepciones": 16287824.319999997,
+            "plazas": 195
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 38069545.569999985
+          },
+          "min": {
+            "nombre": "UNIDAD DE SERVICIO DE APOYO A LA EDUCACION REGULAR NUM. 224",
+            "percepciones": 18340.24
+          }
+        },
+        "total": 1628
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 1161765.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "ENRIQUE MARTINEZ RAMIREZ",
+            "rfc": "MARE550407JC6",
+            "percepciones": 1147159.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. TERESA VELASQUEZ PIÑA",
+            "rfc": "VEPT541003IK4",
+            "percepciones": 1102783.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "EVANGELINA LOZANO MIRELES",
+            "rfc": "LOME540217EB3",
+            "percepciones": 968570.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCIO ALEJANDRO MARIN SALDIVAR",
+            "rfc": "MASL650511GR5",
+            "percepciones": 949855.6,
+            "plazas": 2
+          },
+          {
+            "nombre": "BERTHA ICELA ORTIZ RIOJAS",
+            "rfc": "OIRB550326K18",
+            "percepciones": 892090.04,
+            "plazas": 3
+          },
+          {
+            "nombre": "ESTHER CORREA SANCHEZ",
+            "rfc": "COSE600226KL5",
+            "percepciones": 876880.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILBERTO DELGADILLO VALDES",
+            "rfc": "DEVG610204U61",
+            "percepciones": 861132.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARMINA GODINA REYES",
+            "rfc": "GORC641115JC3",
+            "percepciones": 844497.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO FUANTOS SANCHEZ",
+            "rfc": "FUSA6601314Y4",
+            "percepciones": 844479.91,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 1161765.38
+          },
+          "min": {
+            "nombre": "YAZMIN ZUÑIGA GONZALEZ",
+            "rfc": "ZUGY881115124",
+            "percepciones": 897.04
+          }
+        },
+        "total": 30300
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 33,
+        "1,000 - 10,000": 4081,
+        "10,000 - 50,000": 6708,
+        "50,000 - 100,000": 20177,
+        "100,000 - 250,000": 5340,
+        "250,000 - 500,000": 693,
+        "500,000 - 1,000,000": 85,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 23089,
+        "2 plazas": 2796,
+        "3 plazas": 1473,
+        "4 plazas": 953,
+        "5 plazas": 682,
+        "6 o más plazas": 1307
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 43091062.85000001,
+            "plazas": 690
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 40793264.49000001,
+            "plazas": 485
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 38485782.23000003,
+            "plazas": 650
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 38321060.52999997,
+            "plazas": 801
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 37334881.32000004,
+            "plazas": 636
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 31747068.90999996,
+            "plazas": 455
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 20390815.72000001,
+            "plazas": 367
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 19555499.009999998,
+            "plazas": 208
+          },
+          {
+            "nombre": "SOR JUANA INES DE LA CRUZ",
+            "percepciones": 18835852.119999986,
+            "plazas": 202
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 18766067.54000001,
+            "plazas": 283
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 43091062.849999994
+          },
+          "min": {
+            "nombre": "COORDINACION REGIONAL DE EDUCACION FISICA REGION CARBONIFERA",
+            "percepciones": 19503.379999999997
+          }
+        },
+        "total": 1624
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE HECTOR MONTALVO AGUILAR",
+            "rfc": "MOAH530812HA0",
+            "percepciones": 1653615.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN ANTONIO TIJERINA FALCON",
+            "rfc": "TIFJ4905108EA",
+            "percepciones": 1129166.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 780464.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN HORACIO GARCIA BOONE",
+            "rfc": "GABJ460624MY3",
+            "percepciones": 749288.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA ENRIQUETA MARTINEZ GUERRA",
+            "rfc": "MAGA520112QE9",
+            "percepciones": 749288.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL ACOSTA GUILLEN",
+            "rfc": "AOGR571202QY1",
+            "percepciones": 749288.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICELA VALDES DELGADO",
+            "rfc": "VADM640125PJ7",
+            "percepciones": 725674.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. TERESA VELASQUEZ PIÑA",
+            "rfc": "VEPT541003IK4",
+            "percepciones": 697621.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ARTURO GARCIA DE LA FUENTE",
+            "rfc": "GAFA631108FE3",
+            "percepciones": 687911.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "ENRIQUE MARTINEZ RAMIREZ",
+            "rfc": "MARE550407JC6",
+            "percepciones": 677767.21,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE HECTOR MONTALVO AGUILAR",
+            "rfc": "MOAH530812HA0",
+            "percepciones": 1653615.1
+          },
+          "min": {
+            "nombre": "NAXHELLY GUADALUPE BERNAL ARROYO",
+            "rfc": "BEAN831212PR0",
+            "percepciones": 168.9
+          }
+        },
+        "total": 30775
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 546,
+        "1,000 - 10,000": 3641,
+        "10,000 - 50,000": 7442,
+        "50,000 - 100,000": 18928,
+        "100,000 - 250,000": 6391,
+        "250,000 - 500,000": 647,
+        "500,000 - 1,000,000": 58,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 23029,
+        "2 plazas": 3098,
+        "3 plazas": 1576,
+        "4 plazas": 994,
+        "5 plazas": 694,
+        "6 o más plazas": 1384
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 49499051.080000006,
+            "plazas": 706
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 47743981.75000005,
+            "plazas": 504
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 45825172.97000017,
+            "plazas": 854
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 44370088.80000014,
+            "plazas": 676
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 42440240.73999998,
+            "plazas": 653
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 35929894.35000002,
+            "plazas": 466
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 23226464.67999999,
+            "plazas": 217
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 23028541.560000014,
+            "plazas": 374
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 21453785.310000006,
+            "plazas": 276
+          },
+          {
+            "nombre": "MANUEL ACUÑA",
+            "percepciones": 21436074.46,
+            "plazas": 288
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 49499051.08000002
+          },
+          "min": {
+            "nombre": "EXT. CENTRO DE MAESTROS MATAMOROS DEL INST. ESTATAL DE DESARROLLO DOCENTE E INVEST. EDUC.",
+            "percepciones": 81594.34
+          }
+        },
+        "total": 1632
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 937413.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA ENRIQUETA MARTINEZ GUERRA",
+            "rfc": "MAGA520112QE9",
+            "percepciones": 911443.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN HORACIO GARCIA BOONE",
+            "rfc": "GABJ460624MY3",
+            "percepciones": 911443.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL ACOSTA GUILLEN",
+            "rfc": "AOGR571202QY1",
+            "percepciones": 911443.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICELA VALDES DELGADO",
+            "rfc": "VADM640125PJ7",
+            "percepciones": 892008.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. TERESA VELASQUEZ PIÑA",
+            "rfc": "VEPT541003IK4",
+            "percepciones": 836628.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ARTURO GARCIA DE LA FUENTE",
+            "rfc": "GAFA631108FE3",
+            "percepciones": 832276.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME VELA MUÑOZ",
+            "rfc": "VEMJ690311CI2",
+            "percepciones": 827676.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "JESUS ARMANDO BETANCOURT VILLARREAL",
+            "rfc": "BEVJ600827KQ4",
+            "percepciones": 815149.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN JOSE DE LEON CISNEROS",
+            "rfc": "LECJ470220K92",
+            "percepciones": 810723.86,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 937413.12
+          },
+          "min": {
+            "nombre": "ADAN RACIEL SANCHEZ GONZALEZ",
+            "rfc": "SAGA810106D61",
+            "percepciones": 299.16
+          }
+        },
+        "total": 31687
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 628,
+        "1,000 - 10,000": 5206,
+        "10,000 - 50,000": 7637,
+        "50,000 - 100,000": 18497,
+        "100,000 - 250,000": 7864,
+        "250,000 - 500,000": 1067,
+        "500,000 - 1,000,000": 140
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22976,
+        "2 plazas": 3516,
+        "3 plazas": 1623,
+        "4 plazas": 1093,
+        "5 plazas": 790,
+        "6 o más plazas": 1689
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 42603482.36000001,
+            "plazas": 714
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 41169321.83000002,
+            "plazas": 496
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 38261153.11000001,
+            "plazas": 857
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 37791131.81,
+            "plazas": 681
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 36267658.99999999,
+            "plazas": 621
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 30898392.48999999,
+            "plazas": 457
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 19859294.760000005,
+            "plazas": 214
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 19053444.439999986,
+            "plazas": 370
+          },
+          {
+            "nombre": "SOR JUANA INES DE LA CRUZ",
+            "percepciones": 18482294.019999977,
+            "plazas": 206
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 18113816.029999997,
+            "plazas": 329
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 42603482.36000003
+          },
+          "min": {
+            "nombre": "EXT. CENTRO DE MAESTROS MATAMOROS DEL INST. ESTATAL DE DESARROLLO DOCENTE E INVEST. EDUC.",
+            "percepciones": 65915.05
+          }
+        },
+        "total": 1631
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LUIS ARTURO GAMEZ CEPEDA",
+            "rfc": "GACL6310085F4",
+            "percepciones": 1002699.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "GRACIELA RAMIREZ LUNA",
+            "rfc": "RALG561024KE0",
+            "percepciones": 812258.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA ENRIQUETA MARTINEZ GUERRA",
+            "rfc": "MAGA520112QE9",
+            "percepciones": 789135.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL ACOSTA GUILLEN",
+            "rfc": "AOGR571202QY1",
+            "percepciones": 789135.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN HORACIO GARCIA BOONE",
+            "rfc": "GABJ460624MY3",
+            "percepciones": 789135.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICELA VALDES DELGADO",
+            "rfc": "VADM640125PJ7",
+            "percepciones": 774216.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. TERESA VELASQUEZ PIÑA",
+            "rfc": "VEPT541003IK4",
+            "percepciones": 726573.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ARTURO GARCIA DE LA FUENTE",
+            "rfc": "GAFA631108FE3",
+            "percepciones": 718804.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME VELA MUÑOZ",
+            "rfc": "VEMJ690311CI2",
+            "percepciones": 714714.68,
+            "plazas": 1
+          },
+          {
+            "nombre": "JESUS ARMANDO BETANCOURT VILLARREAL",
+            "rfc": "BEVJ600827KQ4",
+            "percepciones": 705898.08,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LUIS ARTURO GAMEZ CEPEDA",
+            "rfc": "GACL6310085F4",
+            "percepciones": 1002699.71
+          },
+          "min": {
+            "nombre": "PAMELA LOPEZ ZUÑIGA",
+            "rfc": "LOZP011016CV2",
+            "percepciones": 231.02
+          }
+        },
+        "total": 30943
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 392,
+        "1,000 - 10,000": 4533,
+        "10,000 - 50,000": 7268,
+        "50,000 - 100,000": 19546,
+        "100,000 - 250,000": 6204,
+        "250,000 - 500,000": 687,
+        "500,000 - 1,000,000": 78,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 23036,
+        "2 plazas": 3120,
+        "3 plazas": 1505,
+        "4 plazas": 994,
+        "5 plazas": 738,
+        "6 o más plazas": 1550
+      }
+    }
+  }
+}

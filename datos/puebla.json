@@ -1,0 +1,812 @@
+{
+  "entidad_federativa": "PUEBLA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 151504500.15999824,
+            "plazas": 4683
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 113549329.6699998,
+            "plazas": 1272
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 98661433.87999958,
+            "plazas": 1203
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 91344721.50999959,
+            "plazas": 1192
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 77291823.2899999,
+            "plazas": 886
+          },
+          {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL",
+            "percepciones": 59603203.16000004,
+            "plazas": 344
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 53169355.01999995,
+            "plazas": 560
+          },
+          {
+            "nombre": "LICENCIADO BENITO JUAREZ",
+            "percepciones": 49489089.459999956,
+            "plazas": 640
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 46924939.58999996,
+            "plazas": 834
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS",
+            "percepciones": 44372728.85999991,
+            "plazas": 500
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 151504500.15999997
+          },
+          "min": {
+            "nombre": "ANGEL ROJAS CASTAÑEDA",
+            "percepciones": 6839.36
+          }
+        },
+        "total": 2596
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ROSALBA LOPEZ GONZALEZ",
+            "rfc": "LOGR610506AH1",
+            "percepciones": 1435534.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELENA IRENE AGUILAR",
+            "rfc": "IEAE590416RQ8",
+            "percepciones": 942267.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 682416.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL JUAN FELIPE ANDRES DE LA LANZA GRACIDA CEPEDA",
+            "rfc": "LACR480116AGA",
+            "percepciones": 662976.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES REYES RODRIGUEZ",
+            "rfc": "RERL5802047D9",
+            "percepciones": 662916.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCERO ROJAS KAUFFMANN",
+            "rfc": "ROKL600517921",
+            "percepciones": 662916.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA MARIA GUADALUPE SALGADO LEON",
+            "rfc": "SALL540804LD9",
+            "percepciones": 662800.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR DE MARIA GUTIERREZ MACAL",
+            "rfc": "GUMF640510NG5",
+            "percepciones": 660576.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISAAC PEDRO SUAREZ ROSAS",
+            "rfc": "SURI530603212",
+            "percepciones": 656946.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN RUBEN CAMARILLO SOLIS",
+            "rfc": "CASJ551227S68",
+            "percepciones": 627637.73,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ROSALBA LOPEZ GONZALEZ",
+            "rfc": "LOGR610506AH1",
+            "percepciones": 1435534.36
+          },
+          "min": {
+            "nombre": "BEATRIZ JIMENEZ BUSTOS",
+            "rfc": "JIBB800719335",
+            "percepciones": 1332.95
+          }
+        },
+        "total": 50664
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 73,
+        "1,000 - 10,000": 4934,
+        "10,000 - 50,000": 8649,
+        "50,000 - 100,000": 33596,
+        "100,000 - 250,000": 10231,
+        "250,000 - 500,000": 700,
+        "500,000 - 1,000,000": 33,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 42225,
+        "2 plazas": 2632,
+        "3 plazas": 1332,
+        "4 plazas": 1210,
+        "5 plazas": 977,
+        "6 o más plazas": 2288
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 132204666.31000021,
+            "plazas": 4665
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 101837387.87000026,
+            "plazas": 1270
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 87872785.84000018,
+            "plazas": 1197
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 82313093.42000002,
+            "plazas": 1193
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 69280876.47000009,
+            "plazas": 885
+          },
+          {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL",
+            "percepciones": 49403693.03999998,
+            "plazas": 342
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 47198960.82000001,
+            "plazas": 559
+          },
+          {
+            "nombre": "LICENCIADO BENITO JUAREZ",
+            "percepciones": 44678619.39000001,
+            "plazas": 647
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 41900295.32000004,
+            "plazas": 835
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 39236549.45999998,
+            "plazas": 525
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 132204666.31000054
+          },
+          "min": {
+            "nombre": "JOSE RAFAEL HERNANDEZ",
+            "percepciones": 17595.0
+          }
+        },
+        "total": 2593
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 531413.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL JUAN FELIPE ANDRES DE LA LANZA GRACIDA CEPEDA",
+            "rfc": "LACR480116AGA",
+            "percepciones": 517714.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES REYES RODRIGUEZ",
+            "rfc": "RERL5802047D9",
+            "percepciones": 517653.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCERO ROJAS KAUFFMANN",
+            "rfc": "ROKL600517921",
+            "percepciones": 517653.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA MARIA GUADALUPE SALGADO LEON",
+            "rfc": "SALL540804LD9",
+            "percepciones": 517537.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR DE MARIA GUTIERREZ MACAL",
+            "rfc": "GUMF640510NG5",
+            "percepciones": 515313.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISAAC PEDRO SUAREZ ROSAS",
+            "rfc": "SURI530603212",
+            "percepciones": 513430.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN RUBEN CAMARILLO SOLIS",
+            "rfc": "CASJ551227S68",
+            "percepciones": 490409.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALBERTO ROMERO HERNANDEZ",
+            "rfc": "ROHA580807P31",
+            "percepciones": 477343.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EMMA GUADALUPE MENDOZA RAMIREZ",
+            "rfc": "MERE601212U59",
+            "percepciones": 477343.63,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 531413.78
+          },
+          "min": {
+            "nombre": "EMMANUEL BLANCO CENTENO",
+            "rfc": "BACE910929479",
+            "percepciones": 2864.69
+          }
+        },
+        "total": 50260
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 9,
+        "1,000 - 10,000": 5360,
+        "10,000 - 50,000": 7334,
+        "50,000 - 100,000": 36515,
+        "100,000 - 250,000": 8078,
+        "250,000 - 500,000": 415,
+        "500,000 - 1,000,000": 7
+      },
+      "distribucion_plazas": {
+        "1 plaza": 42458,
+        "2 plazas": 2051,
+        "3 plazas": 1301,
+        "4 plazas": 1203,
+        "5 plazas": 970,
+        "6 o más plazas": 2277
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 137955276.8399987,
+            "plazas": 4686
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 111467058.91999954,
+            "plazas": 1273
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 96538748.90999956,
+            "plazas": 1202
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 89844062.84999968,
+            "plazas": 1198
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 75758504.61999962,
+            "plazas": 884
+          },
+          {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL",
+            "percepciones": 54899391.150000006,
+            "plazas": 344
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 51149831.18999999,
+            "plazas": 561
+          },
+          {
+            "nombre": "LICENCIADO BENITO JUAREZ",
+            "percepciones": 49534377.83999996,
+            "plazas": 651
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 46760595.11999999,
+            "plazas": 835
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS",
+            "percepciones": 43088196.72999997,
+            "plazas": 499
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 137955276.84000075
+          },
+          "min": {
+            "nombre": "JOSE RAFAEL HERNANDEZ",
+            "percepciones": 4315.08
+          }
+        },
+        "total": 2593
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 560038.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL JUAN FELIPE ANDRES DE LA LANZA GRACIDA CEPEDA",
+            "rfc": "LACR480116AGA",
+            "percepciones": 546896.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES REYES RODRIGUEZ",
+            "rfc": "RERL5802047D9",
+            "percepciones": 546828.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCERO ROJAS KAUFFMANN",
+            "rfc": "ROKL600517921",
+            "percepciones": 546828.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA MARIA GUADALUPE SALGADO LEON",
+            "rfc": "SALL540804LD9",
+            "percepciones": 546711.93,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR DE MARIA GUTIERREZ MACAL",
+            "rfc": "GUMF640510NG5",
+            "percepciones": 544488.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISAAC PEDRO SUAREZ ROSAS",
+            "rfc": "SURI530603212",
+            "percepciones": 541954.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN RUBEN CAMARILLO SOLIS",
+            "rfc": "CASJ551227S68",
+            "percepciones": 518467.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALBERTO ROMERO HERNANDEZ",
+            "rfc": "ROHA580807P31",
+            "percepciones": 502433.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA EMMA GUADALUPE MENDOZA RAMIREZ",
+            "rfc": "MERE601212U59",
+            "percepciones": 502433.38,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 560038.85
+          },
+          "min": {
+            "nombre": "ALICIA GUERRERO HERNANDEZ",
+            "rfc": "GUHA810715TFA",
+            "percepciones": 364.76
+          }
+        },
+        "total": 50319
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 217,
+        "1,000 - 10,000": 5895,
+        "10,000 - 50,000": 8179,
+        "50,000 - 100,000": 33076,
+        "100,000 - 250,000": 10574,
+        "250,000 - 500,000": 484,
+        "500,000 - 1,000,000": 10
+      },
+      "distribucion_plazas": {
+        "1 plaza": 42300,
+        "2 plazas": 2178,
+        "3 plazas": 1304,
+        "4 plazas": 1219,
+        "5 plazas": 983,
+        "6 o más plazas": 2335
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 187610703.84000227,
+            "plazas": 4732
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 140672913.47,
+            "plazas": 1306
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 123336998.48999989,
+            "plazas": 1251
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 114474840.87999994,
+            "plazas": 1232
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 94998053.07000005,
+            "plazas": 907
+          },
+          {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL",
+            "percepciones": 72184819.70999983,
+            "plazas": 345
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 65393537.73000006,
+            "plazas": 580
+          },
+          {
+            "nombre": "LICENCIADO BENITO JUAREZ",
+            "percepciones": 61801826.889999986,
+            "plazas": 671
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 58876099.97999998,
+            "plazas": 854
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 54846296.66000007,
+            "plazas": 540
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 187610703.8400006
+          },
+          "min": {
+            "nombre": "CENTRO DE MAESTROS DE TEZIUTLAN",
+            "percepciones": 1926.7
+          }
+        },
+        "total": 2606
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MARIA AUXILIO BERMUDEZ CARRILLO",
+            "rfc": "BECA400125QX6",
+            "percepciones": 1234679.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 804815.41,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL JUAN FELIPE ANDRES DE LA LANZA GRACIDA CEPEDA",
+            "rfc": "LACR480116AGA",
+            "percepciones": 793187.25,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCERO ROJAS KAUFFMANN",
+            "rfc": "ROKL600517921",
+            "percepciones": 793124.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES REYES RODRIGUEZ",
+            "rfc": "RERL5802047D9",
+            "percepciones": 793124.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA MARIA GUADALUPE SALGADO LEON",
+            "rfc": "SALL540804LD9",
+            "percepciones": 793007.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR DE MARIA GUTIERREZ MACAL",
+            "rfc": "GUMF640510NG5",
+            "percepciones": 790784.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISAAC PEDRO SUAREZ ROSAS",
+            "rfc": "SURI530603212",
+            "percepciones": 781359.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN RUBEN CAMARILLO SOLIS",
+            "rfc": "CASJ551227S68",
+            "percepciones": 750347.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALBERTO ROMERO HERNANDEZ",
+            "rfc": "ROHA580807P31",
+            "percepciones": 720606.3,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MARIA AUXILIO BERMUDEZ CARRILLO",
+            "rfc": "BECA400125QX6",
+            "percepciones": 1234679.35
+          },
+          "min": {
+            "nombre": "GUADALUPE GODOS SALGADO",
+            "rfc": "GOSG9204305Q7",
+            "percepciones": 141.46
+          }
+        },
+        "total": 52764
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 399,
+        "1,000 - 10,000": 5558,
+        "10,000 - 50,000": 9086,
+        "50,000 - 100,000": 28965,
+        "100,000 - 250,000": 15651,
+        "250,000 - 500,000": 1542,
+        "500,000 - 1,000,000": 91,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 43488,
+        "2 plazas": 3064,
+        "3 plazas": 1435,
+        "4 plazas": 1292,
+        "5 plazas": 1011,
+        "6 o más plazas": 2474
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 187443755.48000038,
+            "plazas": 4689
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 140523429.0600006,
+            "plazas": 1280
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 121458643.16000015,
+            "plazas": 1200
+          },
+          {
+            "nombre": "IGNACIO ZARAGOZA",
+            "percepciones": 113791125.74000007,
+            "plazas": 1203
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 95065209.75000025,
+            "plazas": 886
+          },
+          {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION PRIMARIA GENERAL",
+            "percepciones": 70712519.07000004,
+            "plazas": 341
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 65225376.519999914,
+            "plazas": 567
+          },
+          {
+            "nombre": "LICENCIADO BENITO JUAREZ",
+            "percepciones": 59569804.25999995,
+            "plazas": 642
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 57293989.970000036,
+            "plazas": 831
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS",
+            "percepciones": 54474844.91999989,
+            "plazas": 503
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 187443755.48000067
+          },
+          "min": {
+            "nombre": "JEFATURA DE SECTOR DE EDUCACION SECUNDARIA TECNICA",
+            "percepciones": 5659.37
+          }
+        },
+        "total": 2606
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE GUADALUPE VIVEROS VALERA",
+            "rfc": "VIVG490418PM6",
+            "percepciones": 842006.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "PORFIRIO ORTIZ LINO",
+            "rfc": "OILP620910TR2",
+            "percepciones": 833594.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL JUAN FELIPE ANDRES DE LA LANZA GRACIDA CEPEDA",
+            "rfc": "LACR480116AGA",
+            "percepciones": 818581.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCERO ROJAS KAUFFMANN",
+            "rfc": "ROKL600517921",
+            "percepciones": 818508.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES REYES RODRIGUEZ",
+            "rfc": "RERL5802047D9",
+            "percepciones": 818508.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA MARIA GUADALUPE SALGADO LEON",
+            "rfc": "SALL540804LD9",
+            "percepciones": 818372.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR DE MARIA GUTIERREZ MACAL",
+            "rfc": "GUMF640510NG5",
+            "percepciones": 815778.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISAAC PEDRO SUAREZ ROSAS",
+            "rfc": "SURI530603212",
+            "percepciones": 811140.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN RUBEN CAMARILLO SOLIS",
+            "rfc": "CASJ551227S68",
+            "percepciones": 774867.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALBERTO ROMERO HERNANDEZ",
+            "rfc": "ROHA580807P31",
+            "percepciones": 743082.92,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE GUADALUPE VIVEROS VALERA",
+            "rfc": "VIVG490418PM6",
+            "percepciones": 842006.03
+          },
+          "min": {
+            "nombre": "MAYRA CELENE BARAJAS NAVA",
+            "rfc": "BANM731028RZ6",
+            "percepciones": 593.29
+          }
+        },
+        "total": 50849
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 173,
+        "1,000 - 10,000": 4799,
+        "10,000 - 50,000": 7613,
+        "50,000 - 100,000": 28964,
+        "100,000 - 250,000": 15559,
+        "250,000 - 500,000": 1441,
+        "500,000 - 1,000,000": 98
+      },
+      "distribucion_plazas": {
+        "1 plaza": 42585,
+        "2 plazas": 2412,
+        "3 plazas": 1295,
+        "4 plazas": 1228,
+        "5 plazas": 976,
+        "6 o más plazas": 2353
+      }
+    }
+  }
+}

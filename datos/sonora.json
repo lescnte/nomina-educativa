@@ -1,0 +1,812 @@
+{
+  "entidad_federativa": "SONORA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 71718570.67000006,
+            "plazas": 855
+          },
+          {
+            "nombre": "CENTRO DE EDUCACION FISICA",
+            "percepciones": 67536045.67000002,
+            "plazas": 1545
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 26844244.94000001,
+            "plazas": 686
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 22975384.71000004,
+            "plazas": 388
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 19747197.64000001,
+            "plazas": 446
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 17672016.199999984,
+            "plazas": 417
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 16498121.880000012,
+            "plazas": 316
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 16174632.720000006,
+            "plazas": 359
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15377967.969999986,
+            "plazas": 181
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 15069917.379999997,
+            "plazas": 169
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 71718570.66999991
+          },
+          "min": {
+            "nombre": "IGNACIO CORONADO MARTINEZ",
+            "percepciones": 5104.58
+          }
+        },
+        "total": 1875
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 866234.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 866234.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 866234.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELSA RODRIGUEZ RIVERA",
+            "rfc": "RORE570907GU3",
+            "percepciones": 806356.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 805112.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL RODRIGUEZ BARRERAS",
+            "rfc": "ROBV6107288V3",
+            "percepciones": 805112.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAQUEL BAEZ DURAN",
+            "rfc": "BADR491014RB7",
+            "percepciones": 805112.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILDARDO GARCIA PERAZA",
+            "rfc": "GAPG570622JZ9",
+            "percepciones": 805112.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICRUZ GONZALEZ HERRERA",
+            "rfc": "GOHM690414P29",
+            "percepciones": 790477.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROLANDO MEDINA AYALA",
+            "rfc": "MEAX660412Q92",
+            "percepciones": 784124.53,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 866234.34
+          },
+          "min": {
+            "nombre": "CARLOS SOSA CASTAÑEDA",
+            "rfc": "SOCC850217AX4",
+            "percepciones": 227.7
+          }
+        },
+        "total": 23156
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 488,
+        "1,000 - 10,000": 4046,
+        "10,000 - 50,000": 6336,
+        "50,000 - 100,000": 14918,
+        "100,000 - 250,000": 4084,
+        "250,000 - 500,000": 593,
+        "500,000 - 1,000,000": 131
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15524,
+        "2 plazas": 3373,
+        "3 plazas": 803,
+        "4 plazas": 563,
+        "5 plazas": 511,
+        "6 o más plazas": 2382
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 52959054.39999996,
+            "plazas": 827
+          },
+          {
+            "nombre": "CENTRO DE EDUCACION FISICA",
+            "percepciones": 51138824.64999999,
+            "plazas": 1497
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 19788748.08999998,
+            "plazas": 657
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 17057596.889999993,
+            "plazas": 371
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 14576905.820000004,
+            "plazas": 438
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 12855230.650000013,
+            "plazas": 389
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 12020911.310000015,
+            "plazas": 309
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 11448484.580000006,
+            "plazas": 316
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 10888173.550000004,
+            "plazas": 174
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 10834063.739999998,
+            "plazas": 162
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 52959054.399999976
+          },
+          "min": {
+            "nombre": "NAUTE TEQUIPANOANAKE",
+            "percepciones": 35401.6
+          }
+        },
+        "total": 1877
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 650552.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 650552.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 650552.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARICRUZ GONZALEZ HERRERA",
+            "rfc": "GOHM690414P29",
+            "percepciones": 642344.68,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELSA RODRIGUEZ RIVERA",
+            "rfc": "RORE570907GU3",
+            "percepciones": 615226.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAQUEL BAEZ DURAN",
+            "rfc": "BADR491014RB7",
+            "percepciones": 614190.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL RODRIGUEZ BARRERAS",
+            "rfc": "ROBV6107288V3",
+            "percepciones": 614190.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 614190.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILDARDO GARCIA PERAZA",
+            "rfc": "GAPG570622JZ9",
+            "percepciones": 614190.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROLANDO MEDINA AYALA",
+            "rfc": "MEAX660412Q92",
+            "percepciones": 594209.19,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 650552.23
+          },
+          "min": {
+            "nombre": "RUTH ESCALANTE MALDONADO",
+            "rfc": "EAMR640115AH7",
+            "percepciones": 4.95
+          }
+        },
+        "total": 21927
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 96,
+        "1,000 - 10,000": 3217,
+        "10,000 - 50,000": 9928,
+        "50,000 - 100,000": 11147,
+        "100,000 - 250,000": 2016,
+        "250,000 - 500,000": 378,
+        "500,000 - 1,000,000": 21
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16137,
+        "2 plazas": 2265,
+        "3 plazas": 510,
+        "4 plazas": 475,
+        "5 plazas": 478,
+        "6 o más plazas": 2062
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 67164655.77000006,
+            "plazas": 827
+          },
+          {
+            "nombre": "CENTRO DE EDUCACION FISICA",
+            "percepciones": 63719581.180000074,
+            "plazas": 1524
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 24718668.960000075,
+            "plazas": 656
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 21865380.489999995,
+            "plazas": 371
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 18309865.160000023,
+            "plazas": 430
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 16643989.509999996,
+            "plazas": 395
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15570839.409999995,
+            "plazas": 316
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 14601926.300000003,
+            "plazas": 175
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 14478105.58999999,
+            "plazas": 332
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 14205637.11000001,
+            "plazas": 163
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 67164655.77000004
+          },
+          "min": {
+            "nombre": "DIRECCIÓN GENERAL DE CONTROL DE NÓMINA DE LOS ORGANISMOS",
+            "percepciones": 16859.38
+          }
+        },
+        "total": 1879
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 780592.81,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 780336.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 780336.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUCRECIA PEÑALOZA AGUILAR",
+            "rfc": "PEAL651021T2A",
+            "percepciones": 751302.38,
+            "plazas": 2
+          },
+          {
+            "nombre": "ELSA RODRIGUEZ RIVERA",
+            "rfc": "RORE570907GU3",
+            "percepciones": 734572.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAQUEL BAEZ DURAN",
+            "rfc": "BADR491014RB7",
+            "percepciones": 733329.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 733329.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILDARDO GARCIA PERAZA",
+            "rfc": "GAPG570622JZ9",
+            "percepciones": 733329.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL RODRIGUEZ BARRERAS",
+            "rfc": "ROBV6107288V3",
+            "percepciones": 733329.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROLANDO MEDINA AYALA",
+            "rfc": "MEAX660412Q92",
+            "percepciones": 716406.9,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 780592.81
+          },
+          "min": {
+            "nombre": "ZAYRA CRISTINA QUINTERO ESPINOZA",
+            "rfc": "QUEZ9209017T1",
+            "percepciones": 205.21
+          }
+        },
+        "total": 22156
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 402,
+        "1,000 - 10,000": 3248,
+        "10,000 - 50,000": 5926,
+        "50,000 - 100,000": 13893,
+        "100,000 - 250,000": 3812,
+        "250,000 - 500,000": 550,
+        "500,000 - 1,000,000": 80
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15950,
+        "2 plazas": 2574,
+        "3 plazas": 546,
+        "4 plazas": 486,
+        "5 plazas": 484,
+        "6 o más plazas": 2116
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 92004565.61999996,
+            "plazas": 844
+          },
+          {
+            "nombre": "CENTRO DE EDUCACION FISICA",
+            "percepciones": 80539986.10999972,
+            "plazas": 1478
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 33360255.119999982,
+            "plazas": 662
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 29629295.789999973,
+            "plazas": 372
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 24149961.13000002,
+            "plazas": 440
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 22791506.059999995,
+            "plazas": 397
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 20935097.99999998,
+            "plazas": 310
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 19633226.439999994,
+            "plazas": 327
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 18900926.919999998,
+            "plazas": 173
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE ADMINISTRACI0N Y FINANZAS",
+            "percepciones": 18162016.859999992,
+            "plazas": 155
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 92004565.62000003
+          },
+          "min": {
+            "nombre": "JOSE CLEMENTE OROZCO",
+            "percepciones": 18418.16
+          }
+        },
+        "total": 1873
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 1060335.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 1055798.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 1055798.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 1052095.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL RODRIGUEZ BARRERAS",
+            "rfc": "ROBV6107288V3",
+            "percepciones": 992484.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAQUEL BAEZ DURAN",
+            "rfc": "BADR491014RB7",
+            "percepciones": 992484.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELSA RODRIGUEZ RIVERA",
+            "rfc": "RORE570907GU3",
+            "percepciones": 990232.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILDARDO GARCIA PERAZA",
+            "rfc": "GAPG570622JZ9",
+            "percepciones": 988781.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROLANDO MEDINA AYALA",
+            "rfc": "MEAX660412Q92",
+            "percepciones": 964927.9,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR ANTONIO ANDRADE VALENZUELA",
+            "rfc": "AAVV600506J61",
+            "percepciones": 940744.92,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 1060335.16
+          },
+          "min": {
+            "nombre": "GUSTAVO CASTAÑEDA HERNANDEZ",
+            "rfc": "CAHG650101SU4",
+            "percepciones": 750.08
+          }
+        },
+        "total": 23016
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 296,
+        "1,000 - 10,000": 3394,
+        "10,000 - 50,000": 5870,
+        "50,000 - 100,000": 11353,
+        "100,000 - 250,000": 8060,
+        "250,000 - 500,000": 899,
+        "500,000 - 1,000,000": 226,
+        "Mayor a 1,000,000": 4
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15839,
+        "2 plazas": 3165,
+        "3 plazas": 616,
+        "4 plazas": 526,
+        "5 plazas": 513,
+        "6 o más plazas": 2357
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 77197110.20999989,
+            "plazas": 826
+          },
+          {
+            "nombre": "CENTRO DE EDUCACION FISICA",
+            "percepciones": 70414703.63000013,
+            "plazas": 1481
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 28457179.190000035,
+            "plazas": 654
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 24576561.92999997,
+            "plazas": 359
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 21073409.820000008,
+            "plazas": 436
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 19005226.16999999,
+            "plazas": 395
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 17632678.050000016,
+            "plazas": 309
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 16393734.68999998,
+            "plazas": 329
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 16053175.530000005,
+            "plazas": 177
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 15637649.109999998,
+            "plazas": 161
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 77197110.21000007
+          },
+          "min": {
+            "nombre": "JIAK SEWA",
+            "percepciones": 6548.54
+          }
+        },
+        "total": 1876
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LAURA ELENA ESQUER RODRIGUEZ",
+            "rfc": "EURL680510AWA",
+            "percepciones": 1762053.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE GUADALUPE ACOSTA GARCIA",
+            "rfc": "AOGJ640101166",
+            "percepciones": 960780.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDA ALICIA ARAGON ROMERO",
+            "rfc": "AARF640518MU1",
+            "percepciones": 960780.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL REAL RAMIREZ",
+            "rfc": "RERM5711237JA",
+            "percepciones": 960780.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "DOLORES VEGA VALDEZ",
+            "rfc": "VEVD5906283W6",
+            "percepciones": 951040.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELSA RODRIGUEZ RIVERA",
+            "rfc": "RORE570907GU3",
+            "percepciones": 906015.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL RODRIGUEZ BARRERAS",
+            "rfc": "ROBV6107288V3",
+            "percepciones": 904772.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILDARDO GARCIA PERAZA",
+            "rfc": "GAPG570622JZ9",
+            "percepciones": 904772.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAQUEL BAEZ DURAN",
+            "rfc": "BADR491014RB7",
+            "percepciones": 904772.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROLANDO MEDINA AYALA",
+            "rfc": "MEAX660412Q92",
+            "percepciones": 879532.65,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LAURA ELENA ESQUER RODRIGUEZ",
+            "rfc": "EURL680510AWA",
+            "percepciones": 1762053.27
+          },
+          "min": {
+            "nombre": "JOSSELYN FLORES LEYVA",
+            "rfc": "FOLJ001016UD7",
+            "percepciones": 225.94
+          }
+        },
+        "total": 22269
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 188,
+        "1,000 - 10,000": 3232,
+        "10,000 - 50,000": 4926,
+        "50,000 - 100,000": 14145,
+        "100,000 - 250,000": 4883,
+        "250,000 - 500,000": 701,
+        "500,000 - 1,000,000": 166,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15978,
+        "2 plazas": 2582,
+        "3 plazas": 593,
+        "4 plazas": 511,
+        "5 plazas": 468,
+        "6 o más plazas": 2137
+      }
+    }
+  }
+}

@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "QUINTANA ROO",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 57527222.56999976,
+            "plazas": 1095
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 41393365.609999865,
+            "plazas": 1323
+          },
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 39351896.11999995,
+            "plazas": 421
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 29246350.349999838,
+            "plazas": 716
+          },
+          {
+            "nombre": "ANDRES QUINTANA ROO",
+            "percepciones": 22799698.459999993,
+            "plazas": 597
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 17607839.690000013,
+            "plazas": 460
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 15901515.54000003,
+            "plazas": 360
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15695087.209999995,
+            "plazas": 383
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL JAVIER ROJO GOMEZ",
+            "percepciones": 15517111.040000003,
+            "plazas": 87
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 14408525.62000002,
+            "plazas": 425
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 57527222.56999998
+          },
+          "min": {
+            "nombre": "DIEZ DE MAYO",
+            "percepciones": 12844.16
+          }
+        },
+        "total": 1043
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GONZALO HERRERA PINZON",
+            "rfc": "HEPG5911206C6",
+            "percepciones": 2097730.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA DE JESUS AVILA CHI",
+            "rfc": "AICA530830R76",
+            "percepciones": 899514.49,
+            "plazas": 2
+          },
+          {
+            "nombre": "ELSY MARIA FARFAN VELA",
+            "rfc": "FAVE531030UMA",
+            "percepciones": 786721.51,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FELICIANO POOT ALVAREZ",
+            "rfc": "POAF711113ES1",
+            "percepciones": 758603.26,
+            "plazas": 2
+          },
+          {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 687476.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 685455.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELICIANO DE JESUS MEDINA MATOS",
+            "rfc": "MEMF5606111R2",
+            "percepciones": 683161.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDMUNDO CORAL LIZAMA",
+            "rfc": "COLE5607276ZA",
+            "percepciones": 683161.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMO ALONSO ESPINOZA",
+            "rfc": "AOEG5607102D8",
+            "percepciones": 682913.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ANTONIO PINTO ACEVEDO",
+            "rfc": "PIAJ560614IGA",
+            "percepciones": 682913.01,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GONZALO HERRERA PINZON",
+            "rfc": "HEPG5911206C6",
+            "percepciones": 2097730.2
+          },
+          "min": {
+            "nombre": "ARACELI MALDONADO MARTINEZ",
+            "rfc": "MAMA6708283F3",
+            "percepciones": 195.1
+          }
+        },
+        "total": 16699
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 269,
+        "1,000 - 10,000": 2604,
+        "10,000 - 50,000": 3542,
+        "50,000 - 100,000": 10518,
+        "100,000 - 250,000": 2942,
+        "250,000 - 500,000": 321,
+        "500,000 - 1,000,000": 30,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12083,
+        "2 plazas": 1775,
+        "3 plazas": 568,
+        "4 plazas": 442,
+        "5 plazas": 359,
+        "6 o más plazas": 1472
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 51702863.35999991,
+            "plazas": 1113
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 37328301.67999994,
+            "plazas": 1332
+          },
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 36283870.77000003,
+            "plazas": 420
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 25878624.34999997,
+            "plazas": 712
+          },
+          {
+            "nombre": "ANDRES QUINTANA ROO",
+            "percepciones": 20673002.97000003,
+            "plazas": 600
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 16151957.969999982,
+            "plazas": 466
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 14030306.890000014,
+            "plazas": 357
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 13642779.689999986,
+            "plazas": 371
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 12923306.60000003,
+            "plazas": 426
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 11841669.359999992,
+            "plazas": 214
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 51702863.35999997
+          },
+          "min": {
+            "nombre": "NUEVA CREACIÓN SECUNDARIA TÉCNICA (ALDEA TULUM)",
+            "percepciones": 15178.32
+          }
+        },
+        "total": 1043
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 600850.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 599117.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELICIANO DE JESUS MEDINA MATOS",
+            "rfc": "MEMF5606111R2",
+            "percepciones": 598523.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDMUNDO CORAL LIZAMA",
+            "rfc": "COLE5607276ZA",
+            "percepciones": 598523.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMO ALONSO ESPINOZA",
+            "rfc": "AOEG5607102D8",
+            "percepciones": 598308.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ANTONIO PINTO ACEVEDO",
+            "rfc": "PIAJ560614IGA",
+            "percepciones": 598308.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL HERNANDEZ DURAN",
+            "rfc": "HEDV5701182T5",
+            "percepciones": 598308.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO JUAN SANDOVAL GARCIA",
+            "rfc": "SAGG570508234",
+            "percepciones": 598152.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO CELESTINO CONRADO SANTIAGO",
+            "rfc": "COSP5806208A9",
+            "percepciones": 565113.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "LORENA NOEMI EK CAN",
+            "rfc": "ECLO610705GI8",
+            "percepciones": 550624.62,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 600850.88
+          },
+          "min": {
+            "nombre": "SULIANA VIOLETA LOPEZ GOMEZ",
+            "rfc": "LOGS840919Q44",
+            "percepciones": 587.66
+          }
+        },
+        "total": 15928
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 3,
+        "1,000 - 10,000": 2217,
+        "10,000 - 50,000": 3001,
+        "50,000 - 100,000": 10639,
+        "100,000 - 250,000": 2890,
+        "250,000 - 500,000": 260,
+        "500,000 - 1,000,000": 16
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12081,
+        "2 plazas": 1320,
+        "3 plazas": 483,
+        "4 plazas": 416,
+        "5 plazas": 330,
+        "6 o más plazas": 1298
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 53757593.62999999,
+            "plazas": 1053
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 42430985.09999982,
+            "plazas": 1346
+          },
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 39463153.86999998,
+            "plazas": 416
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 29419197.390000004,
+            "plazas": 695
+          },
+          {
+            "nombre": "ANDRES QUINTANA ROO",
+            "percepciones": 23594741.68000001,
+            "plazas": 606
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 18507870.909999993,
+            "plazas": 483
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 16042061.550000008,
+            "plazas": 362
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15289105.740000008,
+            "plazas": 370
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 14937783.05999997,
+            "plazas": 428
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 13859463.960000003,
+            "plazas": 227
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 53757593.62999997
+          },
+          "min": {
+            "nombre": "SUPERVISION DE PRIMARIA GENERAL NUM. 053",
+            "percepciones": 5015.55
+          }
+        },
+        "total": 1036
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 660281.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 658773.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDMUNDO CORAL LIZAMA",
+            "rfc": "COLE5607276ZA",
+            "percepciones": 657942.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELICIANO DE JESUS MEDINA MATOS",
+            "rfc": "MEMF5606111R2",
+            "percepciones": 657942.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMO ALONSO ESPINOZA",
+            "rfc": "AOEG5607102D8",
+            "percepciones": 657738.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL HERNANDEZ DURAN",
+            "rfc": "HEDV5701182T5",
+            "percepciones": 657738.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ANTONIO PINTO ACEVEDO",
+            "rfc": "PIAJ560614IGA",
+            "percepciones": 657738.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO JUAN SANDOVAL GARCIA",
+            "rfc": "SAGG570508234",
+            "percepciones": 657591.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO CELESTINO CONRADO SANTIAGO",
+            "rfc": "COSP5806208A9",
+            "percepciones": 620382.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "LORENA NOEMI EK CAN",
+            "rfc": "ECLO610705GI8",
+            "percepciones": 605726.78,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 660281.55
+          },
+          "min": {
+            "nombre": "ANGEL IVAN MUGARTEGUI FERNANDEZ",
+            "rfc": "MUFA980207EA7",
+            "percepciones": 113.3
+          }
+        },
+        "total": 16139
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 220,
+        "1,000 - 10,000": 2012,
+        "10,000 - 50,000": 3133,
+        "50,000 - 100,000": 10026,
+        "100,000 - 250,000": 3318,
+        "250,000 - 500,000": 279,
+        "500,000 - 1,000,000": 17
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12125,
+        "2 plazas": 1434,
+        "3 plazas": 495,
+        "4 plazas": 418,
+        "5 plazas": 339,
+        "6 o más plazas": 1328
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 68669765.54000011,
+            "plazas": 1145
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 49694964.78999993,
+            "plazas": 1340
+          },
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 48832699.04000001,
+            "plazas": 423
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 33763715.969999954,
+            "plazas": 695
+          },
+          {
+            "nombre": "ANDRES QUINTANA ROO",
+            "percepciones": 28059476.920000028,
+            "plazas": 605
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 21556196.410000004,
+            "plazas": 474
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL JAVIER ROJO GOMEZ",
+            "percepciones": 19242377.340000007,
+            "plazas": 84
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 19026095.18999999,
+            "plazas": 370
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 18361423.650000013,
+            "plazas": 376
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 17736564.260000013,
+            "plazas": 431
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 68669765.54000008
+          },
+          "min": {
+            "nombre": "DEPARTAMENTO DE CONTROL Y SEGUIMIENTO DE LOS PROGRAMAS DE INVERSION EN INFRAESTRUCTURA EDUCATIVA",
+            "percepciones": 41085.1
+          }
+        },
+        "total": 1047
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 788559.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 784420.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDMUNDO CORAL LIZAMA",
+            "rfc": "COLE5607276ZA",
+            "percepciones": 782137.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELICIANO DE JESUS MEDINA MATOS",
+            "rfc": "MEMF5606111R2",
+            "percepciones": 782137.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL HERNANDEZ DURAN",
+            "rfc": "HEDV5701182T5",
+            "percepciones": 781877.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMO ALONSO ESPINOZA",
+            "rfc": "AOEG5607102D8",
+            "percepciones": 781877.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ANTONIO PINTO ACEVEDO",
+            "rfc": "PIAJ560614IGA",
+            "percepciones": 781877.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO JUAN SANDOVAL GARCIA",
+            "rfc": "SAGG570508234",
+            "percepciones": 781689.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUZ MARIA ABUXAPQUI GONZALEZ",
+            "rfc": "AUGL580329F48",
+            "percepciones": 753077.09,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO CELESTINO CONRADO SANTIAGO",
+            "rfc": "COSP5806208A9",
+            "percepciones": 738579.18,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 788559.44
+          },
+          "min": {
+            "nombre": "ANGEL IVAN MUGARTEGUI FERNANDEZ",
+            "rfc": "MUFA980207EA7",
+            "percepciones": 231.03
+          }
+        },
+        "total": 16486
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 157,
+        "1,000 - 10,000": 2078,
+        "10,000 - 50,000": 3227,
+        "50,000 - 100,000": 9073,
+        "100,000 - 250,000": 4532,
+        "250,000 - 500,000": 533,
+        "500,000 - 1,000,000": 52
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12149,
+        "2 plazas": 1609,
+        "3 plazas": 496,
+        "4 plazas": 433,
+        "5 plazas": 380,
+        "6 o más plazas": 1419
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 68620553.05999969,
+            "plazas": 1102
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 50496609.23999994,
+            "plazas": 1330
+          },
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 49226253.59,
+            "plazas": 419
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 34207594.12999999,
+            "plazas": 665
+          },
+          {
+            "nombre": "ANDRES QUINTANA ROO",
+            "percepciones": 28088419.84999991,
+            "plazas": 604
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 21718222.96999998,
+            "plazas": 467
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 18766765.22999998,
+            "plazas": 370
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 18397601.050000012,
+            "plazas": 376
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 17938478.429999955,
+            "plazas": 432
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15951123.270000005,
+            "plazas": 211
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 68620553.06000006
+          },
+          "min": {
+            "nombre": "DEPARTAMENTO DE CONTROL Y SEGUIMIENTO DE LOS PROGRAMAS DE INVERSION EN INFRAESTRUCTURA EDUCATIVA",
+            "percepciones": 8913.17
+          }
+        },
+        "total": 1047
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 866907.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGEL GABINO JASSO DE LEON",
+            "rfc": "JALA570531V7A",
+            "percepciones": 863953.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDMUNDO CORAL LIZAMA",
+            "rfc": "COLE5607276ZA",
+            "percepciones": 861280.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELICIANO DE JESUS MEDINA MATOS",
+            "rfc": "MEMF5606111R2",
+            "percepciones": 861280.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ANTONIO PINTO ACEVEDO",
+            "rfc": "PIAJ560614IGA",
+            "percepciones": 860986.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMO ALONSO ESPINOZA",
+            "rfc": "AOEG5607102D8",
+            "percepciones": 860986.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL HERNANDEZ DURAN",
+            "rfc": "HEDV5701182T5",
+            "percepciones": 860986.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO JUAN SANDOVAL GARCIA",
+            "rfc": "SAGG570508234",
+            "percepciones": 860774.13,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO CELESTINO CONRADO SANTIAGO",
+            "rfc": "COSP5806208A9",
+            "percepciones": 811896.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUILLERMA DILUVINA BARRERA CHI",
+            "rfc": "BACG590521DA6",
+            "percepciones": 753954.71,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LILIA CLARIBEL CAMPOS ZALDIVAR",
+            "rfc": "CAZL630720KG7",
+            "percepciones": 866907.04
+          },
+          "min": {
+            "nombre": "ADRIAN ALEJANDRO PECH AVILEZ",
+            "rfc": "PEAA9209085MA",
+            "percepciones": 162.01
+          }
+        },
+        "total": 16404
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 139,
+        "1,000 - 10,000": 2035,
+        "10,000 - 50,000": 3113,
+        "50,000 - 100,000": 9178,
+        "100,000 - 250,000": 4560,
+        "250,000 - 500,000": 538,
+        "500,000 - 1,000,000": 65
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12217,
+        "2 plazas": 1522,
+        "3 plazas": 506,
+        "4 plazas": 415,
+        "5 plazas": 375,
+        "6 o más plazas": 1369
+      }
+    }
+  }
+}

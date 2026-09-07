@@ -1,0 +1,810 @@
+{
+  "entidad_federativa": "TLAXCALA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 34788717.36000002,
+            "plazas": 601
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 32309915.15999996,
+            "plazas": 542
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 23715342.60999993,
+            "plazas": 517
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 21376363.72999996,
+            "plazas": 514
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 17876078.009999987,
+            "plazas": 334
+          },
+          {
+            "nombre": "XICOHTENCATL",
+            "percepciones": 17562517.349999968,
+            "plazas": 304
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 17359434.059999976,
+            "plazas": 295
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 16664978.579999981,
+            "plazas": 309
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 15747292.269999964,
+            "plazas": 441
+          },
+          {
+            "nombre": "MIGUEL N. LIRA",
+            "percepciones": 13708773.009999987,
+            "plazas": 397
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 34788717.36000001
+          },
+          "min": {
+            "nombre": "ANTONIO CARBAJAL",
+            "percepciones": 16795.47
+          }
+        },
+        "total": 966
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE PASCACIO OCTAVIANO LOPEZ CAVITA",
+            "rfc": "LOCP5902229EA",
+            "percepciones": 392252.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOB ZAGOYA CANO",
+            "rfc": "ZACJ6512198L3",
+            "percepciones": 385790.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN FLORES LOPEZ",
+            "rfc": "FOLM610521RN6",
+            "percepciones": 372613.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL CARMEN RODRIGUEZ TLACHI",
+            "rfc": "ROTC680707NN2",
+            "percepciones": 372075.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "SERGIO HERNANDEZ RAMOS",
+            "rfc": "HERS6609287M4",
+            "percepciones": 362511.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "EDITH PORTILLA ISLAS",
+            "rfc": "POIE450512IV8",
+            "percepciones": 354432.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDO ALFONSO CORTES FLORES",
+            "rfc": "COFF490627QP3",
+            "percepciones": 350746.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "DANIEL AHUATZI PINILLO",
+            "rfc": "AUPD671129QV0",
+            "percepciones": 337467.39999999997,
+            "plazas": 12
+          },
+          {
+            "nombre": "DORA MARCELINA RAMOS AGUIRRE",
+            "rfc": "RAAD650608TW3",
+            "percepciones": 336296.59,
+            "plazas": 3
+          },
+          {
+            "nombre": "ARMANDO ESPINOSA RAMOS",
+            "rfc": "EIRA650131MK3",
+            "percepciones": 335646.88,
+            "plazas": 10
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE PASCACIO OCTAVIANO LOPEZ CAVITA",
+            "rfc": "LOCP5902229EA",
+            "percepciones": 392252.63
+          },
+          "min": {
+            "nombre": "CARLOS MENDOZA MENESES",
+            "rfc": "MEMC890123JU4",
+            "percepciones": 42.55
+          }
+        },
+        "total": 18266
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 738,
+        "1,000 - 10,000": 3108,
+        "10,000 - 50,000": 4606,
+        "50,000 - 100,000": 12626,
+        "100,000 - 250,000": 1407,
+        "250,000 - 500,000": 95
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13490,
+        "2 plazas": 1475,
+        "3 plazas": 1007,
+        "4 plazas": 767,
+        "5 plazas": 517,
+        "6 o más plazas": 1010
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 32371473.539999705,
+            "plazas": 599
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 28108287.729999952,
+            "plazas": 535
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21002498.94999999,
+            "plazas": 506
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 18546152.19000007,
+            "plazas": 504
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 15527001.280000033,
+            "plazas": 300
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 15480355.570000023,
+            "plazas": 331
+          },
+          {
+            "nombre": "XICOHTENCATL",
+            "percepciones": 15412217.240000017,
+            "plazas": 300
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 14968818.170000024,
+            "plazas": 305
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 13370139.94000003,
+            "plazas": 423
+          },
+          {
+            "nombre": "MIGUEL N. LIRA",
+            "percepciones": 12326009.24000002,
+            "plazas": 391
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 32371473.54000003
+          },
+          "min": {
+            "nombre": "ANTONIO CARBAJAL",
+            "percepciones": 16046.57
+          }
+        },
+        "total": 969
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "CRUZ LUIS JAVIER CAMARILLO LOPEZ",
+            "rfc": "CALC570503PQ0",
+            "percepciones": 1898842.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILGAMES ZEMPOALTECA GONZALEZ",
+            "rfc": "ZEGG571230UMA",
+            "percepciones": 1710051.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "URBANO SANCHEZ VAZQUEZ",
+            "rfc": "SAVU5501249F9",
+            "percepciones": 593218.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDO ALFONSO CORTES FLORES",
+            "rfc": "COFF490627QP3",
+            "percepciones": 565563.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "LAURA GONZALEZ FLORES",
+            "rfc": "GOFL6409181C2",
+            "percepciones": 508256.83,
+            "plazas": 1
+          },
+          {
+            "nombre": "SARA ANGELICA PONCE ESCAMILLA",
+            "rfc": "POES610603J48",
+            "percepciones": 411417.33,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN FLORES LOPEZ",
+            "rfc": "FOLM610521RN6",
+            "percepciones": 372111.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "IGNACIO RAMIREZ HERNANDEZ",
+            "rfc": "RAHI6207222B3",
+            "percepciones": 355638.24,
+            "plazas": 1
+          },
+          {
+            "nombre": "DANIEL AHUATZI PINILLO",
+            "rfc": "AUPD671129QV0",
+            "percepciones": 339544.01000000007,
+            "plazas": 12
+          },
+          {
+            "nombre": "DORA MARCELINA RAMOS AGUIRRE",
+            "rfc": "RAAD650608TW3",
+            "percepciones": 336810.92000000004,
+            "plazas": 3
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CRUZ LUIS JAVIER CAMARILLO LOPEZ",
+            "rfc": "CALC570503PQ0",
+            "percepciones": 1898842.19
+          },
+          "min": {
+            "nombre": "OSVALDO VAZQUEZ GOMEZ",
+            "rfc": "VAGO870323EJ0",
+            "percepciones": 2664.08
+          }
+        },
+        "total": 17715
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 10,
+        "1,000 - 10,000": 3105,
+        "10,000 - 50,000": 4317,
+        "50,000 - 100,000": 12456,
+        "100,000 - 250,000": 1256,
+        "250,000 - 500,000": 72,
+        "500,000 - 1,000,000": 3,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13512,
+        "2 plazas": 1201,
+        "3 plazas": 909,
+        "4 plazas": 701,
+        "5 plazas": 483,
+        "6 o más plazas": 909
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 51738322.73999983,
+            "plazas": 600
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 43662961.55999996,
+            "plazas": 537
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 31869695.240000006,
+            "plazas": 506
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 29003655.779999927,
+            "plazas": 505
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 23999367.589999974,
+            "plazas": 299
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 23812365.020000003,
+            "plazas": 330
+          },
+          {
+            "nombre": "XICOHTENCATL",
+            "percepciones": 23464833.479999997,
+            "plazas": 299
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 22812983.759999976,
+            "plazas": 307
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 20623470.58000002,
+            "plazas": 430
+          },
+          {
+            "nombre": "MIGUEL N. LIRA",
+            "percepciones": 18852061.170000006,
+            "plazas": 391
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 51738322.74000003
+          },
+          "min": {
+            "nombre": "ANTONIO CARBAJAL",
+            "percepciones": 21729.730000000003
+          }
+        },
+        "total": 969
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JUAN CARLOS ESPINOSA PEÑA",
+            "rfc": "EIPJ730130LA2",
+            "percepciones": 569577.16,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA MAGDALENA VAZQUEZ VARGAS",
+            "rfc": "VAVM790522MK0",
+            "percepciones": 535228.59,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSE DE LA LUZ SANCHEZ TEPATZI",
+            "rfc": "SATL6405138H4",
+            "percepciones": 523537.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOB ZAGOYA CANO",
+            "rfc": "ZACJ6512198L3",
+            "percepciones": 504458.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN FLORES LOPEZ",
+            "rfc": "FOLM610521RN6",
+            "percepciones": 491871.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "NACHLLIERY PEREZ SOBERANIZ",
+            "rfc": "PESN800806CS5",
+            "percepciones": 490261.58,
+            "plazas": 2
+          },
+          {
+            "nombre": "MELINA CANO CORONA",
+            "rfc": "CACM780414N27",
+            "percepciones": 464869.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "DANIEL AHUATZI PINILLO",
+            "rfc": "AUPD671129QV0",
+            "percepciones": 449382.2900000001,
+            "plazas": 12
+          },
+          {
+            "nombre": "PALOMA DOLORES ORTIZ ALARCON",
+            "rfc": "OIAP7903064U4",
+            "percepciones": 444788.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO ESPINOSA RAMOS",
+            "rfc": "EIRA650131MK3",
+            "percepciones": 444479.43000000005,
+            "plazas": 10
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JUAN CARLOS ESPINOSA PEÑA",
+            "rfc": "EIPJ730130LA2",
+            "percepciones": 569577.16
+          },
+          "min": {
+            "nombre": "LILIANA VASQUEZ MERCADO",
+            "rfc": "VAML801015MI5",
+            "percepciones": 177.37
+          }
+        },
+        "total": 18009
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 164,
+        "1,000 - 10,000": 2644,
+        "10,000 - 50,000": 4322,
+        "50,000 - 100,000": 10069,
+        "100,000 - 250,000": 4386,
+        "250,000 - 500,000": 279,
+        "500,000 - 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13530,
+        "2 plazas": 1348,
+        "3 plazas": 948,
+        "4 plazas": 704,
+        "5 plazas": 517,
+        "6 o más plazas": 962
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 62815349.860000044,
+            "plazas": 598
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 58747701.920000024,
+            "plazas": 537
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 43047188.659999914,
+            "plazas": 509
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 38942887.22999994,
+            "plazas": 507
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 32140503.08000004,
+            "plazas": 299
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 31882465.949999988,
+            "plazas": 329
+          },
+          {
+            "nombre": "XICOHTENCATL",
+            "percepciones": 31627373.430000015,
+            "plazas": 298
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 30985866.850000028,
+            "plazas": 308
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 27795852.06000002,
+            "plazas": 432
+          },
+          {
+            "nombre": "MIGUEL N. LIRA",
+            "percepciones": 25419829.62999998,
+            "plazas": 394
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 62815349.86000003
+          },
+          "min": {
+            "nombre": "ANTONIO CARBAJAL",
+            "percepciones": 35353.229999999996
+          }
+        },
+        "total": 969
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "BERNARDO CARLOS BAUTISTA VELAZQUEZ",
+            "rfc": "BAVB5908206E0",
+            "percepciones": 843731.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN FLORES LOPEZ",
+            "rfc": "FOLM610521RN6",
+            "percepciones": 767670.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE MANUEL MINOR FRANCO",
+            "rfc": "MIFM630529N1A",
+            "percepciones": 714260.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "DANIEL AHUATZI PINILLO",
+            "rfc": "AUPD671129QV0",
+            "percepciones": 706458.79,
+            "plazas": 12
+          },
+          {
+            "nombre": "DORA MARCELINA RAMOS AGUIRRE",
+            "rfc": "RAAD650608TW3",
+            "percepciones": 696234.0,
+            "plazas": 3
+          },
+          {
+            "nombre": "ALMA BERTHA PORTILLA FLORES",
+            "rfc": "POFA670617J72",
+            "percepciones": 688750.14,
+            "plazas": 7
+          },
+          {
+            "nombre": "ARMANDO ESPINOSA RAMOS",
+            "rfc": "EIRA650131MK3",
+            "percepciones": 684258.61,
+            "plazas": 10
+          },
+          {
+            "nombre": "EDITH PORTILLA ISLAS",
+            "rfc": "POIE450512IV8",
+            "percepciones": 675425.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDO ALFONSO CORTES FLORES",
+            "rfc": "COFF490627QP3",
+            "percepciones": 673649.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "JENARO CARLOS CHOCOLATL DURAN",
+            "rfc": "CODJ580919CR4",
+            "percepciones": 662610.81,
+            "plazas": 3
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BERNARDO CARLOS BAUTISTA VELAZQUEZ",
+            "rfc": "BAVB5908206E0",
+            "percepciones": 843731.07
+          },
+          "min": {
+            "nombre": "ELOY SERRANO LUZAN",
+            "rfc": "SELE881201FG3",
+            "percepciones": 300.56
+          }
+        },
+        "total": 18193
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 145,
+        "1,000 - 10,000": 1946,
+        "10,000 - 50,000": 4266,
+        "50,000 - 100,000": 3881,
+        "100,000 - 250,000": 10782,
+        "250,000 - 500,000": 743,
+        "500,000 - 1,000,000": 77
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13634,
+        "2 plazas": 1297,
+        "3 plazas": 963,
+        "4 plazas": 742,
+        "5 plazas": 526,
+        "6 o más plazas": 1031
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 45389836.89000017,
+            "plazas": 656
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 39336183.45000001,
+            "plazas": 536
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 28166877.989999954,
+            "plazas": 507
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 25801143.019999985,
+            "plazas": 501
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 21830137.969999976,
+            "plazas": 299
+          },
+          {
+            "nombre": "XICOHTENCATL",
+            "percepciones": 21639973.880000003,
+            "plazas": 302
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 21244147.539999958,
+            "plazas": 311
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 21156861.35999998,
+            "plazas": 316
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 18831986.330000002,
+            "plazas": 430
+          },
+          {
+            "nombre": "MIGUEL N. LIRA",
+            "percepciones": 16819679.629999995,
+            "plazas": 390
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS EDUCATIVOS DEL ESTADO DE TLAXCALA",
+            "percepciones": 45389836.889999926
+          },
+          "min": {
+            "nombre": "ANTONIO CARBAJAL",
+            "percepciones": 20691.629999999997
+          }
+        },
+        "total": 968
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MANUEL PAUL RAMIREZ",
+            "rfc": "PARM640229A30",
+            "percepciones": 520361.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN FLORES LOPEZ",
+            "rfc": "FOLM610521RN6",
+            "percepciones": 473836.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "DANIEL AHUATZI PINILLO",
+            "rfc": "AUPD671129QV0",
+            "percepciones": 428389.94,
+            "plazas": 12
+          },
+          {
+            "nombre": "DORA MARCELINA RAMOS AGUIRRE",
+            "rfc": "RAAD650608TW3",
+            "percepciones": 426054.24,
+            "plazas": 3
+          },
+          {
+            "nombre": "ARMANDO ESPINOSA RAMOS",
+            "rfc": "EIRA650131MK3",
+            "percepciones": 424668.89,
+            "plazas": 10
+          },
+          {
+            "nombre": "ALMA BERTHA PORTILLA FLORES",
+            "rfc": "POFA670617J72",
+            "percepciones": 417973.05999999994,
+            "plazas": 7
+          },
+          {
+            "nombre": "JENARO CARLOS CHOCOLATL DURAN",
+            "rfc": "CODJ580919CR4",
+            "percepciones": 406061.06,
+            "plazas": 3
+          },
+          {
+            "nombre": "LAURA GONZALEZ FLORES",
+            "rfc": "GOFL6409181C2",
+            "percepciones": 405893.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUADALUPE MORENO LOPEZ",
+            "rfc": "MOLG620611229",
+            "percepciones": 404030.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELEAZAR JACINTO BELLO RIVERA",
+            "rfc": "BERE590823FR9",
+            "percepciones": 403575.37,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MANUEL PAUL RAMIREZ",
+            "rfc": "PARM640229A30",
+            "percepciones": 520361.55
+          },
+          "min": {
+            "nombre": "LILIANA TZOMPANTZI AGUILA",
+            "rfc": "TOAL930825JTA",
+            "percepciones": 679.47
+          }
+        },
+        "total": 17836
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 31,
+        "1,000 - 10,000": 2451,
+        "10,000 - 50,000": 4622,
+        "50,000 - 100,000": 11629,
+        "100,000 - 250,000": 2574,
+        "250,000 - 500,000": 205,
+        "500,000 - 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 13602,
+        "2 plazas": 1213,
+        "3 plazas": 868,
+        "4 plazas": 714,
+        "5 plazas": 488,
+        "6 o más plazas": 951
+      }
+    }
+  }
+}

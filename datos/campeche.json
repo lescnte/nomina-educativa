@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "CAMPECHE",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 21624001.639999952,
+            "plazas": 350
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 18664974.73999998,
+            "plazas": 256
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15960308.569999976,
+            "plazas": 255
+          },
+          {
+            "nombre": "SUBSECRETARIA DE SERVICIOS ADMINISTRATIVOS DE LA SECRETARIA DE EDUCACION",
+            "percepciones": 13639027.899999969,
+            "plazas": 245
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 11612759.539999992,
+            "plazas": 178
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 11352766.879999997,
+            "plazas": 145
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 11284642.899999987,
+            "plazas": 153
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL JUSTO SIERRA MENDEZ",
+            "percepciones": 10626268.570000004,
+            "plazas": 97
+          },
+          {
+            "nombre": "MARIA LAVALLE URBINA",
+            "percepciones": 9664530.380000008,
+            "plazas": 297
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 9274681.689999998,
+            "plazas": 135
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 21624001.63999998
+          },
+          "min": {
+            "nombre": "PERSONAL DE SECUNDARIA TECNICA POR REUBICAR",
+            "percepciones": 18412.02
+          }
+        },
+        "total": 1131
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 536187.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO MAY CHULIN",
+            "rfc": "MACM610425VB9",
+            "percepciones": 505467.29000000004,
+            "plazas": 2
+          },
+          {
+            "nombre": "NELLY CANDELARIA MORENO ESCALANTE",
+            "rfc": "MOEN561209LX5",
+            "percepciones": 498203.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARCIN DIAZ CRUZ",
+            "rfc": "DICA641025U89",
+            "percepciones": 470376.5,
+            "plazas": 2
+          },
+          {
+            "nombre": "GONZALO GONGORA ACOSTA",
+            "rfc": "GOAG610130UE8",
+            "percepciones": 468602.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO ITZA ABNAL",
+            "rfc": "IAAM650806LW0",
+            "percepciones": 460475.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO PIEDRA OLMEDO",
+            "rfc": "PIOM600819B23",
+            "percepciones": 455508.98,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS DEL CARMEN CARBALLO OCAÑA",
+            "rfc": "CAOG560703T17",
+            "percepciones": 453707.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "BENITO RODRIGUEZ OZUNA",
+            "rfc": "ROOB690302394",
+            "percepciones": 449434.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "LAURA INES QUIJANO GARCIA",
+            "rfc": "QUGL650420TX2",
+            "percepciones": 446230.87,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 536187.77
+          },
+          "min": {
+            "nombre": "MARIA GALILEA AKE MAY",
+            "rfc": "AEMG000321CH1",
+            "percepciones": 1464.29
+          }
+        },
+        "total": 12383
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 41,
+        "1,000 - 10,000": 1627,
+        "10,000 - 50,000": 2277,
+        "50,000 - 100,000": 8302,
+        "100,000 - 250,000": 2101,
+        "250,000 - 500,000": 133,
+        "500,000 - 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 10095,
+        "2 plazas": 723,
+        "3 plazas": 305,
+        "4 plazas": 251,
+        "5 plazas": 234,
+        "6 o más plazas": 775
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 23136353.58000003,
+            "plazas": 340
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 20029669.86000003,
+            "plazas": 256
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 17290662.120000012,
+            "plazas": 253
+          },
+          {
+            "nombre": "SUBSECRETARIA DE SERVICIOS ADMINISTRATIVOS DE LA SECRETARIA DE EDUCACION",
+            "percepciones": 13876150.720000047,
+            "plazas": 239
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 12534204.689999998,
+            "plazas": 179
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 12294444.690000003,
+            "plazas": 144
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 11862221.659999993,
+            "plazas": 152
+          },
+          {
+            "nombre": "MARIA LAVALLE URBINA",
+            "percepciones": 10158068.13,
+            "plazas": 296
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 9920588.12,
+            "plazas": 132
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL JUSTO SIERRA MENDEZ",
+            "percepciones": 9557560.830000006,
+            "plazas": 95
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 23136353.580000035
+          },
+          "min": {
+            "nombre": "F. GENERAL IGNACIO ZARAGOZA",
+            "percepciones": 30401.88
+          }
+        },
+        "total": 1129
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MAGDALENA MARTINEZ ROSAS",
+            "rfc": "MARM560717SN8",
+            "percepciones": 595105.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 507877.59,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO MAY CHULIN",
+            "rfc": "MACM610425VB9",
+            "percepciones": 476900.80000000005,
+            "plazas": 2
+          },
+          {
+            "nombre": "NELLY CANDELARIA MORENO ESCALANTE",
+            "rfc": "MOEN561209LX5",
+            "percepciones": 474397.33,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR REFUGIO AVILEZ MISS",
+            "rfc": "AIMO591222H7A",
+            "percepciones": 471995.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO GONGORA ACOSTA",
+            "rfc": "GOAG610130UE8",
+            "percepciones": 445622.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARCIN DIAZ CRUZ",
+            "rfc": "DICA641025U89",
+            "percepciones": 445622.4,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIANO PIEDRA OLMEDO",
+            "rfc": "PIOM600819B23",
+            "percepciones": 441373.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO ITZA ABNAL",
+            "rfc": "IAAM650806LW0",
+            "percepciones": 438392.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS DEL CARMEN CARBALLO OCAÑA",
+            "rfc": "CAOG560703T17",
+            "percepciones": 433295.22,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MAGDALENA MARTINEZ ROSAS",
+            "rfc": "MARM560717SN8",
+            "percepciones": 595105.52
+          },
+          "min": {
+            "nombre": "YENNY GUADALUPE FERRAEZ PAREDES",
+            "rfc": "FEPY890105LHA",
+            "percepciones": 5729.86
+          }
+        },
+        "total": 12232
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 4,
+        "1,000 - 10,000": 1437,
+        "10,000 - 50,000": 1806,
+        "50,000 - 100,000": 8543,
+        "100,000 - 250,000": 2430,
+        "250,000 - 500,000": 133,
+        "500,000 - 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 10094,
+        "2 plazas": 612,
+        "3 plazas": 294,
+        "4 plazas": 247,
+        "5 plazas": 230,
+        "6 o más plazas": 755
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 27584476.310000017,
+            "plazas": 339
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 23003034.05,
+            "plazas": 249
+          },
+          {
+            "nombre": "SUBSECRETARIA DE SERVICIOS ADMINISTRATIVOS DE LA SECRETARIA DE EDUCACION",
+            "percepciones": 22725317.020000048,
+            "plazas": 237
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 20938979.68000001,
+            "plazas": 260
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 14593901.24999999,
+            "plazas": 147
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 14593529.800000003,
+            "plazas": 172
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 14306162.799999993,
+            "plazas": 155
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL JUSTO SIERRA MENDEZ",
+            "percepciones": 13298097.649999991,
+            "plazas": 96
+          },
+          {
+            "nombre": "SECRETARIA DE EDUCACION",
+            "percepciones": 12613039.180000009,
+            "plazas": 128
+          },
+          {
+            "nombre": "MARIA LAVALLE URBINA",
+            "percepciones": 12587506.319999982,
+            "plazas": 295
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 27584476.310000032
+          },
+          "min": {
+            "nombre": "NOJ BEEK",
+            "percepciones": 16550.75
+          }
+        },
+        "total": 1115
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 559036.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO MAY CHULIN",
+            "rfc": "MACM610425VB9",
+            "percepciones": 530060.9,
+            "plazas": 2
+          },
+          {
+            "nombre": "NELLY CANDELARIA MORENO ESCALANTE",
+            "rfc": "MOEN561209LX5",
+            "percepciones": 523331.75,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARCIN DIAZ CRUZ",
+            "rfc": "DICA641025U89",
+            "percepciones": 496240.58,
+            "plazas": 2
+          },
+          {
+            "nombre": "GONZALO GONGORA ACOSTA",
+            "rfc": "GOAG610130UE8",
+            "percepciones": 491769.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO PIEDRA OLMEDO",
+            "rfc": "PIOM600819B23",
+            "percepciones": 485347.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO ITZA ABNAL",
+            "rfc": "IAAM650806LW0",
+            "percepciones": 483486.42,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS DEL CARMEN CARBALLO OCAÑA",
+            "rfc": "CAOG560703T17",
+            "percepciones": 479183.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ALFREDO CHI CHI",
+            "rfc": "CICL661002TA5",
+            "percepciones": 474826.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL DEL CARMEN ALONZO Y PECH",
+            "rfc": "AOPM591205HL3",
+            "percepciones": 474826.95,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 559036.15
+          },
+          "min": {
+            "nombre": "MAYRA ROXANA GONZALEZ CAUICH",
+            "rfc": "GOCM6905054W8",
+            "percepciones": 2540.0
+          }
+        },
+        "total": 12261
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 10,
+        "1,000 - 10,000": 1405,
+        "10,000 - 50,000": 1942,
+        "50,000 - 100,000": 6757,
+        "100,000 - 250,000": 4279,
+        "250,000 - 500,000": 189,
+        "500,000 - 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 10151,
+        "2 plazas": 586,
+        "3 plazas": 290,
+        "4 plazas": 250,
+        "5 plazas": 233,
+        "6 o más plazas": 751
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 35725917.419999994,
+            "plazas": 355
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 30464784.149999995,
+            "plazas": 259
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 26677668.76999999,
+            "plazas": 267
+          },
+          {
+            "nombre": "SUBSECRETARIA DE SERVICIOS ADMINISTRATIVOS DE LA SECRETARIA DE EDUCACION",
+            "percepciones": 25044953.360000055,
+            "plazas": 241
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 19328038.1,
+            "plazas": 192
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 18719983.419999994,
+            "plazas": 159
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 18422678.23,
+            "plazas": 153
+          },
+          {
+            "nombre": "MARIA LAVALLE URBINA",
+            "percepciones": 15966494.650000025,
+            "plazas": 300
+          },
+          {
+            "nombre": "SECRETARIA DE EDUCACION",
+            "percepciones": 15826118.230000032,
+            "plazas": 132
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL JUSTO SIERRA MENDEZ",
+            "percepciones": 15619479.290000008,
+            "plazas": 96
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 35725917.41999997
+          },
+          "min": {
+            "nombre": "F. LUIS ALVAREZ BARRET",
+            "percepciones": 57468.57
+          }
+        },
+        "total": 1131
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LORENA GUADALUPE LEZAMA ARROYO",
+            "rfc": "LEAL611221CD6",
+            "percepciones": 909465.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 804817.09,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO MAY CHULIN",
+            "rfc": "MACM610425VB9",
+            "percepciones": 762408.0700000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "NELLY CANDELARIA MORENO ESCALANTE",
+            "rfc": "MOEN561209LX5",
+            "percepciones": 751757.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO PIEDRA OLMEDO",
+            "rfc": "PIOM600819B23",
+            "percepciones": 713625.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO GONGORA ACOSTA",
+            "rfc": "GOAG610130UE8",
+            "percepciones": 713183.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARCIN DIAZ CRUZ",
+            "rfc": "DICA641025U89",
+            "percepciones": 702448.0,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARCO ANTONIO ITZA ABNAL",
+            "rfc": "IAAM650806LW0",
+            "percepciones": 701987.81,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS DEL CARMEN CARBALLO OCAÑA",
+            "rfc": "CAOG560703T17",
+            "percepciones": 692097.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "BENITO RODRIGUEZ OZUNA",
+            "rfc": "ROOB690302394",
+            "percepciones": 685961.17,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LORENA GUADALUPE LEZAMA ARROYO",
+            "rfc": "LEAL611221CD6",
+            "percepciones": 909465.55
+          },
+          "min": {
+            "nombre": "MARIA GUADALUPE CONTRERAS CAUICH",
+            "rfc": "COCG000623PFA",
+            "percepciones": 725.24
+          }
+        },
+        "total": 12496
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 25,
+        "1,000 - 10,000": 886,
+        "10,000 - 50,000": 2145,
+        "50,000 - 100,000": 3392,
+        "100,000 - 250,000": 7407,
+        "250,000 - 500,000": 666,
+        "500,000 - 1,000,000": 46
+      },
+      "distribucion_plazas": {
+        "1 plaza": 10102,
+        "2 plazas": 763,
+        "3 plazas": 318,
+        "4 plazas": 255,
+        "5 plazas": 244,
+        "6 o más plazas": 814
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 27330272.710000012,
+            "plazas": 354
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 23722481.850000024,
+            "plazas": 258
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 20605636.569999997,
+            "plazas": 267
+          },
+          {
+            "nombre": "SUBSECRETARIA DE SERVICIOS ADMINISTRATIVOS DE LA SECRETARIA DE EDUCACION",
+            "percepciones": 16755359.880000006,
+            "plazas": 241
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL JUSTO SIERRA MENDEZ",
+            "percepciones": 14913857.820000011,
+            "plazas": 95
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 14392600.50999999,
+            "plazas": 189
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 14183082.05,
+            "plazas": 152
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 14011933.510000004,
+            "plazas": 154
+          },
+          {
+            "nombre": "MARIA LAVALLE URBINA",
+            "percepciones": 12261168.120000008,
+            "plazas": 294
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 11499976.66,
+            "plazas": 131
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 27330272.709999997
+          },
+          "min": {
+            "nombre": "F. GENERAL IGNACIO ZARAGOZA",
+            "percepciones": 1673.32
+          }
+        },
+        "total": 1133
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ADDA ALEJANDRINA PENICHE LOZANO",
+            "rfc": "PELA630122D87",
+            "percepciones": 1082413.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO JUSTINO DE LA CRUZ AGUILAR CARDOZO",
+            "rfc": "AUCG650417753",
+            "percepciones": 680676.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUADALUPE DEL CARMEN ALCOCER PINZON",
+            "rfc": "AOPG660314GW2",
+            "percepciones": 665750.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO ANTONIO MAY CHULIN",
+            "rfc": "MACM610425VB9",
+            "percepciones": 646478.37,
+            "plazas": 2
+          },
+          {
+            "nombre": "NELLY CANDELARIA MORENO ESCALANTE",
+            "rfc": "MOEN561209LX5",
+            "percepciones": 630997.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO GONGORA ACOSTA",
+            "rfc": "GOAG610130UE8",
+            "percepciones": 598110.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARCIN DIAZ CRUZ",
+            "rfc": "DICA641025U89",
+            "percepciones": 597442.63,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARCO ANTONIO ITZA ABNAL",
+            "rfc": "IAAM650806LW0",
+            "percepciones": 584821.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO PIEDRA OLMEDO",
+            "rfc": "PIOM600819B23",
+            "percepciones": 580880.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS DEL CARMEN CARBALLO OCAÑA",
+            "rfc": "CAOG560703T17",
+            "percepciones": 579131.54,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ADDA ALEJANDRINA PENICHE LOZANO",
+            "rfc": "PELA630122D87",
+            "percepciones": 1082413.8
+          },
+          "min": {
+            "nombre": "ENEYDA ESCOBAR RIVERA",
+            "rfc": "EORE641202JS8",
+            "percepciones": 1147.54
+          }
+        },
+        "total": 12369
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 32,
+        "1,000 - 10,000": 1323,
+        "10,000 - 50,000": 1955,
+        "50,000 - 100,000": 7058,
+        "100,000 - 250,000": 3662,
+        "250,000 - 500,000": 338,
+        "500,000 - 1,000,000": 11,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 10169,
+        "2 plazas": 647,
+        "3 plazas": 290,
+        "4 plazas": 250,
+        "5 plazas": 226,
+        "6 o más plazas": 787
+      }
+    }
+  }
+}

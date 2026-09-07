@@ -1,0 +1,812 @@
+{
+  "entidad_federativa": "NAYARIT",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 36897540.06999981,
+            "plazas": 1050
+          },
+          {
+            "nombre": "AMADO NERVO",
+            "percepciones": 31349624.90000003,
+            "plazas": 841
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 29971111.78000003,
+            "plazas": 712
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 28251142.749999963,
+            "plazas": 647
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 27521290.959999986,
+            "plazas": 561
+          },
+          {
+            "nombre": "LEYES DE REFORMA",
+            "percepciones": 16432185.650000002,
+            "plazas": 578
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 15314762.769999994,
+            "plazas": 370
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 14418976.050000008,
+            "plazas": 308
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 14053269.860000009,
+            "plazas": 272
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 12554603.1,
+            "plazas": 197
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 36897540.07
+          },
+          "min": {
+            "nombre": "CASA DE TODOS",
+            "percepciones": 1030.56
+          }
+        },
+        "total": 1023
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MARIA ELENA DOMINGUEZ RODRIGUEZ",
+            "rfc": "DORE5205255L5",
+            "percepciones": 693227.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 680454.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO ABIGAEL ORTEGA CONTRERAS",
+            "rfc": "OECR540316KW0",
+            "percepciones": 662198.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLADYS YOLANDA ANGUIANO LOPEZ",
+            "rfc": "AULG700106225",
+            "percepciones": 634430.1799999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "SALVADOR SALAS MERCADO",
+            "rfc": "SAMS530108JI3",
+            "percepciones": 617214.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR CUERVO SALVADOR",
+            "rfc": "CUSV63101822A",
+            "percepciones": 586217.7699999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "ALICIA VAZQUEZ ALVAREZ",
+            "rfc": "VAAA5511176U0",
+            "percepciones": 576212.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN MANUEL OCEGUEDA ROBLES",
+            "rfc": "OERJ620727I71",
+            "percepciones": 565919.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA ALEJANDRA CONTRERAS MEDINA",
+            "rfc": "COMA570317TV7",
+            "percepciones": 563789.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE RAUL OCEGUEDA ROBLES",
+            "rfc": "OERJ600725TM3",
+            "percepciones": 552948.76,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MARIA ELENA DOMINGUEZ RODRIGUEZ",
+            "rfc": "DORE5205255L5",
+            "percepciones": 693227.65
+          },
+          "min": {
+            "nombre": "JESUS MIGUEL GUTIERREZ LOPEZ",
+            "rfc": "GULJ851214M45",
+            "percepciones": 123.51
+          }
+        },
+        "total": 16383
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 370,
+        "1,000 - 10,000": 3301,
+        "10,000 - 50,000": 4021,
+        "50,000 - 100,000": 10708,
+        "100,000 - 250,000": 1928,
+        "250,000 - 500,000": 241,
+        "500,000 - 1,000,000": 18
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12102,
+        "2 plazas": 1485,
+        "3 plazas": 703,
+        "4 plazas": 602,
+        "5 plazas": 417,
+        "6 o más plazas": 1074
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 38559924.42,
+            "plazas": 1015
+          },
+          {
+            "nombre": "AMADO NERVO",
+            "percepciones": 32643227.640000116,
+            "plazas": 812
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 31055489.490000047,
+            "plazas": 688
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 30251119.13000006,
+            "plazas": 650
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 27825183.32000002,
+            "plazas": 508
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 16754089.279999988,
+            "plazas": 373
+          },
+          {
+            "nombre": "LEYES DE REFORMA",
+            "percepciones": 16700110.809999991,
+            "plazas": 525
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 15364780.859999992,
+            "plazas": 314
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 14320150.100000007,
+            "plazas": 270
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 13839727.670000004,
+            "plazas": 235
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 38559924.42000003
+          },
+          "min": {
+            "nombre": "KOKONE",
+            "percepciones": 12489.92
+          }
+        },
+        "total": 1028
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 826167.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALAS MERCADO",
+            "rfc": "SAMS530108JI3",
+            "percepciones": 748360.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE RAUL OCEGUEDA ROBLES",
+            "rfc": "OERJ600725TM3",
+            "percepciones": 721342.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA VAZQUEZ ALVAREZ",
+            "rfc": "VAAA5511176U0",
+            "percepciones": 694771.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN MANUEL OCEGUEDA ROBLES",
+            "rfc": "OERJ620727I71",
+            "percepciones": 677481.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA ALEJANDRA CONTRERAS MEDINA",
+            "rfc": "COMA570317TV7",
+            "percepciones": 676979.49,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN GARCIA HERNANDEZ",
+            "rfc": "GAHR380720SS6",
+            "percepciones": 655117.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL GARCIA LOPEZ",
+            "rfc": "GALM600709BA4",
+            "percepciones": 655025.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS ROMERO RIOS",
+            "rfc": "RORJ6607138N4",
+            "percepciones": 653936.38,
+            "plazas": 2
+          },
+          {
+            "nombre": "JORGE EUGENIO RODRIGUEZ MEDINA",
+            "rfc": "ROMJ490620QQ1",
+            "percepciones": 634936.19,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 826167.03
+          },
+          "min": {
+            "nombre": "LUIS ARTURO CASTILLO ROJAS",
+            "rfc": "CARL830408FJ5",
+            "percepciones": 880.87
+          }
+        },
+        "total": 15687
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 7,
+        "1,000 - 10,000": 2349,
+        "10,000 - 50,000": 3388,
+        "50,000 - 100,000": 10758,
+        "100,000 - 250,000": 2163,
+        "250,000 - 500,000": 335,
+        "500,000 - 1,000,000": 55
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12011,
+        "2 plazas": 1134,
+        "3 plazas": 646,
+        "4 plazas": 579,
+        "5 plazas": 396,
+        "6 o más plazas": 921
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 39572473.60000006,
+            "plazas": 1016
+          },
+          {
+            "nombre": "AMADO NERVO",
+            "percepciones": 32347751.290000003,
+            "plazas": 807
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 30910705.940000005,
+            "plazas": 679
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 29780309.10000004,
+            "plazas": 637
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 27705490.010000005,
+            "plazas": 509
+          },
+          {
+            "nombre": "LEYES DE REFORMA",
+            "percepciones": 16568130.219999976,
+            "plazas": 517
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 16137533.439999992,
+            "plazas": 363
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 15282560.44000002,
+            "plazas": 303
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 14411097.39000001,
+            "plazas": 264
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 13240411.159999989,
+            "plazas": 239
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 39572473.59999998
+          },
+          "min": {
+            "nombre": "KOKONE",
+            "percepciones": 10633.72
+          }
+        },
+        "total": 1027
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MA CRUZ IBARRIA MORENO",
+            "rfc": "IAMM620502728",
+            "percepciones": 1118298.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 614242.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALAS MERCADO",
+            "rfc": "SAMS530108JI3",
+            "percepciones": 557672.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA VAZQUEZ ALVAREZ",
+            "rfc": "VAAA5511176U0",
+            "percepciones": 518199.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "NORMA ALICIA RIVERA RIVERA",
+            "rfc": "RIRN630225VAA",
+            "percepciones": 512789.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA ALEJANDRA CONTRERAS MEDINA",
+            "rfc": "COMA570317TV7",
+            "percepciones": 508934.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN GARCIA HERNANDEZ",
+            "rfc": "GAHR380720SS6",
+            "percepciones": 502714.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL GARCIA LOPEZ",
+            "rfc": "GALM600709BA4",
+            "percepciones": 500657.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN MANUEL OCEGUEDA ROBLES",
+            "rfc": "OERJ620727I71",
+            "percepciones": 489463.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS ROMERO RIOS",
+            "rfc": "RORJ6607138N4",
+            "percepciones": 487411.53,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MA CRUZ IBARRIA MORENO",
+            "rfc": "IAMM620502728",
+            "percepciones": 1118298.58
+          },
+          "min": {
+            "nombre": "ARMANDO SANDOVAL CABELLO",
+            "rfc": "SACA720226UY6",
+            "percepciones": 1887.58
+          }
+        },
+        "total": 15651
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 33,
+        "1,000 - 10,000": 2032,
+        "10,000 - 50,000": 3762,
+        "50,000 - 100,000": 10491,
+        "100,000 - 250,000": 2307,
+        "250,000 - 500,000": 223,
+        "500,000 - 1,000,000": 7,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12038,
+        "2 plazas": 1094,
+        "3 plazas": 626,
+        "4 plazas": 569,
+        "5 plazas": 397,
+        "6 o más plazas": 927
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 51324616.679999866,
+            "plazas": 1027
+          },
+          {
+            "nombre": "AMADO NERVO",
+            "percepciones": 42869687.36000007,
+            "plazas": 829
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 42622905.12999998,
+            "plazas": 703
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 38310977.619999945,
+            "plazas": 641
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 37685116.16000002,
+            "plazas": 517
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 23796058.250000034,
+            "plazas": 417
+          },
+          {
+            "nombre": "LEYES DE REFORMA",
+            "percepciones": 22445434.819999993,
+            "plazas": 545
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 19967112.850000013,
+            "plazas": 299
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 19209321.980000027,
+            "plazas": 270
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 18745248.93,
+            "plazas": 250
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 51324616.68000004
+          },
+          "min": {
+            "nombre": "JIX KAICHION (NOMBRE CREADOR)",
+            "percepciones": 958.8
+          }
+        },
+        "total": 1037
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 1005867.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALAS MERCADO",
+            "rfc": "SAMS530108JI3",
+            "percepciones": 911023.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE RAUL OCEGUEDA ROBLES",
+            "rfc": "OERJ600725TM3",
+            "percepciones": 885298.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN MANUEL OCEGUEDA ROBLES",
+            "rfc": "OERJ620727I71",
+            "percepciones": 861614.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA VAZQUEZ ALVAREZ",
+            "rfc": "VAAA5511176U0",
+            "percepciones": 850441.24,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA ALEJANDRA CONTRERAS MEDINA",
+            "rfc": "COMA570317TV7",
+            "percepciones": 833452.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS ROMERO RIOS",
+            "rfc": "RORJ6607138N4",
+            "percepciones": 799998.2,
+            "plazas": 2
+          },
+          {
+            "nombre": "RUBEN GARCIA HERNANDEZ",
+            "rfc": "GAHR380720SS6",
+            "percepciones": 799262.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL GARCIA LOPEZ",
+            "rfc": "GALM600709BA4",
+            "percepciones": 799148.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL EDUARDO HUERTA HUERTA",
+            "rfc": "HUHR560820MG0",
+            "percepciones": 791920.34,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 1005867.16
+          },
+          "min": {
+            "nombre": "GEFREY VEGA MIRAMONTES",
+            "rfc": "VEMG8405212B4",
+            "percepciones": 129.2
+          }
+        },
+        "total": 16076
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 220,
+        "1,000 - 10,000": 2243,
+        "10,000 - 50,000": 3413,
+        "50,000 - 100,000": 5020,
+        "100,000 - 250,000": 8505,
+        "250,000 - 500,000": 561,
+        "500,000 - 1,000,000": 113,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12105,
+        "2 plazas": 1297,
+        "3 plazas": 647,
+        "4 plazas": 597,
+        "5 plazas": 429,
+        "6 o más plazas": 1001
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 42464365.860000186,
+            "plazas": 1032
+          },
+          {
+            "nombre": "AMADO NERVO",
+            "percepciones": 37386991.45000006,
+            "plazas": 831
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 35469430.779999994,
+            "plazas": 706
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 33046969.580000028,
+            "plazas": 642
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 32556719.179999992,
+            "plazas": 522
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 20210673.060000014,
+            "plazas": 420
+          },
+          {
+            "nombre": "LEYES DE REFORMA",
+            "percepciones": 19164710.909999978,
+            "plazas": 553
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 17357355.189999983,
+            "plazas": 309
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 16862059.27999999,
+            "plazas": 273
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 15920074.979999986,
+            "plazas": 251
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERVICIOS DE EDUCACION PUBLICA DEL ESTADO DE NAYARIT",
+            "percepciones": 42464365.86000001
+          },
+          "min": {
+            "nombre": "JIX KAICHION (NOMBRE CREADOR)",
+            "percepciones": 495.92
+          }
+        },
+        "total": 1037
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 958674.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALAS MERCADO",
+            "rfc": "SAMS530108JI3",
+            "percepciones": 868183.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELIGIO CASTAÑEDA SOSA",
+            "rfc": "CASE611106FCA",
+            "percepciones": 818673.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA VAZQUEZ ALVAREZ",
+            "rfc": "VAAA5511176U0",
+            "percepciones": 809250.42,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA ALEJANDRA CONTRERAS MEDINA",
+            "rfc": "COMA570317TV7",
+            "percepciones": 802036.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN MANUEL OCEGUEDA ROBLES",
+            "rfc": "OERJ620727I71",
+            "percepciones": 787666.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE RAUL OCEGUEDA ROBLES",
+            "rfc": "OERJ600725TM3",
+            "percepciones": 774797.33,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS ROMERO RIOS",
+            "rfc": "RORJ6607138N4",
+            "percepciones": 761052.86,
+            "plazas": 2
+          },
+          {
+            "nombre": "RUBEN GARCIA HERNANDEZ",
+            "rfc": "GAHR380720SS6",
+            "percepciones": 758737.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL GARCIA LOPEZ",
+            "rfc": "GALM600709BA4",
+            "percepciones": 758623.72,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "HECTOR JESUS QUINTERO SANDOVAL",
+            "rfc": "QUSH5212258C5",
+            "percepciones": 958674.52
+          },
+          "min": {
+            "nombre": "GEFREY VEGA MIRAMONTES",
+            "rfc": "VEMG8405212B4",
+            "percepciones": 130.59
+          }
+        },
+        "total": 16223
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 312,
+        "1,000 - 10,000": 2751,
+        "10,000 - 50,000": 3771,
+        "50,000 - 100,000": 9630,
+        "100,000 - 250,000": 3325,
+        "250,000 - 500,000": 449,
+        "500,000 - 1,000,000": 85
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12050,
+        "2 plazas": 1409,
+        "3 plazas": 692,
+        "4 plazas": 606,
+        "5 plazas": 443,
+        "6 o más plazas": 1023
+      }
+    }
+  }
+}

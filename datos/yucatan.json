@@ -1,0 +1,810 @@
+{
+  "entidad_federativa": "YUCATÁN",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 39227976.65999997,
+            "plazas": 623
+          },
+          {
+            "nombre": "BENITO JUAREZ GARCIA",
+            "percepciones": 37238795.229999945,
+            "plazas": 651
+          },
+          {
+            "nombre": "DIRECCION DE FINANZAS",
+            "percepciones": 24680310.630000003,
+            "plazas": 401
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 24017565.87999999,
+            "plazas": 492
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 22599900.210000023,
+            "plazas": 319
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 15095338.789999995,
+            "plazas": 253
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 13916005.399999997,
+            "plazas": 348
+          },
+          {
+            "nombre": "RAFAEL RAMIREZ CASTAÑEDA",
+            "percepciones": 12125366.93,
+            "plazas": 169
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 11866738.74999998,
+            "plazas": 324
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 11731300.579999996,
+            "plazas": 177
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 39227976.660000026
+          },
+          "min": {
+            "nombre": "USAER ITINERANTE NUM. 1",
+            "percepciones": 2842.03
+          }
+        },
+        "total": 1242
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 702092.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "HILARIO LEONCIO VELEZ MERINO",
+            "rfc": "VEMH580114D30",
+            "percepciones": 701912.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO ANTONIO ELISEO PRIEGO LEWIS",
+            "rfc": "PILG470614MX4",
+            "percepciones": 667031.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL VAZQUEZ AGUILAR",
+            "rfc": "VAAR600308268",
+            "percepciones": 667031.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "REMIGIO NICOLAS HERNANDEZ HEREDIA",
+            "rfc": "HEHR420203QWA",
+            "percepciones": 666963.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "TERESA DE JESUS MEZO PENICHE",
+            "rfc": "MEPT4803297J2",
+            "percepciones": 666851.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR ALICIA SOLIS MIS",
+            "rfc": "SOMF6212099W0",
+            "percepciones": 642976.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ABRAHAM SIMON VIVAS",
+            "rfc": "SIVJ580916QB0",
+            "percepciones": 642728.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO HERNANDEZ ALEJOS",
+            "rfc": "HEAA600222LD9",
+            "percepciones": 642548.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS ALCOCER DIAZ",
+            "rfc": "AODL570501596",
+            "percepciones": 631229.3,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 702092.95
+          },
+          "min": {
+            "nombre": "WILBERT HUMBERTO CHIN CALAN",
+            "rfc": "CICW990329I30",
+            "percepciones": 107.87
+          }
+        },
+        "total": 20608
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 101,
+        "1,000 - 10,000": 2970,
+        "10,000 - 50,000": 4181,
+        "50,000 - 100,000": 13662,
+        "100,000 - 250,000": 2496,
+        "250,000 - 500,000": 342,
+        "500,000 - 1,000,000": 34
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16926,
+        "2 plazas": 767,
+        "3 plazas": 528,
+        "4 plazas": 482,
+        "5 plazas": 439,
+        "6 o más plazas": 1466
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 35766370.12000002,
+            "plazas": 625
+          },
+          {
+            "nombre": "BENITO JUAREZ GARCIA",
+            "percepciones": 33380137.669999983,
+            "plazas": 642
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21543997.580000002,
+            "plazas": 473
+          },
+          {
+            "nombre": "DIRECCION DE FINANZAS",
+            "percepciones": 21414755.550000116,
+            "plazas": 396
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 20397685.849999998,
+            "plazas": 312
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 13708730.149999995,
+            "plazas": 248
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 12583434.539999975,
+            "plazas": 345
+          },
+          {
+            "nombre": "CENTRO DE ACTUALIZACIÓN DEL MAGISTERIO",
+            "percepciones": 11534206.81,
+            "plazas": 78
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 10941402.07,
+            "plazas": 334
+          },
+          {
+            "nombre": "RAFAEL RAMIREZ CASTAÑEDA",
+            "percepciones": 10929341.229999997,
+            "plazas": 167
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 35766370.12000001
+          },
+          "min": {
+            "nombre": "CENTRO DE RECURSOS E INFORMACION PARA LA INTEGRACION EDUCATIVA",
+            "percepciones": 13500.54
+          }
+        },
+        "total": 1237
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANA MARIA RODRIGUEZ VELASCO",
+            "rfc": "ROVA491115EB5",
+            "percepciones": 884357.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAMON SARMIENTO MALDONADO",
+            "rfc": "SAMR490206T44",
+            "percepciones": 763029.91,
+            "plazas": 1
+          },
+          {
+            "nombre": "LIGIA NOEMI MENA SILVA",
+            "rfc": "MESL5602064R8",
+            "percepciones": 655013.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 632338.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "HILARIO LEONCIO VELEZ MERINO",
+            "rfc": "VEMH580114D30",
+            "percepciones": 632180.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL VAZQUEZ AGUILAR",
+            "rfc": "VAAR600308268",
+            "percepciones": 601932.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO ANTONIO ELISEO PRIEGO LEWIS",
+            "rfc": "PILG470614MX4",
+            "percepciones": 601932.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "REMIGIO NICOLAS HERNANDEZ HEREDIA",
+            "rfc": "HEHR420203QWA",
+            "percepciones": 601873.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "TERESA DE JESUS MEZO PENICHE",
+            "rfc": "MEPT4803297J2",
+            "percepciones": 601775.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA LUISA NOVELO SOLIS",
+            "rfc": "NOSL550428UT9",
+            "percepciones": 596060.45,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANA MARIA RODRIGUEZ VELASCO",
+            "rfc": "ROVA491115EB5",
+            "percepciones": 884357.38
+          },
+          "min": {
+            "nombre": "LOIDA EUNICE DZAY RIVERO",
+            "rfc": "DARL931021HD2",
+            "percepciones": 68.9
+          }
+        },
+        "total": 20016
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 34,
+        "1,000 - 10,000": 2594,
+        "10,000 - 50,000": 3296,
+        "50,000 - 100,000": 14481,
+        "100,000 - 250,000": 1791,
+        "250,000 - 500,000": 304,
+        "500,000 - 1,000,000": 24
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16647,
+        "2 plazas": 606,
+        "3 plazas": 519,
+        "4 plazas": 463,
+        "5 plazas": 425,
+        "6 o más plazas": 1356
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 40907713.55000003,
+            "plazas": 622
+          },
+          {
+            "nombre": "BENITO JUAREZ GARCIA",
+            "percepciones": 38720195.269999996,
+            "plazas": 658
+          },
+          {
+            "nombre": "DIRECCION DE FINANZAS",
+            "percepciones": 26727540.579999987,
+            "plazas": 400
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 24901880.360000007,
+            "plazas": 490
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 23580055.44000002,
+            "plazas": 313
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 15664858.780000007,
+            "plazas": 250
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 14858042.580000004,
+            "plazas": 349
+          },
+          {
+            "nombre": "CENTRO DE ACTUALIZACIÓN DEL MAGISTERIO",
+            "percepciones": 13264999.150000002,
+            "plazas": 96
+          },
+          {
+            "nombre": "RAFAEL RAMIREZ CASTAÑEDA",
+            "percepciones": 12561190.89,
+            "plazas": 168
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 12504954.910000008,
+            "plazas": 326
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 40907713.550000004
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION FISICA EN PRIMARIA NUM. 08",
+            "percepciones": 2540.0
+          }
+        },
+        "total": 1237
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "OLGA MARIA DE LA LUZ CUPUL DIAZ",
+            "rfc": "CUDO551111987",
+            "percepciones": 689103.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 688942.75,
+            "plazas": 1
+          },
+          {
+            "nombre": "HILARIO LEONCIO VELEZ MERINO",
+            "rfc": "VEMH580114D30",
+            "percepciones": 679435.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO ANTONIO ELISEO PRIEGO LEWIS",
+            "rfc": "PILG470614MX4",
+            "percepciones": 655877.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "REMIGIO NICOLAS HERNANDEZ HEREDIA",
+            "rfc": "HEHR420203QWA",
+            "percepciones": 655822.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "TERESA DE JESUS MEZO PENICHE",
+            "rfc": "MEPT4803297J2",
+            "percepciones": 655730.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL VAZQUEZ AGUILAR",
+            "rfc": "VAAR600308268",
+            "percepciones": 646517.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR ALICIA SOLIS MIS",
+            "rfc": "SOMF6212099W0",
+            "percepciones": 621759.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ABRAHAM SIMON VIVAS",
+            "rfc": "SIVJ580916QB0",
+            "percepciones": 621556.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO HERNANDEZ ALEJOS",
+            "rfc": "HEAA600222LD9",
+            "percepciones": 621409.1,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "OLGA MARIA DE LA LUZ CUPUL DIAZ",
+            "rfc": "CUDO551111987",
+            "percepciones": 689103.47
+          },
+          "min": {
+            "nombre": "ANAMARIA DEL ROSARIO YERBES GONZALEZ",
+            "rfc": "YEGA930928DI2",
+            "percepciones": 1373.48
+          }
+        },
+        "total": 19970
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 155,
+        "1,000 - 10,000": 2517,
+        "10,000 - 50,000": 3854,
+        "50,000 - 100,000": 13522,
+        "100,000 - 250,000": 2501,
+        "250,000 - 500,000": 341,
+        "500,000 - 1,000,000": 31
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16571,
+        "2 plazas": 605,
+        "3 plazas": 492,
+        "4 plazas": 436,
+        "5 plazas": 415,
+        "6 o más plazas": 1451
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 50396189.339999974,
+            "plazas": 625
+          },
+          {
+            "nombre": "BENITO JUAREZ GARCIA",
+            "percepciones": 48961397.51000002,
+            "plazas": 659
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 32239426.129999947,
+            "plazas": 503
+          },
+          {
+            "nombre": "DIRECCION DE FINANZAS",
+            "percepciones": 31269287.58999985,
+            "plazas": 397
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 28670219.879999984,
+            "plazas": 307
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 19734973.13,
+            "plazas": 255
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 18464454.829999983,
+            "plazas": 344
+          },
+          {
+            "nombre": "CENTRO DE ACTUALIZACIÓN DEL MAGISTERIO",
+            "percepciones": 18003285.14,
+            "plazas": 81
+          },
+          {
+            "nombre": "RAFAEL RAMIREZ CASTAÑEDA",
+            "percepciones": 15877601.739999983,
+            "plazas": 169
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15548013.420000002,
+            "plazas": 325
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 50396189.33999996
+          },
+          "min": {
+            "nombre": "CENTRO DE RECURSOS E INFORMACION PARA LA INTEGRACION EDUCATIVA",
+            "percepciones": 23001.07
+          }
+        },
+        "total": 1228
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 866845.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "HILARIO LEONCIO VELEZ MERINO",
+            "rfc": "VEMH580114D30",
+            "percepciones": 866655.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO ANTONIO ELISEO PRIEGO LEWIS",
+            "rfc": "PILG470614MX4",
+            "percepciones": 828487.68,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL VAZQUEZ AGUILAR",
+            "rfc": "VAAR600308268",
+            "percepciones": 828487.68,
+            "plazas": 1
+          },
+          {
+            "nombre": "REMIGIO NICOLAS HERNANDEZ HEREDIA",
+            "rfc": "HEHR420203QWA",
+            "percepciones": 828416.54,
+            "plazas": 1
+          },
+          {
+            "nombre": "TERESA DE JESUS MEZO PENICHE",
+            "rfc": "MEPT4803297J2",
+            "percepciones": 828297.83,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR ALICIA SOLIS MIS",
+            "rfc": "SOMF6212099W0",
+            "percepciones": 794604.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ABRAHAM SIMON VIVAS",
+            "rfc": "SIVJ580916QB0",
+            "percepciones": 794341.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO HERNANDEZ ALEJOS",
+            "rfc": "HEAA600222LD9",
+            "percepciones": 794152.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS ALCOCER DIAZ",
+            "rfc": "AODL570501596",
+            "percepciones": 783368.67,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 866845.04
+          },
+          "min": {
+            "nombre": "CINDY MARBELLA MARTIN CUTZ",
+            "rfc": "MACC000122BS8",
+            "percepciones": 652.72
+          }
+        },
+        "total": 20234
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 26,
+        "1,000 - 10,000": 2051,
+        "10,000 - 50,000": 3598,
+        "50,000 - 100,000": 11605,
+        "100,000 - 250,000": 4724,
+        "250,000 - 500,000": 654,
+        "500,000 - 1,000,000": 97
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16794,
+        "2 plazas": 603,
+        "3 plazas": 509,
+        "4 plazas": 434,
+        "5 plazas": 416,
+        "6 o más plazas": 1478
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 48229172.55999988,
+            "plazas": 626
+          },
+          {
+            "nombre": "BENITO JUAREZ GARCIA",
+            "percepciones": 46737119.49000002,
+            "plazas": 654
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 30465789.809999984,
+            "plazas": 493
+          },
+          {
+            "nombre": "DIRECCION DE FINANZAS",
+            "percepciones": 29440439.91000007,
+            "plazas": 397
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 27362014.499999993,
+            "plazas": 306
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 18458693.540000018,
+            "plazas": 250
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 17209924.360000007,
+            "plazas": 349
+          },
+          {
+            "nombre": "CENTRO DE ACTUALIZACIÓN DEL MAGISTERIO",
+            "percepciones": 15374999.709999997,
+            "plazas": 81
+          },
+          {
+            "nombre": "RAFAEL RAMIREZ CASTAÑEDA",
+            "percepciones": 14971643.510000013,
+            "plazas": 166
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 14891030.690000014,
+            "plazas": 173
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "FELIPE CARRILLO PUERTO",
+            "percepciones": 48229172.56
+          },
+          "min": {
+            "nombre": "SARA BUENFIL",
+            "percepciones": 15447.08
+          }
+        },
+        "total": 1223
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 893161.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "HILARIO LEONCIO VELEZ MERINO",
+            "rfc": "VEMH580114D30",
+            "percepciones": 892946.83,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL VAZQUEZ AGUILAR",
+            "rfc": "VAAR600308268",
+            "percepciones": 848324.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "GONZALO ANTONIO ELISEO PRIEGO LEWIS",
+            "rfc": "PILG470614MX4",
+            "percepciones": 848324.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "REMIGIO NICOLAS HERNANDEZ HEREDIA",
+            "rfc": "HEHR420203QWA",
+            "percepciones": 848244.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "FLOR ALICIA SOLIS MIS",
+            "rfc": "SOMF6212099W0",
+            "percepciones": 818831.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE ABRAHAM SIMON VIVAS",
+            "rfc": "SIVJ580916QB0",
+            "percepciones": 818535.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO HERNANDEZ ALEJOS",
+            "rfc": "HEAA600222LD9",
+            "percepciones": 818321.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS ALCOCER DIAZ",
+            "rfc": "AODL570501596",
+            "percepciones": 802671.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR ALBERTO GARCIA SOLANA",
+            "rfc": "GASO600406KE2",
+            "percepciones": 787445.21,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CARLOS ARNULFO CARRILLO MOO",
+            "rfc": "CAMC570713R5A",
+            "percepciones": 893161.23
+          },
+          "min": {
+            "nombre": "FRANCISCO JAVIER TUN RAMIREZ",
+            "rfc": "TURF941207219",
+            "percepciones": 272.04
+          }
+        },
+        "total": 20337
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 114,
+        "1,000 - 10,000": 2244,
+        "10,000 - 50,000": 3794,
+        "50,000 - 100,000": 11473,
+        "100,000 - 250,000": 4653,
+        "250,000 - 500,000": 556,
+        "500,000 - 1,000,000": 86
+      },
+      "distribucion_plazas": {
+        "1 plaza": 16812,
+        "2 plazas": 677,
+        "3 plazas": 507,
+        "4 plazas": 436,
+        "5 plazas": 418,
+        "6 o más plazas": 1487
+      }
+    }
+  }
+}

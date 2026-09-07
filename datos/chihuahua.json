@@ -1,0 +1,815 @@
+{
+  "entidad_federativa": "CHIHUAHUA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 52841302.59000002,
+            "plazas": 481
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 42167535.789999984,
+            "plazas": 453
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 22600905.05000001,
+            "plazas": 297
+          },
+          {
+            "nombre": "IGNACIO MANUEL ALTAMIRANO",
+            "percepciones": 22305878.77000002,
+            "plazas": 391
+          },
+          {
+            "nombre": "FRANCISCO VILLA",
+            "percepciones": 20781761.86000001,
+            "plazas": 236
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 19986672.27000001,
+            "plazas": 220
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL \"RICARDO FLORES MAGON\"",
+            "percepciones": 19914035.790000007,
+            "plazas": 128
+          },
+          {
+            "nombre": "AGUSTIN MELGAR",
+            "percepciones": 19748214.420000024,
+            "plazas": 221
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 18986148.529999997,
+            "plazas": 193
+          },
+          {
+            "nombre": "JAIME TORRES BODET",
+            "percepciones": 18930714.31000003,
+            "plazas": 318
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 52841302.59
+          },
+          "min": {
+            "nombre": "MIÑACA",
+            "percepciones": 1943.66
+          }
+        },
+        "total": 2222
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ISIDRO DOMINGUEZ QUEZADA",
+            "rfc": "DOQI6105156J3",
+            "percepciones": 1795013.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELIA HOLGUIN CONTRERAS",
+            "rfc": "HOCC6007304Z0",
+            "percepciones": 1387725.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "JORGE DAVID VALLES CARRANZA",
+            "rfc": "VACJ6108224DA",
+            "percepciones": 960589.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 885371.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "TELESFORO ESPARZA CORRAL",
+            "rfc": "EACT580122N77",
+            "percepciones": 840369.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DEL CARMEN SALDAÑA MARIN",
+            "rfc": "SAMC610619FX0",
+            "percepciones": 810570.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA ROSA AYALA MARQUEZ",
+            "rfc": "AAMA550712JZ8",
+            "percepciones": 806970.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE RUBEN JAVIER CRAULES REYES",
+            "rfc": "CARR490304227",
+            "percepciones": 775854.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO MOLINA CHAVEZ",
+            "rfc": "MOCR601002272",
+            "percepciones": 775633.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN JAQUEZ CAMPOY",
+            "rfc": "JACM561005SH8",
+            "percepciones": 712408.25,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ISIDRO DOMINGUEZ QUEZADA",
+            "rfc": "DOQI6105156J3",
+            "percepciones": 1795013.22
+          },
+          "min": {
+            "nombre": "IRIS PEREZ LOPEZ",
+            "rfc": "PELI800527RF6",
+            "percepciones": 703.26
+          }
+        },
+        "total": 33990
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 129,
+        "1,000 - 10,000": 5004,
+        "10,000 - 50,000": 7424,
+        "50,000 - 100,000": 18303,
+        "100,000 - 250,000": 10488,
+        "250,000 - 500,000": 990,
+        "500,000 - 1,000,000": 113,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26897,
+        "2 plazas": 1785,
+        "3 plazas": 764,
+        "4 plazas": 516,
+        "5 plazas": 581,
+        "6 o más plazas": 3447
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 42466032.56000004,
+            "plazas": 476
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 34422199.33000002,
+            "plazas": 449
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 18187449.840000015,
+            "plazas": 291
+          },
+          {
+            "nombre": "IGNACIO MANUEL ALTAMIRANO",
+            "percepciones": 17872957.420000013,
+            "plazas": 385
+          },
+          {
+            "nombre": "FRANCISCO VILLA",
+            "percepciones": 16569534.750000004,
+            "plazas": 231
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 16312117.560000004,
+            "plazas": 214
+          },
+          {
+            "nombre": "AGUSTIN MELGAR",
+            "percepciones": 16232783.380000021,
+            "plazas": 210
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 15399650.440000005,
+            "plazas": 183
+          },
+          {
+            "nombre": "JAIME TORRES BODET",
+            "percepciones": 15265902.050000008,
+            "plazas": 305
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL \"RICARDO FLORES MAGON\"",
+            "percepciones": 14819595.679999994,
+            "plazas": 132
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 42466032.560000025
+          },
+          "min": {
+            "nombre": "MARCO ANTONIO MORENO RUIZ",
+            "percepciones": 26229.84
+          }
+        },
+        "total": 2221
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "EVA AMERICA MAYAGOITIA PADILLA",
+            "rfc": "MAPE560709DQ4",
+            "percepciones": 1435549.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "GILBERTO SANTIAGO FLORES OROZCO",
+            "rfc": "FOOG611201210",
+            "percepciones": 1373020.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 694613.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DEL CARMEN SALDAÑA MARIN",
+            "rfc": "SAMC610619FX0",
+            "percepciones": 636434.66,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA ROSA AYALA MARQUEZ",
+            "rfc": "AAMA550712JZ8",
+            "percepciones": 632834.66,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE RUBEN JAVIER CRAULES REYES",
+            "rfc": "CARR490304227",
+            "percepciones": 608632.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO MOLINA CHAVEZ",
+            "rfc": "MOCR601002272",
+            "percepciones": 608461.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "TELESFORO ESPARZA CORRAL",
+            "rfc": "EACT580122N77",
+            "percepciones": 607682.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN JAQUEZ CAMPOY",
+            "rfc": "JACM561005SH8",
+            "percepciones": 568053.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE MANUEL ARIAS BARRIOS",
+            "rfc": "AIBM601223QV8",
+            "percepciones": 547085.4,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EVA AMERICA MAYAGOITIA PADILLA",
+            "rfc": "MAPE560709DQ4",
+            "percepciones": 1435549.32
+          },
+          "min": {
+            "nombre": "ANAHIS ALEXANDRA AGUIRRE ASTORGA",
+            "rfc": "AUAA900223AS9",
+            "percepciones": 1566.94
+          }
+        },
+        "total": 32796
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 29,
+        "1,000 - 10,000": 4769,
+        "10,000 - 50,000": 5959,
+        "50,000 - 100,000": 23175,
+        "100,000 - 250,000": 5115,
+        "250,000 - 500,000": 623,
+        "500,000 - 1,000,000": 24,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26677,
+        "2 plazas": 1128,
+        "3 plazas": 638,
+        "4 plazas": 515,
+        "5 plazas": 576,
+        "6 o más plazas": 3262
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 42875479.12000006,
+            "plazas": 460
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 39593558.300000004,
+            "plazas": 468
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 20569022.15000002,
+            "plazas": 300
+          },
+          {
+            "nombre": "IGNACIO MANUEL ALTAMIRANO",
+            "percepciones": 19760729.12000002,
+            "plazas": 396
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL \"RICARDO FLORES MAGON\"",
+            "percepciones": 19384571.06999999,
+            "plazas": 133
+          },
+          {
+            "nombre": "FRANCISCO VILLA",
+            "percepciones": 18955921.519999996,
+            "plazas": 249
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 18734057.330000024,
+            "plazas": 226
+          },
+          {
+            "nombre": "AGUSTIN MELGAR",
+            "percepciones": 18165661.35000001,
+            "plazas": 218
+          },
+          {
+            "nombre": "PRIMARIA FEDERALIZADA",
+            "percepciones": 18160470.48,
+            "plazas": 220
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 16797211.679999992,
+            "plazas": 188
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 42875479.120000005
+          },
+          "min": {
+            "nombre": "MIGUEL F. MARTINEZ",
+            "percepciones": 1136.66
+          }
+        },
+        "total": 2210
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ADELINA HERNANDEZ AYALA",
+            "rfc": "HEAA650508E14",
+            "percepciones": 1540037.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "MOISES VAZQUEZ RIVERA",
+            "rfc": "VARM640514RE7",
+            "percepciones": 1200941.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIVEL GUTIERREZ FIERRO",
+            "rfc": "GUFM691116K9A",
+            "percepciones": 792086.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 697417.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DEL CARMEN SALDAÑA MARIN",
+            "rfc": "SAMC610619FX0",
+            "percepciones": 658359.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA ROSA AYALA MARQUEZ",
+            "rfc": "AAMA550712JZ8",
+            "percepciones": 654759.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE RUBEN JAVIER CRAULES REYES",
+            "rfc": "CARR490304227",
+            "percepciones": 629928.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO MOLINA CHAVEZ",
+            "rfc": "MOCR601002272",
+            "percepciones": 629779.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "TELESFORO ESPARZA CORRAL",
+            "rfc": "EACT580122N77",
+            "percepciones": 627315.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN JAQUEZ CAMPOY",
+            "rfc": "JACM561005SH8",
+            "percepciones": 591545.47,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ADELINA HERNANDEZ AYALA",
+            "rfc": "HEAA650508E14",
+            "percepciones": 1540037.39
+          },
+          "min": {
+            "nombre": "CRISTIAN EDUARDO QUEZADA NUÑEZ",
+            "rfc": "QUNC941012D24",
+            "percepciones": 241.8
+          }
+        },
+        "total": 33382
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 604,
+        "1,000 - 10,000": 5515,
+        "10,000 - 50,000": 6447,
+        "50,000 - 100,000": 20465,
+        "100,000 - 250,000": 7943,
+        "250,000 - 500,000": 713,
+        "500,000 - 1,000,000": 33,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26433,
+        "2 plazas": 1680,
+        "3 plazas": 722,
+        "4 plazas": 535,
+        "5 plazas": 604,
+        "6 o más plazas": 3408
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 63837120.85000006,
+            "plazas": 477
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 51547776.67999995,
+            "plazas": 453
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 27057266.68999996,
+            "plazas": 287
+          },
+          {
+            "nombre": "IGNACIO MANUEL ALTAMIRANO",
+            "percepciones": 26720043.820000026,
+            "plazas": 371
+          },
+          {
+            "nombre": "FRANCISCO VILLA",
+            "percepciones": 25047198.459999997,
+            "plazas": 241
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 24471842.88000001,
+            "plazas": 217
+          },
+          {
+            "nombre": "AGUSTIN MELGAR",
+            "percepciones": 23978500.450000003,
+            "plazas": 213
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL \"RICARDO FLORES MAGON\"",
+            "percepciones": 22742031.170000006,
+            "plazas": 131
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 22738933.76000001,
+            "plazas": 186
+          },
+          {
+            "nombre": "JAIME TORRES BODET",
+            "percepciones": 22716577.099999998,
+            "plazas": 303
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 63837120.85000001
+          },
+          "min": {
+            "nombre": "SANTA MARIA",
+            "percepciones": 51585.33
+          }
+        },
+        "total": 2218
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 1104668.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DEL CARMEN SALDAÑA MARIN",
+            "rfc": "SAMC610619FX0",
+            "percepciones": 996830.9,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA ROSA AYALA MARQUEZ",
+            "rfc": "AAMA550712JZ8",
+            "percepciones": 993230.9,
+            "plazas": 1
+          },
+          {
+            "nombre": "TELESFORO ESPARZA CORRAL",
+            "rfc": "EACT580122N77",
+            "percepciones": 959114.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE RUBEN JAVIER CRAULES REYES",
+            "rfc": "CARR490304227",
+            "percepciones": 954438.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO MOLINA CHAVEZ",
+            "rfc": "MOCR601002272",
+            "percepciones": 954181.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN JAQUEZ CAMPOY",
+            "rfc": "JACM561005SH8",
+            "percepciones": 905058.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE MANUEL ARIAS BARRIOS",
+            "rfc": "AIBM601223QV8",
+            "percepciones": 877791.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA ESTELA ARMENDARIZ RIVAS",
+            "rfc": "AERB600101K82",
+            "percepciones": 849871.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "BEATRIZ QUIÑONES SOTO",
+            "rfc": "QUSB5910223F9",
+            "percepciones": 846271.06,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 1104668.08
+          },
+          "min": {
+            "nombre": "FERNANDO MARQUEZ ZARATE",
+            "rfc": "MAZF570530D74",
+            "percepciones": 1471.85
+          }
+        },
+        "total": 33479
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 33,
+        "1,000 - 10,000": 3512,
+        "10,000 - 50,000": 6553,
+        "50,000 - 100,000": 7301,
+        "100,000 - 250,000": 21901,
+        "250,000 - 500,000": 1493,
+        "500,000 - 1,000,000": 296,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 27008,
+        "2 plazas": 1334,
+        "3 plazas": 661,
+        "4 plazas": 508,
+        "5 plazas": 581,
+        "6 o más plazas": 3387
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 60010004.92000024,
+            "plazas": 476
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 48218862.40999996,
+            "plazas": 453
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 25006473.59999999,
+            "plazas": 288
+          },
+          {
+            "nombre": "IGNACIO MANUEL ALTAMIRANO",
+            "percepciones": 24990502.179999974,
+            "plazas": 372
+          },
+          {
+            "nombre": "FRANCISCO VILLA",
+            "percepciones": 23333011.160000004,
+            "plazas": 238
+          },
+          {
+            "nombre": "ESCUELA NORMAL RURAL \"RICARDO FLORES MAGON\"",
+            "percepciones": 22924452.759999994,
+            "plazas": 129
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 22817579.809999987,
+            "plazas": 221
+          },
+          {
+            "nombre": "AGUSTIN MELGAR",
+            "percepciones": 22785396.680000003,
+            "plazas": 210
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 21510060.160000015,
+            "plazas": 189
+          },
+          {
+            "nombre": "JAIME TORRES BODET",
+            "percepciones": 21367343.60999998,
+            "plazas": 303
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA FEDERALIZADA",
+            "percepciones": 60010004.91999999
+          },
+          "min": {
+            "nombre": "SAUCILLO",
+            "percepciones": 4073.07
+          }
+        },
+        "total": 2219
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 1048776.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DEL CARMEN SALDAÑA MARIN",
+            "rfc": "SAMC610619FX0",
+            "percepciones": 959720.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA ROSA AYALA MARQUEZ",
+            "rfc": "AAMA550712JZ8",
+            "percepciones": 956120.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "TELESFORO ESPARZA CORRAL",
+            "rfc": "EACT580122N77",
+            "percepciones": 926189.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE RUBEN JAVIER CRAULES REYES",
+            "rfc": "CARR490304227",
+            "percepciones": 919057.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSARIO MOLINA CHAVEZ",
+            "rfc": "MOCR601002272",
+            "percepciones": 918812.02,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN JAQUEZ CAMPOY",
+            "rfc": "JACM561005SH8",
+            "percepciones": 838544.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE MANUEL ARIAS BARRIOS",
+            "rfc": "AIBM601223QV8",
+            "percepciones": 820035.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "ISMAEL GARFIO OLIVAS",
+            "rfc": "GAOI641023CD8",
+            "percepciones": 793004.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA RUBIO CARRILLO",
+            "rfc": "RUCR571012QX1",
+            "percepciones": 790375.42,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE ANTONIO PORRAS CABALLERO",
+            "rfc": "POCA590618M58",
+            "percepciones": 1048776.03
+          },
+          "min": {
+            "nombre": "KARLA CRISTINA VALDEZ RAMIREZ",
+            "rfc": "VARK930106866",
+            "percepciones": 568.33
+          }
+        },
+        "total": 33528
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 151,
+        "1,000 - 10,000": 4605,
+        "10,000 - 50,000": 6930,
+        "50,000 - 100,000": 11067,
+        "100,000 - 250,000": 17727,
+        "250,000 - 500,000": 1330,
+        "500,000 - 1,000,000": 217,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26734,
+        "2 plazas": 1525,
+        "3 plazas": 705,
+        "4 plazas": 513,
+        "5 plazas": 579,
+        "6 o más plazas": 3472
+      }
+    }
+  }
+}

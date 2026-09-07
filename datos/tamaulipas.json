@@ -1,0 +1,814 @@
+{
+  "entidad_federativa": "TAMAULIPAS",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 101362037.26000041,
+            "plazas": 1154
+          },
+          {
+            "nombre": "LAURO AGUIRRE",
+            "percepciones": 31812807.019999977,
+            "plazas": 685
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 28422356.319999963,
+            "plazas": 331
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 26856442.02999994,
+            "plazas": 398
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 25353487.50999998,
+            "plazas": 272
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 24975246.94999996,
+            "plazas": 411
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 23542273.149999984,
+            "plazas": 421
+          },
+          {
+            "nombre": "CENTRO DE ATENCION MULTIPLE",
+            "percepciones": 23385915.569999967,
+            "plazas": 347
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 21979377.279999983,
+            "plazas": 483
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 21488745.900000025,
+            "plazas": 308
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 101362037.25999986
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION PREESCOLAR NUM. 86",
+            "percepciones": 3775.83
+          }
+        },
+        "total": 2292
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 884270.33,
+            "plazas": 1
+          },
+          {
+            "nombre": "PAULO AVILA ROSAS",
+            "rfc": "AIRP570622HG3",
+            "percepciones": 814618.3400000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "MANUEL GARCIA PEÑA",
+            "rfc": "GAPM390428BZ7",
+            "percepciones": 804287.24,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DOLORES LOPEZ GARCIA",
+            "rfc": "LOGD480528ES4",
+            "percepciones": 779263.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "BEATRIZ ADRIANA DE LA SERNA MARTINEZ",
+            "rfc": "SEMB600218LD0",
+            "percepciones": 760967.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALIVER LOPEZ LOPEZ",
+            "rfc": "LOLA440811AQ9",
+            "percepciones": 760662.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR JULIO DURAN MONTALVO",
+            "rfc": "DUMS470509HC3",
+            "percepciones": 760662.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER HERNANDEZ ROJAS",
+            "rfc": "HERJ580812PS6",
+            "percepciones": 760662.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "SOCORRO GONZALEZ MARTINEZ",
+            "rfc": "GOMS510806M28",
+            "percepciones": 760662.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIRNA DOLORES GARCIA SANTOS",
+            "rfc": "GASM630314G96",
+            "percepciones": 760442.24,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 884270.33
+          },
+          "min": {
+            "nombre": "MANUELA CANTU CAVAZOS",
+            "rfc": "CACM691228V7A",
+            "percepciones": 1180.77
+          }
+        },
+        "total": 37449
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 13,
+        "1,000 - 10,000": 5438,
+        "10,000 - 50,000": 11268,
+        "50,000 - 100,000": 21789,
+        "100,000 - 250,000": 7893,
+        "250,000 - 500,000": 1196,
+        "500,000 - 1,000,000": 125
+      },
+      "distribucion_plazas": {
+        "1 plaza": 25824,
+        "2 plazas": 5252,
+        "3 plazas": 1974,
+        "4 plazas": 1411,
+        "5 plazas": 962,
+        "6 o más plazas": 2026
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 67619873.24999979,
+            "plazas": 1155
+          },
+          {
+            "nombre": "LAURO AGUIRRE",
+            "percepciones": 21284792.620000016,
+            "plazas": 671
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 19794038.669999935,
+            "plazas": 338
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 18049738.469999984,
+            "plazas": 401
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 16874367.42,
+            "plazas": 268
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 16790874.75000001,
+            "plazas": 411
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 16332405.909999982,
+            "plazas": 429
+          },
+          {
+            "nombre": "CENTRO DE ATENCION MULTIPLE",
+            "percepciones": 15646358.499999996,
+            "plazas": 342
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 14591393.06000001,
+            "plazas": 487
+          },
+          {
+            "nombre": "LEONA VICARIO",
+            "percepciones": 14177893.090000002,
+            "plazas": 295
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 67619873.25000003
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION PREESCOLAR NUM. 86",
+            "percepciones": 2563.36
+          }
+        },
+        "total": 2294
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "BASILIA TOVIAS SERNA",
+            "rfc": "TOSB510312TG6",
+            "percepciones": 2214617.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA GABRIELA RODRIGUEZ ULIBARRI",
+            "rfc": "ROUG6804295A9",
+            "percepciones": 1224980.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. ELENA BECERRA SANCHEZ",
+            "rfc": "BESE650607791",
+            "percepciones": 1193362.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "BENITO HERNANDEZ TIJERINA",
+            "rfc": "HETB440404L95",
+            "percepciones": 871852.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA ELIA GARCIA CRUZ",
+            "rfc": "GACE400809GR1",
+            "percepciones": 869657.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "SONIA BELEM DEL ANGEL HERRERA",
+            "rfc": "AEHS6001236H4",
+            "percepciones": 612777.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO SALAZAR BETANCOURT",
+            "rfc": "SABA511015GW7",
+            "percepciones": 601750.9,
+            "plazas": 1
+          },
+          {
+            "nombre": "ADOLFO CESAR GARZA GOMEZ",
+            "rfc": "GAGA6107133N1",
+            "percepciones": 559538.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 553453.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "CAROLINA MENCHACA GOMEZ",
+            "rfc": "MEGC490802JM8",
+            "percepciones": 532275.5,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BASILIA TOVIAS SERNA",
+            "rfc": "TOSB510312TG6",
+            "percepciones": 2214617.58
+          },
+          "min": {
+            "nombre": "HERIBERTO CARAVEO REAL",
+            "rfc": "CARH670419NA5",
+            "percepciones": 2868.1000000000004
+          }
+        },
+        "total": 37344
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 2,
+        "1,000 - 10,000": 6869,
+        "10,000 - 50,000": 17032,
+        "50,000 - 100,000": 18446,
+        "100,000 - 250,000": 2931,
+        "250,000 - 500,000": 391,
+        "500,000 - 1,000,000": 17,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 25903,
+        "2 plazas": 5149,
+        "3 plazas": 1939,
+        "4 plazas": 1380,
+        "5 plazas": 944,
+        "6 o más plazas": 2029
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 89764679.77,
+            "plazas": 1146
+          },
+          {
+            "nombre": "LAURO AGUIRRE",
+            "percepciones": 29564811.079999965,
+            "plazas": 670
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 26323368.480000004,
+            "plazas": 345
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 23964590.670000006,
+            "plazas": 400
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 23282753.240000002,
+            "plazas": 425
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 22771540.620000012,
+            "plazas": 269
+          },
+          {
+            "nombre": "CENTRO DE ATENCION MULTIPLE",
+            "percepciones": 22026295.909999993,
+            "plazas": 356
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21430576.759999987,
+            "plazas": 421
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 20341032.12000001,
+            "plazas": 496
+          },
+          {
+            "nombre": "ALVARO OBREGON",
+            "percepciones": 19089303.510000017,
+            "plazas": 546
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 89764679.76999995
+          },
+          "min": {
+            "nombre": "DR. Y PROF. RAMIRO IGLESIAS LEAL",
+            "percepciones": 2000.0
+          }
+        },
+        "total": 2315
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ELIDA ALCORTA OLVERA",
+            "rfc": "AOOE361002337",
+            "percepciones": 2380730.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSENDO TRINIDAD GONZALEZ AQUILES",
+            "rfc": "GOAR411122EAA",
+            "percepciones": 801447.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 693599.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE JESUS BARRIOS RUBIO",
+            "rfc": "BARJ650421JE1",
+            "percepciones": 644275.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "PAULO AVILA ROSAS",
+            "rfc": "AIRP570622HG3",
+            "percepciones": 639541.92,
+            "plazas": 2
+          },
+          {
+            "nombre": "MANUEL GERARDO TREVIÑO DE LUNA",
+            "rfc": "TELM511129MK5",
+            "percepciones": 634452.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL GARCIA PEÑA",
+            "rfc": "GAPM390428BZ7",
+            "percepciones": 632313.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS HINOJOSA RAMIREZ",
+            "rfc": "HIRL470717PX8",
+            "percepciones": 627004.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DOLORES LOPEZ GARCIA",
+            "rfc": "LOGD480528ES4",
+            "percepciones": 606318.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR DELFINO BARRERA TABITAS",
+            "rfc": "BATS541224Q54",
+            "percepciones": 605301.73,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ELIDA ALCORTA OLVERA",
+            "rfc": "AOOE361002337",
+            "percepciones": 2380730.12
+          },
+          "min": {
+            "nombre": "MA. PATRICIA ORTIZ DAVILA",
+            "rfc": "OIDP6610086C6",
+            "percepciones": 142.87
+          }
+        },
+        "total": 37679
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 179,
+        "1,000 - 10,000": 6721,
+        "10,000 - 50,000": 11372,
+        "50,000 - 100,000": 23536,
+        "100,000 - 250,000": 5617,
+        "250,000 - 500,000": 699,
+        "500,000 - 1,000,000": 48,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 25990,
+        "2 plazas": 5271,
+        "3 plazas": 1938,
+        "4 plazas": 1407,
+        "5 plazas": 980,
+        "6 o más plazas": 2093
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 121632266.95000018,
+            "plazas": 1152
+          },
+          {
+            "nombre": "LAURO AGUIRRE",
+            "percepciones": 37638719.84999998,
+            "plazas": 671
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 36900213.42999995,
+            "plazas": 359
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 31650195.469999995,
+            "plazas": 403
+          },
+          {
+            "nombre": "CENTRO DE ATENCION MULTIPLE",
+            "percepciones": 29999623.74000001,
+            "plazas": 354
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 29859419.940000024,
+            "plazas": 423
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 29717898.79999998,
+            "plazas": 268
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 27367426.38,
+            "plazas": 423
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 27069818.500000026,
+            "plazas": 516
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 25110777.38,
+            "plazas": 234
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 121632266.9500001
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION PREESCOLAR NUM. 86",
+            "percepciones": 4693.22
+          }
+        },
+        "total": 2314
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "SANJUANA ELSA LOPEZ CABRERA",
+            "rfc": "LOCS510727I14",
+            "percepciones": 2914580.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL CARMEN QUEZADA MARTINEZ",
+            "rfc": "QUMC600202SU1",
+            "percepciones": 1357289.95,
+            "plazas": 2
+          },
+          {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 1088443.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "PAULO AVILA ROSAS",
+            "rfc": "AIRP570622HG3",
+            "percepciones": 1001336.98,
+            "plazas": 2
+          },
+          {
+            "nombre": "MANUEL GARCIA PEÑA",
+            "rfc": "GAPM390428BZ7",
+            "percepciones": 987833.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DOLORES LOPEZ GARCIA",
+            "rfc": "LOGD480528ES4",
+            "percepciones": 955136.96,
+            "plazas": 1
+          },
+          {
+            "nombre": "BEATRIZ ADRIANA DE LA SERNA MARTINEZ",
+            "rfc": "SEMB600218LD0",
+            "percepciones": 932401.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALIVER LOPEZ LOPEZ",
+            "rfc": "LOLA440811AQ9",
+            "percepciones": 932050.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER HERNANDEZ ROJAS",
+            "rfc": "HERJ580812PS6",
+            "percepciones": 932050.85,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR JULIO DURAN MONTALVO",
+            "rfc": "DUMS470509HC3",
+            "percepciones": 932050.85,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SANJUANA ELSA LOPEZ CABRERA",
+            "rfc": "LOCS510727I14",
+            "percepciones": 2914580.6
+          },
+          "min": {
+            "nombre": "AIDEE IVONNE AVILES RODRIGUEZ",
+            "rfc": "AIRA870915CL6",
+            "percepciones": 606.72
+          }
+        },
+        "total": 37919
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 67,
+        "1,000 - 10,000": 5608,
+        "10,000 - 50,000": 10658,
+        "50,000 - 100,000": 20861,
+        "100,000 - 250,000": 9082,
+        "250,000 - 500,000": 1690,
+        "500,000 - 1,000,000": 278,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26173,
+        "2 plazas": 5280,
+        "3 plazas": 1933,
+        "4 plazas": 1408,
+        "5 plazas": 967,
+        "6 o más plazas": 2158
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 110625969.79000045,
+            "plazas": 1152
+          },
+          {
+            "nombre": "LAURO AGUIRRE",
+            "percepciones": 34692345.36000009,
+            "plazas": 660
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 34518435.98000007,
+            "plazas": 367
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 28492146.54000001,
+            "plazas": 396
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 27664277.739999995,
+            "plazas": 416
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 27116226.29000004,
+            "plazas": 266
+          },
+          {
+            "nombre": "CENTRO DE ATENCION MULTIPLE",
+            "percepciones": 26412409.769999962,
+            "plazas": 342
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 25070299.710000057,
+            "plazas": 426
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 24916348.36999998,
+            "plazas": 532
+          },
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 23084677.11000001,
+            "plazas": 236
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "UNIDAD DE SERVICIOS DE APOYO A LA EDUCACION REGULAR",
+            "percepciones": 110625969.78999996
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION PREESCOLAR NUM. 86",
+            "percepciones": 4187.15
+          }
+        },
+        "total": 2311
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LETICIA AIDE SALDAÑA GARCIA",
+            "rfc": "SAGL480104R78",
+            "percepciones": 2929217.73,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCA ALEIDA CASTAÑEDA QUIROGA",
+            "rfc": "CAQF620807J41",
+            "percepciones": 1695822.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "AMELIO OLIVA ARGUELLES",
+            "rfc": "OIAA600105K27",
+            "percepciones": 980705.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIO CASTILLO FLORES",
+            "rfc": "CAFC470906KY8",
+            "percepciones": 972724.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "PAULO AVILA ROSAS",
+            "rfc": "AIRP570622HG3",
+            "percepciones": 907436.1799999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "MANUEL GARCIA PEÑA",
+            "rfc": "GAPM390428BZ7",
+            "percepciones": 891818.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DOLORES LOPEZ GARCIA",
+            "rfc": "LOGD480528ES4",
+            "percepciones": 865378.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "BEATRIZ ADRIANA DE LA SERNA MARTINEZ",
+            "rfc": "SEMB600218LD0",
+            "percepciones": 843678.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER HERNANDEZ ROJAS",
+            "rfc": "HERJ580812PS6",
+            "percepciones": 843361.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALIVER LOPEZ LOPEZ",
+            "rfc": "LOLA440811AQ9",
+            "percepciones": 843361.88,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LETICIA AIDE SALDAÑA GARCIA",
+            "rfc": "SAGL480104R78",
+            "percepciones": 2929217.73
+          },
+          "min": {
+            "nombre": "FELICITAS CASTILLO REYES",
+            "rfc": "CARF650324SE3",
+            "percepciones": 1738.46
+          }
+        },
+        "total": 37734
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 31,
+        "1,000 - 10,000": 5368,
+        "10,000 - 50,000": 10893,
+        "50,000 - 100,000": 21971,
+        "100,000 - 250,000": 8028,
+        "250,000 - 500,000": 1458,
+        "500,000 - 1,000,000": 201,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 26253,
+        "2 plazas": 5094,
+        "3 plazas": 1915,
+        "4 plazas": 1377,
+        "5 plazas": 952,
+        "6 o más plazas": 2143
+      }
+    }
+  }
+}

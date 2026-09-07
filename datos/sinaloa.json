@@ -1,0 +1,812 @@
+{
+  "entidad_federativa": "SINALOA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 23648597.189999983,
+            "plazas": 555
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 20769506.77,
+            "plazas": 354
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 16140432.440000001,
+            "plazas": 270
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 15754346.770000005,
+            "plazas": 252
+          },
+          {
+            "nombre": "GENARO ESTRADA",
+            "percepciones": 15482670.549999988,
+            "plazas": 495
+          },
+          {
+            "nombre": "SECUNDARIA FEDERAL",
+            "percepciones": 14942420.510000018,
+            "plazas": 632
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 13977317.770000003,
+            "plazas": 220
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 13814237.569999998,
+            "plazas": 262
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE SERVICIOS ADMINISTRATIVOS",
+            "percepciones": 13555336.840000005,
+            "plazas": 344
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 13548640.35999999,
+            "plazas": 235
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 23648597.190000005
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION FISICA ZONA 43",
+            "percepciones": 5126.64
+          }
+        },
+        "total": 2155
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GUADALUPE ABEL FLORES ECHAVARRIA",
+            "rfc": "FOEG561212PF3",
+            "percepciones": 1259285.84,
+            "plazas": 2
+          },
+          {
+            "nombre": "RAMON ISMAEL ALVARADO VAZQUEZ",
+            "rfc": "AAVR6007194W3",
+            "percepciones": 761244.4400000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "ROSA MARIA MARRUJO BAÑUELOS",
+            "rfc": "MABR5007149M4",
+            "percepciones": 749135.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "SAUL JAIME SANCHEZ VILLELA DUARTE",
+            "rfc": "SADS590711FP4",
+            "percepciones": 660927.48,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 623527.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL MIGUEL CUELLAR RUZ",
+            "rfc": "CURR5105015K7",
+            "percepciones": 611679.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME EVERARDO LOPEZ LOPEZ",
+            "rfc": "LOLJ530303Q97",
+            "percepciones": 602244.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO CUNDAPI RAMOS",
+            "rfc": "CURA441029KT0",
+            "percepciones": 574495.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR RODRIGUEZ VAZQUEZ",
+            "rfc": "ROVO521216C24",
+            "percepciones": 569844.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "FAUSTINO PARDO LUQUIN",
+            "rfc": "PALF540215TT8",
+            "percepciones": 566278.86,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GUADALUPE ABEL FLORES ECHAVARRIA",
+            "rfc": "FOEG561212PF3",
+            "percepciones": 1259285.84
+          },
+          "min": {
+            "nombre": "JUAN FRANCISCO OCHOA ZAMUDIO",
+            "rfc": "OOZJ741222BY6",
+            "percepciones": 380.54
+          }
+        },
+        "total": 31251
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 450,
+        "1,000 - 10,000": 5561,
+        "10,000 - 50,000": 7458,
+        "50,000 - 100,000": 21106,
+        "100,000 - 250,000": 4048,
+        "250,000 - 500,000": 386,
+        "500,000 - 1,000,000": 21
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22608,
+        "2 plazas": 3495,
+        "3 plazas": 1043,
+        "4 plazas": 877,
+        "5 plazas": 691,
+        "6 o más plazas": 2537
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 22834459.04000009,
+            "plazas": 538
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 20508719.06000005,
+            "plazas": 345
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 16114171.820000026,
+            "plazas": 265
+          },
+          {
+            "nombre": "SECUNDARIA FEDERAL",
+            "percepciones": 15460490.600000039,
+            "plazas": 575
+          },
+          {
+            "nombre": "GENARO ESTRADA",
+            "percepciones": 15388631.209999992,
+            "plazas": 466
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 15322493.080000002,
+            "plazas": 242
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 13858248.86000001,
+            "plazas": 233
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 13674395.690000003,
+            "plazas": 259
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 13576077.010000002,
+            "plazas": 217
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE SERVICIOS ADMINISTRATIVOS",
+            "percepciones": 13542036.96999999,
+            "plazas": 323
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 22834459.04
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION FISICA ZONA 43",
+            "percepciones": 5811.12
+          }
+        },
+        "total": 2155
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 669158.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL MIGUEL CUELLAR RUZ",
+            "rfc": "CURR5105015K7",
+            "percepciones": 664011.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME EVERARDO LOPEZ LOPEZ",
+            "rfc": "LOLJ530303Q97",
+            "percepciones": 643255.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO CUNDAPI RAMOS",
+            "rfc": "CURA441029KT0",
+            "percepciones": 617747.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR RODRIGUEZ VAZQUEZ",
+            "rfc": "ROVO521216C24",
+            "percepciones": 608949.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS PINI BERNAL",
+            "rfc": "PIBL501208AT7",
+            "percepciones": 602747.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "HORACIO CASTRO ESPINOZA",
+            "rfc": "CAEH510302H4A",
+            "percepciones": 598449.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA MARIA ARAGON SALAZAR",
+            "rfc": "AASR551020P56",
+            "percepciones": 569649.8099999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "REBECA MURGUIA AGUILAR",
+            "rfc": "MUAR680229J14",
+            "percepciones": 563287.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "PRISCILIANO RAMOS JUAREZ",
+            "rfc": "RAJP570517JDA",
+            "percepciones": 556501.3200000001,
+            "plazas": 4
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 669158.06
+          },
+          "min": {
+            "nombre": "CONCEPCION CASTRO ANGULO",
+            "rfc": "CAAC630707UQ2",
+            "percepciones": 500.0
+          }
+        },
+        "total": 30174
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 65,
+        "1,000 - 10,000": 4592,
+        "10,000 - 50,000": 6412,
+        "50,000 - 100,000": 21401,
+        "100,000 - 250,000": 4014,
+        "250,000 - 500,000": 481,
+        "500,000 - 1,000,000": 31
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22461,
+        "2 plazas": 2943,
+        "3 plazas": 950,
+        "4 plazas": 865,
+        "5 plazas": 680,
+        "6 o más plazas": 2275
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 29160559.43,
+            "plazas": 542
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 26387469.779999964,
+            "plazas": 348
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 20644516.289999988,
+            "plazas": 263
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 19927352.92999998,
+            "plazas": 244
+          },
+          {
+            "nombre": "SECUNDARIA FEDERAL",
+            "percepciones": 19426890.44999997,
+            "plazas": 584
+          },
+          {
+            "nombre": "GENARO ESTRADA",
+            "percepciones": 19399299.72000002,
+            "plazas": 469
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE SERVICIOS ADMINISTRATIVOS",
+            "percepciones": 18263658.65000001,
+            "plazas": 329
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 17491789.159999993,
+            "plazas": 218
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 17338340.099999998,
+            "plazas": 234
+          },
+          {
+            "nombre": "IGNACIO RAMIREZ",
+            "percepciones": 17099266.2,
+            "plazas": 366
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 29160559.430000003
+          },
+          "min": {
+            "nombre": "DR. ELIGIO DIAZ V.",
+            "percepciones": 2021.88
+          }
+        },
+        "total": 2157
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 764027.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL MIGUEL CUELLAR RUZ",
+            "rfc": "CURR5105015K7",
+            "percepciones": 754027.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME EVERARDO LOPEZ LOPEZ",
+            "rfc": "LOLJ530303Q97",
+            "percepciones": 732736.75,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO CUNDAPI RAMOS",
+            "rfc": "CURA441029KT0",
+            "percepciones": 706713.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR RODRIGUEZ VAZQUEZ",
+            "rfc": "ROVO521216C24",
+            "percepciones": 693699.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS PINI BERNAL",
+            "rfc": "PIBL501208AT7",
+            "percepciones": 691713.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "HORACIO CASTRO ESPINOZA",
+            "rfc": "CAEH510302H4A",
+            "percepciones": 683199.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA MARIA ARAGON SALAZAR",
+            "rfc": "AASR551020P56",
+            "percepciones": 641582.74,
+            "plazas": 2
+          },
+          {
+            "nombre": "AURELIO RODRIGUEZ ESPARZA",
+            "rfc": "ROEA541020HL6",
+            "percepciones": 631837.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "PRISCILIANO RAMOS JUAREZ",
+            "rfc": "RAJP570517JDA",
+            "percepciones": 626987.6,
+            "plazas": 4
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 764027.43
+          },
+          "min": {
+            "nombre": "JESUS MIGUEL ALMEIDA MU OZ",
+            "rfc": "AEMJ821126TP5",
+            "percepciones": 59.76
+          }
+        },
+        "total": 30675
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 515,
+        "1,000 - 10,000": 4125,
+        "10,000 - 50,000": 6575,
+        "50,000 - 100,000": 18926,
+        "100,000 - 250,000": 7257,
+        "250,000 - 500,000": 641,
+        "500,000 - 1,000,000": 84
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22655,
+        "2 plazas": 3125,
+        "3 plazas": 980,
+        "4 plazas": 890,
+        "5 plazas": 686,
+        "6 o más plazas": 2339
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 37447109.58000004,
+            "plazas": 554
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 33899512.75999999,
+            "plazas": 356
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 26546368.390000004,
+            "plazas": 268
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 25148999.349999994,
+            "plazas": 249
+          },
+          {
+            "nombre": "GENARO ESTRADA",
+            "percepciones": 25093950.32000003,
+            "plazas": 469
+          },
+          {
+            "nombre": "SECUNDARIA FEDERAL",
+            "percepciones": 24997663.83000001,
+            "plazas": 607
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 22591263.660000015,
+            "plazas": 220
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 22365401.940000005,
+            "plazas": 236
+          },
+          {
+            "nombre": "IGNACIO RAMIREZ",
+            "percepciones": 21981902.259999994,
+            "plazas": 372
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE SERVICIOS ADMINISTRATIVOS",
+            "percepciones": 21821495.26999999,
+            "plazas": 330
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 37447109.58000001
+          },
+          "min": {
+            "nombre": "DR. ELIGIO DIAZ V.",
+            "percepciones": 6321.98
+          }
+        },
+        "total": 2157
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 1134202.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL MIGUEL CUELLAR RUZ",
+            "rfc": "CURR5105015K7",
+            "percepciones": 1086513.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME EVERARDO LOPEZ LOPEZ",
+            "rfc": "LOLJ530303Q97",
+            "percepciones": 1048895.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO CUNDAPI RAMOS",
+            "rfc": "CURA441029KT0",
+            "percepciones": 1037366.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "REBECA MURGUIA AGUILAR",
+            "rfc": "MUAR680229J14",
+            "percepciones": 1033484.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS PINI BERNAL",
+            "rfc": "PIBL501208AT7",
+            "percepciones": 1022366.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA MARIA ARAGON SALAZAR",
+            "rfc": "AASR551020P56",
+            "percepciones": 992882.41,
+            "plazas": 2
+          },
+          {
+            "nombre": "OSCAR RODRIGUEZ VAZQUEZ",
+            "rfc": "ROVO521216C24",
+            "percepciones": 978185.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "HORACIO CASTRO ESPINOZA",
+            "rfc": "CAEH510302H4A",
+            "percepciones": 967685.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA DAYSI VERGARA TEJADA",
+            "rfc": "VETA570101474",
+            "percepciones": 936771.47,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 1134202.58
+          },
+          "min": {
+            "nombre": "NORMA MERARI ESQUEDA VALDEZ",
+            "rfc": "EUVN930604J46",
+            "percepciones": 464.56
+          }
+        },
+        "total": 31084
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 289,
+        "1,000 - 10,000": 3625,
+        "10,000 - 50,000": 6724,
+        "50,000 - 100,000": 12286,
+        "100,000 - 250,000": 14097,
+        "250,000 - 500,000": 1337,
+        "500,000 - 1,000,000": 294,
+        "Mayor a 1,000,000": 6
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22807,
+        "2 plazas": 3231,
+        "3 plazas": 1005,
+        "4 plazas": 898,
+        "5 plazas": 703,
+        "6 o más plazas": 2440
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 28076397.440000042,
+            "plazas": 545
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 25323158.879999988,
+            "plazas": 349
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 20560767.77000002,
+            "plazas": 279
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 19125746.7,
+            "plazas": 247
+          },
+          {
+            "nombre": "GENARO ESTRADA",
+            "percepciones": 18680592.289999977,
+            "plazas": 459
+          },
+          {
+            "nombre": "SECUNDARIA FEDERAL",
+            "percepciones": 18394775.760000017,
+            "plazas": 584
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 16653036.510000002,
+            "plazas": 230
+          },
+          {
+            "nombre": "VENUSTIANO CARRANZA",
+            "percepciones": 16577771.760000002,
+            "plazas": 216
+          },
+          {
+            "nombre": "DIRECCION GENERAL DE SERVICIOS ADMINISTRATIVOS",
+            "percepciones": 16524913.330000011,
+            "plazas": 320
+          },
+          {
+            "nombre": "IGNACIO RAMIREZ",
+            "percepciones": 16341157.980000008,
+            "plazas": 361
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 28076397.43999999
+          },
+          "min": {
+            "nombre": "SUPERVISION DE EDUCACION FISICA ZONA 43",
+            "percepciones": 6710.01
+          }
+        },
+        "total": 2151
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ELIZABETH SIGALA MENDEZ",
+            "rfc": "SIME830406J60",
+            "percepciones": 1006735.45,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALEJANDRO CORDOVA CORTES",
+            "rfc": "COCA410325486",
+            "percepciones": 806068.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAFAEL MIGUEL CUELLAR RUZ",
+            "rfc": "CURR5105015K7",
+            "percepciones": 797940.73,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAIME EVERARDO LOPEZ LOPEZ",
+            "rfc": "LOLJ530303Q97",
+            "percepciones": 772152.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO CUNDAPI RAMOS",
+            "rfc": "CURA441029KT0",
+            "percepciones": 738599.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "OSCAR RODRIGUEZ VAZQUEZ",
+            "rfc": "ROVO521216C24",
+            "percepciones": 731980.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS PINI BERNAL",
+            "rfc": "PIBL501208AT7",
+            "percepciones": 721099.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "HORACIO CASTRO ESPINOZA",
+            "rfc": "CAEH510302H4A",
+            "percepciones": 716480.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALMA DAYSI VERGARA TEJADA",
+            "rfc": "VETA570101474",
+            "percepciones": 690114.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA MARIA ARAGON SALAZAR",
+            "rfc": "AASR551020P56",
+            "percepciones": 685658.23,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ELIZABETH SIGALA MENDEZ",
+            "rfc": "SIME830406J60",
+            "percepciones": 1006735.45
+          },
+          "min": {
+            "nombre": "ESTEFANIA CHAIDEZ MEDINA",
+            "rfc": "CAME920516DR4",
+            "percepciones": 1290.48
+          }
+        },
+        "total": 30306
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 61,
+        "1,000 - 10,000": 3811,
+        "10,000 - 50,000": 6943,
+        "50,000 - 100,000": 19795,
+        "100,000 - 250,000": 5727,
+        "250,000 - 500,000": 634,
+        "500,000 - 1,000,000": 116,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 22623,
+        "2 plazas": 2912,
+        "3 plazas": 940,
+        "4 plazas": 861,
+        "5 plazas": 683,
+        "6 o más plazas": 2287
+      }
+    }
+  }
+}

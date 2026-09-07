@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "COLIMA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 48145808.23000011,
+            "plazas": 1318
+          },
+          {
+            "nombre": "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA",
+            "percepciones": 21268076.23,
+            "plazas": 304
+          },
+          {
+            "nombre": "GREGORIO TORRES QUINTERO",
+            "percepciones": 15804447.390000014,
+            "plazas": 338
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15486265.729999991,
+            "plazas": 186
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15475081.050000008,
+            "plazas": 330
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 14607935.439999988,
+            "plazas": 144
+          },
+          {
+            "nombre": "SUSANA ORTIZ SILVA",
+            "percepciones": 13646961.329999994,
+            "plazas": 294
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 13480229.020000009,
+            "plazas": 332
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 13364740.469999991,
+            "plazas": 246
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 11797940.089999992,
+            "plazas": 122
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 48145808.2299999
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA DE EDUCACION BASICA PARA ADULTOS NUM.2",
+            "percepciones": 68690.49
+          }
+        },
+        "total": 572
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 774799.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "TULIO ENRICO BRAVO ZAMORA",
+            "rfc": "BAZT640910GR2",
+            "percepciones": 739815.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARGARITA FIGUEROA ORDAZ",
+            "rfc": "FIOM550316J64",
+            "percepciones": 684880.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA PATRICIA GASPAR OSORIO",
+            "rfc": "GAOA5904285S9",
+            "percepciones": 678446.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ALFONSO AGUILAR LOPEZ",
+            "rfc": "AULC621104QD8",
+            "percepciones": 653355.96,
+            "plazas": 2
+          },
+          {
+            "nombre": "GUSTAVO RAMOS CAMPOS",
+            "rfc": "RACG630517BL9",
+            "percepciones": 652850.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FRANCISCO RADILLO ALVAREZ",
+            "rfc": "RAAF621015R72",
+            "percepciones": 652850.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALINAS RIVERA",
+            "rfc": "SARS660904KU8",
+            "percepciones": 632814.6900000001,
+            "plazas": 6
+          },
+          {
+            "nombre": "LETICIA PONCE DE LEON AMADOR",
+            "rfc": "POAL520310N19",
+            "percepciones": 630572.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO MAGAÑA MAGAÑA",
+            "rfc": "MAMG6410166A0",
+            "percepciones": 611390.18,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 774799.89
+          },
+          "min": {
+            "nombre": "BEATRIZ PAULINA RIVERA CERVANTES",
+            "rfc": "RICB8005092IA",
+            "percepciones": 155.98
+          }
+        },
+        "total": 9206
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 179,
+        "1,000 - 10,000": 1402,
+        "10,000 - 50,000": 2070,
+        "50,000 - 100,000": 5077,
+        "100,000 - 250,000": 2420,
+        "250,000 - 500,000": 284,
+        "500,000 - 1,000,000": 28
+      },
+      "distribucion_plazas": {
+        "1 plaza": 6918,
+        "2 plazas": 801,
+        "3 plazas": 384,
+        "4 plazas": 300,
+        "5 plazas": 225,
+        "6 o más plazas": 578
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 42536284.15000001,
+            "plazas": 1317
+          },
+          {
+            "nombre": "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA",
+            "percepciones": 19049365.56999998,
+            "plazas": 313
+          },
+          {
+            "nombre": "GREGORIO TORRES QUINTERO",
+            "percepciones": 14390440.240000008,
+            "plazas": 335
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 13921935.939999992,
+            "plazas": 184
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 13430433.350000013,
+            "plazas": 326
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 12742383.54,
+            "plazas": 145
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 12311195.109999998,
+            "plazas": 245
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 11888013.610000014,
+            "plazas": 326
+          },
+          {
+            "nombre": "SUSANA ORTIZ SILVA",
+            "percepciones": 11725346.75000001,
+            "plazas": 295
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 9893462.310000006,
+            "plazas": 117
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 42536284.150000095
+          },
+          "min": {
+            "nombre": "SUPERVISIÓN DE ZONA DE EDUCACIÓN BÁSICA PARA ADULTOS NUM.4",
+            "percepciones": 57625.87
+          }
+        },
+        "total": 572
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 771685.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "TULIO ENRICO BRAVO ZAMORA",
+            "rfc": "BAZT640910GR2",
+            "percepciones": 728160.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA PATRICIA GASPAR OSORIO",
+            "rfc": "GAOA5904285S9",
+            "percepciones": 681432.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARGARITA FIGUEROA ORDAZ",
+            "rfc": "FIOM550316J64",
+            "percepciones": 675276.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUSTAVO RAMOS CAMPOS",
+            "rfc": "RACG630517BL9",
+            "percepciones": 655525.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ALFONSO AGUILAR LOPEZ",
+            "rfc": "AULC621104QD8",
+            "percepciones": 650269.3,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSE FRANCISCO RADILLO ALVAREZ",
+            "rfc": "RAAF621015R72",
+            "percepciones": 649468.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALINAS RIVERA",
+            "rfc": "SARS660904KU8",
+            "percepciones": 623249.04,
+            "plazas": 6
+          },
+          {
+            "nombre": "LETICIA PONCE DE LEON AMADOR",
+            "rfc": "POAL520310N19",
+            "percepciones": 610603.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "GABRIEL VAZQUEZ RODRIGUEZ",
+            "rfc": "VARG510605M5A",
+            "percepciones": 604338.95,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 771685.08
+          },
+          "min": {
+            "nombre": "ADAN FIGUEROA ARIAS",
+            "rfc": "FIAA620806QG4",
+            "percepciones": 607.67
+          }
+        },
+        "total": 8944
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 26,
+        "1,000 - 10,000": 1009,
+        "10,000 - 50,000": 2000,
+        "50,000 - 100,000": 5542,
+        "100,000 - 250,000": 1692,
+        "250,000 - 500,000": 252,
+        "500,000 - 1,000,000": 24
+      },
+      "distribucion_plazas": {
+        "1 plaza": 7016,
+        "2 plazas": 630,
+        "3 plazas": 316,
+        "4 plazas": 289,
+        "5 plazas": 203,
+        "6 o más plazas": 490
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 45995873.609999985,
+            "plazas": 1360
+          },
+          {
+            "nombre": "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA",
+            "percepciones": 23297784.170000006,
+            "plazas": 313
+          },
+          {
+            "nombre": "GREGORIO TORRES QUINTERO",
+            "percepciones": 15697958.200000005,
+            "plazas": 337
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 14893249.409999996,
+            "plazas": 189
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 14538729.379999997,
+            "plazas": 330
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 14311155.329999994,
+            "plazas": 149
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 13598518.020000009,
+            "plazas": 247
+          },
+          {
+            "nombre": "SUSANA ORTIZ SILVA",
+            "percepciones": 13178460.479999999,
+            "plazas": 296
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 12808431.759999998,
+            "plazas": 326
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 11354308.919999998,
+            "plazas": 121
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 45995873.61000003
+          },
+          "min": {
+            "nombre": "EL PIPILA",
+            "percepciones": 2536.08
+          }
+        },
+        "total": 573
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 761709.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "TULIO ENRICO BRAVO ZAMORA",
+            "rfc": "BAZT640910GR2",
+            "percepciones": 733274.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA PATRICIA GASPAR OSORIO",
+            "rfc": "GAOA5904285S9",
+            "percepciones": 670622.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARGARITA FIGUEROA ORDAZ",
+            "rfc": "FIOM550316J64",
+            "percepciones": 668423.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ALFONSO AGUILAR LOPEZ",
+            "rfc": "AULC621104QD8",
+            "percepciones": 654293.5900000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSE FRANCISCO RADILLO ALVAREZ",
+            "rfc": "RAAF621015R72",
+            "percepciones": 649749.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUSTAVO RAMOS CAMPOS",
+            "rfc": "RACG630517BL9",
+            "percepciones": 643324.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALINAS RIVERA",
+            "rfc": "SARS660904KU8",
+            "percepciones": 633803.8500000001,
+            "plazas": 6
+          },
+          {
+            "nombre": "JORGE AVALOS DELGADILLO",
+            "rfc": "AADJ5608148R0",
+            "percepciones": 602605.23,
+            "plazas": 2
+          },
+          {
+            "nombre": "GABRIEL VAZQUEZ RODRIGUEZ",
+            "rfc": "VARG510605M5A",
+            "percepciones": 601984.1,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 761709.31
+          },
+          "min": {
+            "nombre": "LENISSE GUILLERMINA MONTERO VAZQUEZ",
+            "rfc": "MOVL800109AH5",
+            "percepciones": 82.7
+          }
+        },
+        "total": 9070
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 156,
+        "1,000 - 10,000": 1160,
+        "10,000 - 50,000": 2009,
+        "50,000 - 100,000": 4981,
+        "100,000 - 250,000": 2472,
+        "250,000 - 500,000": 252,
+        "500,000 - 1,000,000": 23
+      },
+      "distribucion_plazas": {
+        "1 plaza": 6964,
+        "2 plazas": 750,
+        "3 plazas": 342,
+        "4 plazas": 282,
+        "5 plazas": 203,
+        "6 o más plazas": 529
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 56831002.69999992,
+            "plazas": 1412
+          },
+          {
+            "nombre": "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA",
+            "percepciones": 26362048.73999998,
+            "plazas": 309
+          },
+          {
+            "nombre": "GREGORIO TORRES QUINTERO",
+            "percepciones": 18801904.17999998,
+            "plazas": 334
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 18030647.230000004,
+            "plazas": 322
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 17877740.02,
+            "plazas": 187
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 17054912.860000003,
+            "plazas": 148
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 15880440.359999996,
+            "plazas": 244
+          },
+          {
+            "nombre": "SUSANA ORTIZ SILVA",
+            "percepciones": 15685441.599999985,
+            "plazas": 291
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 15257709.439999994,
+            "plazas": 321
+          },
+          {
+            "nombre": "ANTONIO BARBOSA HELDT",
+            "percepciones": 13220016.850000003,
+            "plazas": 236
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 56831002.69999999
+          },
+          "min": {
+            "nombre": "EL PIPILA",
+            "percepciones": 2171.49
+          }
+        },
+        "total": 574
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 911383.25,
+            "plazas": 1
+          },
+          {
+            "nombre": "TULIO ENRICO BRAVO ZAMORA",
+            "rfc": "BAZT640910GR2",
+            "percepciones": 862091.13,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARGARITA FIGUEROA ORDAZ",
+            "rfc": "FIOM550316J64",
+            "percepciones": 793879.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA PATRICIA GASPAR OSORIO",
+            "rfc": "GAOA5904285S9",
+            "percepciones": 793731.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ALFONSO AGUILAR LOPEZ",
+            "rfc": "AULC621104QD8",
+            "percepciones": 769980.22,
+            "plazas": 2
+          },
+          {
+            "nombre": "GUSTAVO RAMOS CAMPOS",
+            "rfc": "RACG630517BL9",
+            "percepciones": 763528.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FRANCISCO RADILLO ALVAREZ",
+            "rfc": "RAAF621015R72",
+            "percepciones": 763159.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "LETICIA PONCE DE LEON AMADOR",
+            "rfc": "POAL520310N19",
+            "percepciones": 738759.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "SALVADOR SALINAS RIVERA",
+            "rfc": "SARS660904KU8",
+            "percepciones": 730286.73,
+            "plazas": 6
+          },
+          {
+            "nombre": "GERARDO MAGAÑA MAGAÑA",
+            "rfc": "MAMG6410166A0",
+            "percepciones": 717301.17,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 911383.25
+          },
+          "min": {
+            "nombre": "LENISSE GUILLERMINA MONTERO VAZQUEZ",
+            "rfc": "MOVL800109AH5",
+            "percepciones": 57.35
+          }
+        },
+        "total": 9124
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 259,
+        "1,000 - 10,000": 963,
+        "10,000 - 50,000": 1816,
+        "50,000 - 100,000": 2977,
+        "100,000 - 250,000": 4663,
+        "250,000 - 500,000": 344,
+        "500,000 - 1,000,000": 53
+      },
+      "distribucion_plazas": {
+        "1 plaza": 6942,
+        "2 plazas": 768,
+        "3 plazas": 331,
+        "4 plazas": 294,
+        "5 plazas": 219,
+        "6 o más plazas": 570
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 51253525.71999998,
+            "plazas": 1453
+          },
+          {
+            "nombre": "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA",
+            "percepciones": 22381778.92999998,
+            "plazas": 309
+          },
+          {
+            "nombre": "GREGORIO TORRES QUINTERO",
+            "percepciones": 16722158.729999991,
+            "plazas": 337
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 16626148.659999996,
+            "plazas": 191
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15265401.089999985,
+            "plazas": 322
+          },
+          {
+            "nombre": "ESCUELA PRIMARIA",
+            "percepciones": 15162455.5,
+            "plazas": 148
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 14245230.619999984,
+            "plazas": 242
+          },
+          {
+            "nombre": "SUSANA ORTIZ SILVA",
+            "percepciones": 13847047.540000008,
+            "plazas": 289
+          },
+          {
+            "nombre": "JUSTO SIERRA",
+            "percepciones": 13383349.610000018,
+            "plazas": 324
+          },
+          {
+            "nombre": "ANTONIO BARBOSA HELDT",
+            "percepciones": 12042029.129999995,
+            "plazas": 242
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 51253525.7199999
+          },
+          "min": {
+            "nombre": "EL PIPILA",
+            "percepciones": 2171.49
+          }
+        },
+        "total": 575
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MANUEL VAZQUEZ GONZALEZ",
+            "rfc": "VAGM450326TD1",
+            "percepciones": 2146690.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "ENRIQUE LOPEZ LLERENAS",
+            "rfc": "LOLE560113B15",
+            "percepciones": 897751.13,
+            "plazas": 1
+          },
+          {
+            "nombre": "TULIO ENRICO BRAVO ZAMORA",
+            "rfc": "BAZT640910GR2",
+            "percepciones": 862923.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANGELINA PATRICIA GASPAR OSORIO",
+            "rfc": "GAOA5904285S9",
+            "percepciones": 791891.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "GUSTAVO RAMOS CAMPOS",
+            "rfc": "RACG630517BL9",
+            "percepciones": 755617.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FRANCISCO RADILLO ALVAREZ",
+            "rfc": "RAAF621015R72",
+            "percepciones": 755617.64,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS ALFONSO AGUILAR LOPEZ",
+            "rfc": "AULC621104QD8",
+            "percepciones": 753349.83,
+            "plazas": 2
+          },
+          {
+            "nombre": "SALVADOR SALINAS RIVERA",
+            "rfc": "SARS660904KU8",
+            "percepciones": 745861.18,
+            "plazas": 6
+          },
+          {
+            "nombre": "LETICIA PONCE DE LEON AMADOR",
+            "rfc": "POAL520310N19",
+            "percepciones": 717918.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO MAGAÑA MAGAÑA",
+            "rfc": "MAMG6410166A0",
+            "percepciones": 700293.84,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MANUEL VAZQUEZ GONZALEZ",
+            "rfc": "VAGM450326TD1",
+            "percepciones": 2146690.65
+          },
+          "min": {
+            "nombre": "LENISSE GUILLERMINA MONTERO VAZQUEZ",
+            "rfc": "MOVL800109AH5",
+            "percepciones": 57.35
+          }
+        },
+        "total": 9244
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 316,
+        "1,000 - 10,000": 1458,
+        "10,000 - 50,000": 1964,
+        "50,000 - 100,000": 4985,
+        "100,000 - 250,000": 2488,
+        "250,000 - 500,000": 314,
+        "500,000 - 1,000,000": 35,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 6955,
+        "2 plazas": 777,
+        "3 plazas": 375,
+        "4 plazas": 297,
+        "5 plazas": 218,
+        "6 o más plazas": 622
+      }
+    }
+  }
+}

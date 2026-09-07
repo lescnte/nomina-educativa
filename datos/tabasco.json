@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "TABASCO",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 22840105.059999987,
+            "plazas": 379
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 21371943.439999994,
+            "plazas": 331
+          },
+          {
+            "nombre": "CARLOS PELLICER CAMARA",
+            "percepciones": 19863803.70999998,
+            "plazas": 424
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 17376533.700000025,
+            "plazas": 232
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 16435367.840000005,
+            "plazas": 217
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 13495312.030000001,
+            "plazas": 171
+          },
+          {
+            "nombre": "GREGORIO MENDEZ MAGAÑA",
+            "percepciones": 12774558.420000019,
+            "plazas": 257
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 11548317.890000002,
+            "plazas": 268
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 11482699.279999994,
+            "plazas": 137
+          },
+          {
+            "nombre": "GRACIELA PINTADO DE MADRAZO",
+            "percepciones": 10711729.710000023,
+            "plazas": 280
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 22840105.060000002
+          },
+          "min": {
+            "nombre": "CENTRO DE APOYO A LA DOCENCIA EN EDUCACION ESPECIAL",
+            "percepciones": 2470.28
+          }
+        },
+        "total": 1964
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 779643.98,
+            "plazas": 2
+          },
+          {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 670879.87,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDO ALONSO ESPINOLA PADILLA",
+            "rfc": "EIPF6001091N0",
+            "percepciones": 604643.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDEZ GALLEGOS",
+            "rfc": "FEGJ560308KH2",
+            "percepciones": 592464.41,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARINA AGUILAR GOVEA",
+            "rfc": "AUGM551111AR9",
+            "percepciones": 570800.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ABELARDO SULU TUN",
+            "rfc": "SUTA600303PL3",
+            "percepciones": 570800.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO GIL LUNA",
+            "rfc": "GILA641107AE6",
+            "percepciones": 570693.0800000001,
+            "plazas": 6
+          },
+          {
+            "nombre": "RUBEN PEREZ",
+            "rfc": "PERU581023E99",
+            "percepciones": 551390.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARILU SANCHEZ LOPEZ",
+            "rfc": "SALM620529JN2",
+            "percepciones": 549395.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANA MARIA CRUZ NOVELO",
+            "rfc": "CUNA580930HD8",
+            "percepciones": 549206.63,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 779643.98
+          },
+          "min": {
+            "nombre": "ANTONIO IZQUIERDO DOMINGUEZ",
+            "rfc": "IUDA720909BQ6",
+            "percepciones": 527.63
+          }
+        },
+        "total": 21070
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 295,
+        "1,000 - 10,000": 2514,
+        "10,000 - 50,000": 3921,
+        "50,000 - 100,000": 14393,
+        "100,000 - 250,000": 3206,
+        "250,000 - 500,000": 347,
+        "500,000 - 1,000,000": 18
+      },
+      "distribucion_plazas": {
+        "1 plaza": 17354,
+        "2 plazas": 1218,
+        "3 plazas": 678,
+        "4 plazas": 420,
+        "5 plazas": 305,
+        "6 o más plazas": 1095
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 20962431.370000057,
+            "plazas": 372
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 19625824.970000032,
+            "plazas": 321
+          },
+          {
+            "nombre": "CARLOS PELLICER CAMARA",
+            "percepciones": 18224382.51999999,
+            "plazas": 414
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 15897532.359999973,
+            "plazas": 227
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 15331900.689999983,
+            "plazas": 215
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 12535961.109999998,
+            "plazas": 170
+          },
+          {
+            "nombre": "GREGORIO MENDEZ MAGAÑA",
+            "percepciones": 11547869.959999997,
+            "plazas": 252
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 11113489.13,
+            "plazas": 134
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 10585339.05999997,
+            "plazas": 261
+          },
+          {
+            "nombre": "GRACIELA PINTADO DE MADRAZO",
+            "percepciones": 9667794.739999998,
+            "plazas": 274
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 20962431.37
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA DE SECUNDARIA GENERAL Y TECNICA NUMERO 19",
+            "percepciones": 6077.96
+          }
+        },
+        "total": 1960
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "RODOLFO AQUINO HERNANDEZ",
+            "rfc": "AUHR680321SP7",
+            "percepciones": 607890.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 594583.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 588805.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDO ALONSO ESPINOLA PADILLA",
+            "rfc": "EIPF6001091N0",
+            "percepciones": 536776.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDEZ GALLEGOS",
+            "rfc": "FEGJ560308KH2",
+            "percepciones": 523469.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE BENITO ROMERO LOPEZ",
+            "rfc": "ROLB580321JL9",
+            "percepciones": 521005.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ABELARDO SULU TUN",
+            "rfc": "SUTA600303PL3",
+            "percepciones": 504567.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARINA AGUILAR GOVEA",
+            "rfc": "AUGM551111AR9",
+            "percepciones": 504567.01,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO GIL LUNA",
+            "rfc": "GILA641107AE6",
+            "percepciones": 504415.85,
+            "plazas": 6
+          },
+          {
+            "nombre": "RUBEN PEREZ",
+            "rfc": "PERU581023E99",
+            "percepciones": 487622.28,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "RODOLFO AQUINO HERNANDEZ",
+            "rfc": "AUHR680321SP7",
+            "percepciones": 607890.1
+          },
+          "min": {
+            "nombre": "JUAN RAUL GALLEGOS OSORIO",
+            "rfc": "GAOJ900621U22",
+            "percepciones": 648.0
+          }
+        },
+        "total": 20270
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 29,
+        "1,000 - 10,000": 1916,
+        "10,000 - 50,000": 3167,
+        "50,000 - 100,000": 14505,
+        "100,000 - 250,000": 3205,
+        "250,000 - 500,000": 261,
+        "500,000 - 1,000,000": 8
+      },
+      "distribucion_plazas": {
+        "1 plaza": 17370,
+        "2 plazas": 719,
+        "3 plazas": 507,
+        "4 plazas": 419,
+        "5 plazas": 301,
+        "6 o más plazas": 954
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 26478823.420000006,
+            "plazas": 376
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 24472043.110000007,
+            "plazas": 324
+          },
+          {
+            "nombre": "CARLOS PELLICER CAMARA",
+            "percepciones": 22872751.009999987,
+            "plazas": 418
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 19513952.829999987,
+            "plazas": 228
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 18760235.2,
+            "plazas": 212
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 15492532.230000002,
+            "plazas": 171
+          },
+          {
+            "nombre": "GREGORIO MENDEZ MAGAÑA",
+            "percepciones": 14680887.38999997,
+            "plazas": 252
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 13344128.520000009,
+            "plazas": 262
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 13233853.160000006,
+            "plazas": 133
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 12022549.170000002,
+            "plazas": 325
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 26478823.419999994
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA DE SECUNDARIA GENERAL Y TECNICA NUMERO 19",
+            "percepciones": 7093.76
+          }
+        },
+        "total": 1959
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 728333.42,
+            "plazas": 1
+          },
+          {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 686458.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDO ALONSO ESPINOLA PADILLA",
+            "rfc": "EIPF6001091N0",
+            "percepciones": 619140.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDEZ GALLEGOS",
+            "rfc": "FEGJ560308KH2",
+            "percepciones": 606577.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARINA AGUILAR GOVEA",
+            "rfc": "AUGM551111AR9",
+            "percepciones": 584957.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ABELARDO SULU TUN",
+            "rfc": "SUTA600303PL3",
+            "percepciones": 584957.11,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO GIL LUNA",
+            "rfc": "GILA641107AE6",
+            "percepciones": 576096.0,
+            "plazas": 6
+          },
+          {
+            "nombre": "RUBEN PEREZ",
+            "rfc": "PERU581023E99",
+            "percepciones": 565579.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARILU SANCHEZ LOPEZ",
+            "rfc": "SALM620529JN2",
+            "percepciones": 564034.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARGENTINA GARCIA PEREZ",
+            "rfc": "GAPA6701051F8",
+            "percepciones": 561758.65,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 728333.42
+          },
+          "min": {
+            "nombre": "JOSE DEMOFILO DE LA CRUZ GARCIA",
+            "rfc": "CUGD681230FN1",
+            "percepciones": 230.3
+          }
+        },
+        "total": 20033
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 222,
+        "1,000 - 10,000": 1618,
+        "10,000 - 50,000": 3384,
+        "50,000 - 100,000": 11568,
+        "100,000 - 250,000": 6131,
+        "250,000 - 500,000": 397,
+        "500,000 - 1,000,000": 26
+      },
+      "distribucion_plazas": {
+        "1 plaza": 17091,
+        "2 plazas": 780,
+        "3 plazas": 474,
+        "4 plazas": 404,
+        "5 plazas": 296,
+        "6 o más plazas": 988
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 35261741.96,
+            "plazas": 382
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 32251455.58000002,
+            "plazas": 324
+          },
+          {
+            "nombre": "CARLOS PELLICER CAMARA",
+            "percepciones": 30930864.66999998,
+            "plazas": 421
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 26015453.190000024,
+            "plazas": 230
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 24233509.27000001,
+            "plazas": 216
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 20995424.52000001,
+            "plazas": 171
+          },
+          {
+            "nombre": "GREGORIO MENDEZ MAGAÑA",
+            "percepciones": 19326030.250000015,
+            "plazas": 256
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 17962441.719999988,
+            "plazas": 259
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 17618179.04,
+            "plazas": 135
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 16293920.850000024,
+            "plazas": 325
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 35261741.96
+          },
+          "min": {
+            "nombre": "FRIDA KHALO",
+            "percepciones": 7137.0
+          }
+        },
+        "total": 1961
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE DE LA CRUZ MARTINEZ LOPEZ",
+            "rfc": "MALC450512AL9",
+            "percepciones": 3199216.13,
+            "plazas": 2
+          },
+          {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 1172250.96,
+            "plazas": 1
+          },
+          {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 1092267.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDO ALONSO ESPINOLA PADILLA",
+            "rfc": "EIPF6001091N0",
+            "percepciones": 997787.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDEZ GALLEGOS",
+            "rfc": "FEGJ560308KH2",
+            "percepciones": 991300.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARINA AGUILAR GOVEA",
+            "rfc": "AUGM551111AR9",
+            "percepciones": 954169.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ABELARDO SULU TUN",
+            "rfc": "SUTA600303PL3",
+            "percepciones": 954169.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO GIL LUNA",
+            "rfc": "GILA641107AE6",
+            "percepciones": 951391.36,
+            "plazas": 6
+          },
+          {
+            "nombre": "RUBEN PEREZ",
+            "rfc": "PERU581023E99",
+            "percepciones": 920871.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARILU SANCHEZ LOPEZ",
+            "rfc": "SALM620529JN2",
+            "percepciones": 909871.92,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE DE LA CRUZ MARTINEZ LOPEZ",
+            "rfc": "MALC450512AL9",
+            "percepciones": 3199216.13
+          },
+          "min": {
+            "nombre": "SANDRA CRISTINA DE LA O ISIDRO",
+            "rfc": "OISA990120FW3",
+            "percepciones": 135.87
+          }
+        },
+        "total": 20477
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 209,
+        "1,000 - 10,000": 1362,
+        "10,000 - 50,000": 2888,
+        "50,000 - 100,000": 3487,
+        "100,000 - 250,000": 14612,
+        "250,000 - 500,000": 962,
+        "500,000 - 1,000,000": 187,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 17339,
+        "2 plazas": 935,
+        "3 plazas": 502,
+        "4 plazas": 408,
+        "5 plazas": 298,
+        "6 o más plazas": 995
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 26022713.259999957,
+            "plazas": 400
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 23962964.63999997,
+            "plazas": 336
+          },
+          {
+            "nombre": "CARLOS PELLICER CAMARA",
+            "percepciones": 22172081.569999993,
+            "plazas": 427
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 18746102.27999998,
+            "plazas": 233
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 18354973.09,
+            "plazas": 218
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 15120543.109999994,
+            "plazas": 170
+          },
+          {
+            "nombre": "GREGORIO MENDEZ MAGAÑA",
+            "percepciones": 14175554.519999998,
+            "plazas": 259
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 13143549.879999999,
+            "plazas": 140
+          },
+          {
+            "nombre": "LUIS DONALDO COLOSIO MURRIETA",
+            "percepciones": 11698793.469999997,
+            "plazas": 250
+          },
+          {
+            "nombre": "GRACIELA PINTADO DE MADRAZO",
+            "percepciones": 11593687.570000028,
+            "plazas": 283
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSEFA ORTIZ DE DOMINGUEZ",
+            "percepciones": 26022713.26
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA DE SECUNDARIA GENERAL Y TECNICA NUMERO 19",
+            "percepciones": 7617.96
+          }
+        },
+        "total": 1958
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 753601.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "IDMARA DE LA CANDELARIA CRESPO AREVALO",
+            "rfc": "CEAI640202146",
+            "percepciones": 732583.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "FERNANDO ALONSO ESPINOLA PADILLA",
+            "rfc": "EIPF6001091N0",
+            "percepciones": 678756.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE FERNANDEZ GALLEGOS",
+            "rfc": "FEGJ560308KH2",
+            "percepciones": 667016.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARINA AGUILAR GOVEA",
+            "rfc": "AUGM551111AR9",
+            "percepciones": 642544.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ABELARDO SULU TUN",
+            "rfc": "SUTA600303PL3",
+            "percepciones": 642544.65,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO GIL LUNA",
+            "rfc": "GILA641107AE6",
+            "percepciones": 638750.19,
+            "plazas": 6
+          },
+          {
+            "nombre": "MARILU SANCHEZ LOPEZ",
+            "rfc": "SALM620529JN2",
+            "percepciones": 618287.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARGENTINA GARCIA PEREZ",
+            "rfc": "GAPA6701051F8",
+            "percepciones": 616718.91,
+            "plazas": 1
+          },
+          {
+            "nombre": "AIDA MARIA HERNANDEZ VELAZQUEZ",
+            "rfc": "HEVA610604E63",
+            "percepciones": 615141.45,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "OLINDA GARCIA PAYRO",
+            "rfc": "GAPO510225AM1",
+            "percepciones": 753601.4
+          },
+          "min": {
+            "nombre": "AMELIA ESCOBAR POTENCIANO",
+            "rfc": "EOPA780105JE5",
+            "percepciones": 495.0
+          }
+        },
+        "total": 21173
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 204,
+        "1,000 - 10,000": 2719,
+        "10,000 - 50,000": 3959,
+        "50,000 - 100,000": 12319,
+        "100,000 - 250,000": 5545,
+        "250,000 - 500,000": 470,
+        "500,000 - 1,000,000": 55
+      },
+      "distribucion_plazas": {
+        "1 plaza": 17305,
+        "2 plazas": 1280,
+        "3 plazas": 745,
+        "4 plazas": 419,
+        "5 plazas": 309,
+        "6 o más plazas": 1115
+      }
+    }
+  }
+}

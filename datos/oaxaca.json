@@ -1,0 +1,813 @@
+{
+  "entidad_federativa": "OAXACA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 874102166.1099303,
+            "plazas": 7686
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 256438467.3600012,
+            "plazas": 3364
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 151878642.6600004,
+            "plazas": 2065
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 111909744.09000021,
+            "plazas": 2073
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 107777332.89999987,
+            "plazas": 1407
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 88995093.83999957,
+            "plazas": 1141
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 78886833.54999958,
+            "plazas": 1086
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 76026298.61999954,
+            "plazas": 952
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 73102900.56999958,
+            "plazas": 937
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 70534982.56999996,
+            "plazas": 909
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 874102166.1100079
+          },
+          "min": {
+            "nombre": "ZONA ESCOLAR PREESCOLAR NUM. 61",
+            "percepciones": 6485.58
+          }
+        },
+        "total": 2823
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GERARDO RANGEL RODRIGUEZ",
+            "rfc": "RARG571016TD5",
+            "percepciones": 1056443.69,
+            "plazas": 2
+          },
+          {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 732586.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIA HERLINDA REYES ANGELES",
+            "rfc": "REAC531122QL5",
+            "percepciones": 706281.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "LOURDES GOMEZ RAMIREZ",
+            "rfc": "GORL550410GRA",
+            "percepciones": 706281.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO DE DIOS GALLEGOS",
+            "rfc": "DIGP660223DG6",
+            "percepciones": 661899.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "SIGIFREDO EVODIO GARCIA MARTINEZ",
+            "rfc": "GAMS4705061Q4",
+            "percepciones": 661899.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "GORGONIO PALMA LOPEZ",
+            "rfc": "PALG640909UU8",
+            "percepciones": 637494.29,
+            "plazas": 1
+          },
+          {
+            "nombre": "DAGOBERTO RAMIREZ LOPEZ",
+            "rfc": "RALD571122NI7",
+            "percepciones": 637273.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO CRUZ LOPEZ",
+            "rfc": "CULA661204K27",
+            "percepciones": 625780.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELESTINO ANDRES HERNANDEZ",
+            "rfc": "AEHC610519FY5",
+            "percepciones": 580405.01,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GERARDO RANGEL RODRIGUEZ",
+            "rfc": "RARG571016TD5",
+            "percepciones": 1056443.69
+          },
+          "min": {
+            "nombre": "MARCOS GUZMAN SANTIAGO",
+            "rfc": "GUSM781007M9A",
+            "percepciones": 85.9
+          }
+        },
+        "total": 85591
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 290,
+        "1,000 - 10,000": 7552,
+        "10,000 - 50,000": 9330,
+        "50,000 - 100,000": 67792,
+        "100,000 - 250,000": 11988,
+        "250,000 - 500,000": 703,
+        "500,000 - 1,000,000": 51,
+        "Mayor a 1,000,000": 1
+      },
+      "distribucion_plazas": {
+        "1 plaza": 74322,
+        "2 plazas": 4801,
+        "3 plazas": 2036,
+        "4 plazas": 1410,
+        "5 plazas": 1006,
+        "6 o más plazas": 2016
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 608183891.740076,
+            "plazas": 7548
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 175846692.89999595,
+            "plazas": 3327
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 106238157.2100002,
+            "plazas": 2054
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 77227277.25999987,
+            "plazas": 2087
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 74294674.3200008,
+            "plazas": 1392
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 61296842.380000316,
+            "plazas": 1136
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 54357538.349999875,
+            "plazas": 1080
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 52227338.0999999,
+            "plazas": 948
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 50041612.170000054,
+            "plazas": 931
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 48556923.669999994,
+            "plazas": 904
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 608183891.7399821
+          },
+          "min": {
+            "nombre": "ESCUELA SECUNDARIA TÉCNICA NÚM. 260",
+            "percepciones": 10696.85
+          }
+        },
+        "total": 2818
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ALBERTO SALINAS GARCIA",
+            "rfc": "SAGA4004071F8",
+            "percepciones": 2538914.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "MIGUEL ANGEL VILORIA CALVO",
+            "rfc": "VICM5205195IA",
+            "percepciones": 2168190.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "PABLO CUEVAS MORALES",
+            "rfc": "CUMP580628P11",
+            "percepciones": 1635185.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUDITH DEL CARMEN CASTRO FLORES",
+            "rfc": "CAFJ561220LN7",
+            "percepciones": 1107265.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL DE JESUS LOPEZ MIGUEL",
+            "rfc": "LOMM6212257F5",
+            "percepciones": 1098972.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 514704.32,
+            "plazas": 1
+          },
+          {
+            "nombre": "LOURDES GOMEZ RAMIREZ",
+            "rfc": "GORL550410GRA",
+            "percepciones": 496188.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIA HERLINDA REYES ANGELES",
+            "rfc": "REAC531122QL5",
+            "percepciones": 496188.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELDA GARCIA CARRIZOSA",
+            "rfc": "GACE680606JS9",
+            "percepciones": 493841.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "DAVIS ARMANDO VASTO ZUBIETA",
+            "rfc": "VAZD6202068B7",
+            "percepciones": 481844.8,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ALBERTO SALINAS GARCIA",
+            "rfc": "SAGA4004071F8",
+            "percepciones": 2538914.71
+          },
+          "min": {
+            "nombre": "EDGAR CUAUTHEMOC RODRIGUEZ VARGAS",
+            "rfc": "ROVE770910NM7",
+            "percepciones": 2674.19
+          }
+        },
+        "total": 83788
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 31,
+        "1,000 - 10,000": 6819,
+        "10,000 - 50,000": 23589,
+        "50,000 - 100,000": 58561,
+        "100,000 - 250,000": 3673,
+        "250,000 - 500,000": 148,
+        "500,000 - 1,000,000": 1,
+        "Mayor a 1,000,000": 5
+      },
+      "distribucion_plazas": {
+        "1 plaza": 74496,
+        "2 plazas": 3177,
+        "3 plazas": 1786,
+        "4 plazas": 1343,
+        "5 plazas": 986,
+        "6 o más plazas": 2000
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 765856155.6599134,
+            "plazas": 7686
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 237524208.67999706,
+            "plazas": 3539
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 141831952.16000026,
+            "plazas": 2178
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 102907665.18,
+            "plazas": 2150
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 99499293.38999952,
+            "plazas": 1497
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 82481894.39999978,
+            "plazas": 1226
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 73463713.4699997,
+            "plazas": 1164
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 70765626.8399998,
+            "plazas": 1025
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 67865304.66999988,
+            "plazas": 1009
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 65835620.17999978,
+            "plazas": 996
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 765856155.6600318
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA TELESECUNDARIA NUM. 40",
+            "percepciones": 1640.27
+          }
+        },
+        "total": 2840
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "HUBEL ESTRADA DICHI",
+            "rfc": "EADH660519LPA",
+            "percepciones": 1157037.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE MARIA PELAEZ VARGAS",
+            "rfc": "PEVM640320DP4",
+            "percepciones": 1069861.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "JESUS GONZALO MARTINEZ MONJARAS",
+            "rfc": "MAMJ650101G51",
+            "percepciones": 654285.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARGARITA EDITH BARRIGA JIMENEZ",
+            "rfc": "BAJM571017EC3",
+            "percepciones": 586898.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 580356.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "LOURDES GOMEZ RAMIREZ",
+            "rfc": "GORL550410GRA",
+            "percepciones": 560035.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIA HERLINDA REYES ANGELES",
+            "rfc": "REAC531122QL5",
+            "percepciones": 558035.88,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO CRUZ LOPEZ",
+            "rfc": "CULA661204K27",
+            "percepciones": 533566.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO DE DIOS GALLEGOS",
+            "rfc": "DIGP660223DG6",
+            "percepciones": 521225.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "SIGIFREDO EVODIO GARCIA MARTINEZ",
+            "rfc": "GAMS4705061Q4",
+            "percepciones": 521225.86,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "HUBEL ESTRADA DICHI",
+            "rfc": "EADH660519LPA",
+            "percepciones": 1157037.17
+          },
+          "min": {
+            "nombre": "JESUS RAMIREZ HERNANDEZ",
+            "rfc": "RAHJ860612EV8",
+            "percepciones": 174.69
+          }
+        },
+        "total": 85690
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 494,
+        "1,000 - 10,000": 7777,
+        "10,000 - 50,000": 12059,
+        "50,000 - 100,000": 66351,
+        "100,000 - 250,000": 9824,
+        "250,000 - 500,000": 361,
+        "500,000 - 1,000,000": 10,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 72868,
+        "2 plazas": 6388,
+        "3 plazas": 1898,
+        "4 plazas": 1405,
+        "5 plazas": 1022,
+        "6 o más plazas": 2109
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 1033278715.5798713,
+            "plazas": 7697
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 305380128.12999725,
+            "plazas": 3577
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 179862311.47999996,
+            "plazas": 2161
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 132774069.61000033,
+            "plazas": 2148
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 127936008.03999962,
+            "plazas": 1499
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 107633170.05999915,
+            "plazas": 1241
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 92424851.8599999,
+            "plazas": 1144
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 89006226.70000012,
+            "plazas": 1009
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 87591509.19000004,
+            "plazas": 1009
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 84234599.76000011,
+            "plazas": 997
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 1033278715.5800371
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA TELESECUNDARIA NUM. 40",
+            "percepciones": 2590.8
+          }
+        },
+        "total": 2840
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 894224.83,
+            "plazas": 1
+          },
+          {
+            "nombre": "FELIPE GIRON VILLALVA",
+            "rfc": "GIVF621006P57",
+            "percepciones": 883729.73,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIA HERLINDA REYES ANGELES",
+            "rfc": "REAC531122QL5",
+            "percepciones": 861864.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "LOURDES GOMEZ RAMIREZ",
+            "rfc": "GORL550410GRA",
+            "percepciones": 861864.79,
+            "plazas": 1
+          },
+          {
+            "nombre": "SIGIFREDO EVODIO GARCIA MARTINEZ",
+            "rfc": "GAMS4705061Q4",
+            "percepciones": 807594.29,
+            "plazas": 1
+          },
+          {
+            "nombre": "PEDRO DE DIOS GALLEGOS",
+            "rfc": "DIGP660223DG6",
+            "percepciones": 807594.29,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO CRUZ LOPEZ",
+            "rfc": "CULA661204K27",
+            "percepciones": 787841.29,
+            "plazas": 1
+          },
+          {
+            "nombre": "GORGONIO PALMA LOPEZ",
+            "rfc": "PALG640909UU8",
+            "percepciones": 777574.28,
+            "plazas": 1
+          },
+          {
+            "nombre": "DAGOBERTO RAMIREZ LOPEZ",
+            "rfc": "RALD571122NI7",
+            "percepciones": 777320.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELESTINO ANDRES HERNANDEZ",
+            "rfc": "AEHC610519FY5",
+            "percepciones": 707003.6,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 894224.83
+          },
+          "min": {
+            "nombre": "JESUS RAMIREZ HERNANDEZ",
+            "rfc": "RAHJ860612EV8",
+            "percepciones": 312.68
+          }
+        },
+        "total": 86059
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 313,
+        "1,000 - 10,000": 7451,
+        "10,000 - 50,000": 10863,
+        "50,000 - 100,000": 64204,
+        "100,000 - 250,000": 16575,
+        "250,000 - 500,000": 1171,
+        "500,000 - 1,000,000": 95
+      },
+      "distribucion_plazas": {
+        "1 plaza": 72664,
+        "2 plazas": 6781,
+        "3 plazas": 1935,
+        "4 plazas": 1456,
+        "5 plazas": 1038,
+        "6 o más plazas": 2185
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 1054916882.169887,
+            "plazas": 7711
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 310326553.7199918,
+            "plazas": 3546
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 185645969.67999786,
+            "plazas": 2182
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 138436281.5800007,
+            "plazas": 2215
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 131354512.83999994,
+            "plazas": 1503
+          },
+          {
+            "nombre": "MIGUEL HIDALGO",
+            "percepciones": 111097302.97000027,
+            "plazas": 1245
+          },
+          {
+            "nombre": "RICARDO FLORES MAGON",
+            "percepciones": 96632147.63999991,
+            "plazas": 1163
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 92567476.69000004,
+            "plazas": 1017
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 90005272.72000013,
+            "plazas": 1011
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 86102721.97000009,
+            "plazas": 992
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "TELESECUNDARIA",
+            "percepciones": 1054916882.1699965
+          },
+          "min": {
+            "nombre": "SUPERVISION DE ZONA TELESECUNDARIA NUM. 40",
+            "percepciones": 2590.8
+          }
+        },
+        "total": 2846
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 900140.93,
+            "plazas": 1
+          },
+          {
+            "nombre": "CECILIA HERLINDA REYES ANGELES",
+            "rfc": "REAC531122QL5",
+            "percepciones": 867780.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "LOURDES GOMEZ RAMIREZ",
+            "rfc": "GORL550410GRA",
+            "percepciones": 867780.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "SIGIFREDO EVODIO GARCIA MARTINEZ",
+            "rfc": "GAMS4705061Q4",
+            "percepciones": 813510.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARMANDO CRUZ LOPEZ",
+            "rfc": "CULA661204K27",
+            "percepciones": 792749.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "GORGONIO PALMA LOPEZ",
+            "rfc": "PALG640909UU8",
+            "percepciones": 783490.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "DAGOBERTO RAMIREZ LOPEZ",
+            "rfc": "RALD571122NI7",
+            "percepciones": 783236.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELESTINO ANDRES HERNANDEZ",
+            "rfc": "AEHC610519FY5",
+            "percepciones": 712919.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "OCTAVIANO LOPEZ CRUZ",
+            "rfc": "LOCO590323UI2",
+            "percepciones": 712919.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "NETZAR ABDENAGO ARREORTUA MARTINEZ",
+            "rfc": "AEMN600515FG1",
+            "percepciones": 712724.1,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANASTACIO VELAZQUEZ NOLASCO",
+            "rfc": "VENA551216ET5",
+            "percepciones": 900140.93
+          },
+          "min": {
+            "nombre": "JESUS RAMIREZ HERNANDEZ",
+            "rfc": "RAHJ860612EV8",
+            "percepciones": 312.68
+          }
+        },
+        "total": 86298
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 336,
+        "1,000 - 10,000": 8014,
+        "10,000 - 50,000": 12023,
+        "50,000 - 100,000": 27199,
+        "100,000 - 250,000": 53569,
+        "250,000 - 500,000": 1150,
+        "500,000 - 1,000,000": 123
+      },
+      "distribucion_plazas": {
+        "1 plaza": 72304,
+        "2 plazas": 6947,
+        "3 plazas": 2030,
+        "4 plazas": 1534,
+        "5 plazas": 1105,
+        "6 o más plazas": 2378
+      }
+    }
+  }
+}

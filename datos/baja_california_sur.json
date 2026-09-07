@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "BAJA CALIFORNIA SUR",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 27007558.930000022,
+            "plazas": 147
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 11639092.280000025,
+            "plazas": 358
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 11002204.900000008,
+            "plazas": 347
+          },
+          {
+            "nombre": "EST NUM. 13 ALBERTO ANDRES ALVARADO ARAMBURO",
+            "percepciones": 10991804.000000004,
+            "plazas": 377
+          },
+          {
+            "nombre": "C.R.E.N. MARCELO RUBIO RUIZ",
+            "percepciones": 10318781.289999994,
+            "plazas": 52
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 9748794.560000006,
+            "plazas": 116
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 10",
+            "percepciones": 9542788.569999998,
+            "plazas": 346
+          },
+          {
+            "nombre": "EST NUM. 20 FRANCISCO CONTRERAS VERDUGO",
+            "percepciones": 9414072.289999971,
+            "plazas": 408
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 9389726.619999988,
+            "plazas": 296
+          },
+          {
+            "nombre": "ANTONIO MIJARES",
+            "percepciones": 9319843.039999979,
+            "plazas": 267
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 27007558.930000003
+          },
+          "min": {
+            "nombre": "ATANACIO CARRILLO",
+            "percepciones": 896.48
+          }
+        },
+        "total": 859
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JESUS RICARDO MEZA GONZALEZ",
+            "rfc": "MEGJ550617T46",
+            "percepciones": 851326.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 777912.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANTONIO BAREÑO ARCE",
+            "rfc": "BAAA560410RI0",
+            "percepciones": 764265.47,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO GUADALUPE CASTRO COTA",
+            "rfc": "CACX530205IJ5",
+            "percepciones": 759996.31,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ENRIQUE GALLEGOS GONZALEZ",
+            "rfc": "GAGL681224TZ6",
+            "percepciones": 755685.46,
+            "plazas": 1
+          },
+          {
+            "nombre": "VALENTIN ZABALZA NAVARRO",
+            "rfc": "ZANV6801155J1",
+            "percepciones": 745796.59,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO LOPEZ CAZARES",
+            "rfc": "LOCM520726M72",
+            "percepciones": 736196.13,
+            "plazas": 1
+          },
+          {
+            "nombre": "ZANDRA LORENA DAVIS DREW",
+            "rfc": "DADZ5911264V2",
+            "percepciones": 709730.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO SALOME FLORES ZENDEJAS",
+            "rfc": "FOZF521006SW1",
+            "percepciones": 708682.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTHA DE JESUS MORENO",
+            "rfc": "MOMA670928BT5",
+            "percepciones": 708245.12,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JESUS RICARDO MEZA GONZALEZ",
+            "rfc": "MEGJ550617T46",
+            "percepciones": 851326.4
+          },
+          "min": {
+            "nombre": "PRISCILLA ROMERO MENDOZA",
+            "rfc": "ROMP780901UM8",
+            "percepciones": 191.33
+          }
+        },
+        "total": 10850
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 244,
+        "1,000 - 10,000": 1819,
+        "10,000 - 50,000": 2223,
+        "50,000 - 100,000": 6167,
+        "100,000 - 250,000": 2631,
+        "250,000 - 500,000": 323,
+        "500,000 - 1,000,000": 71
+      },
+      "distribucion_plazas": {
+        "1 plaza": 8279,
+        "2 plazas": 789,
+        "3 plazas": 317,
+        "4 plazas": 276,
+        "5 plazas": 274,
+        "6 o más plazas": 915
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 22285278.179999992,
+            "plazas": 145
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 12238906.050000032,
+            "plazas": 352
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 12234492.729999997,
+            "plazas": 347
+          },
+          {
+            "nombre": "EST NUM. 13 ALBERTO ANDRES ALVARADO ARAMBURO",
+            "percepciones": 11617414.44000001,
+            "plazas": 366
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 10723391.490000006,
+            "plazas": 118
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 16",
+            "percepciones": 10464454.91000001,
+            "plazas": 363
+          },
+          {
+            "nombre": "ANTONIO MIJARES",
+            "percepciones": 10383613.740000006,
+            "plazas": 256
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 10",
+            "percepciones": 10153829.719999997,
+            "plazas": 349
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 10026737.190000001,
+            "plazas": 284
+          },
+          {
+            "nombre": "EST NUM. 20 FRANCISCO CONTRERAS VERDUGO",
+            "percepciones": 9927893.859999998,
+            "plazas": 408
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 22285278.179999992
+          },
+          "min": {
+            "nombre": "BASILIO BADILLO",
+            "percepciones": 3774.26
+          }
+        },
+        "total": 859
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "SERGIO RECAMIER CASTRO",
+            "rfc": "RECS681208NN5",
+            "percepciones": 978691.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAMIRO NAVARRO AVILES",
+            "rfc": "NAAR6702232I6",
+            "percepciones": 978670.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE DE JESUS CARBALLO BURGOIN",
+            "rfc": "CABJ6803192C9",
+            "percepciones": 974688.42,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA GUADALUPE ALEMAN GONZALEZ",
+            "rfc": "AEGG560320PF6",
+            "percepciones": 864951.83,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ENRIQUE GALLEGOS GONZALEZ",
+            "rfc": "GAGL681224TZ6",
+            "percepciones": 839003.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROBERTO MONTAÑO AVILEZ",
+            "rfc": "MOAR6510064QA",
+            "percepciones": 813877.75,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTHA RUTH ARAIZA DIAZ",
+            "rfc": "AADM650321823",
+            "percepciones": 803914.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE REMEDIO VEGA DURAN",
+            "rfc": "VEDR650901DY8",
+            "percepciones": 803618.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO SALOME FLORES ZENDEJAS",
+            "rfc": "FOZF521006SW1",
+            "percepciones": 802219.63,
+            "plazas": 1
+          },
+          {
+            "nombre": "CELIA MARGARITA ROMERO UNZON",
+            "rfc": "ROUC661020DB4",
+            "percepciones": 779036.73,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SERGIO RECAMIER CASTRO",
+            "rfc": "RECS681208NN5",
+            "percepciones": 978691.94
+          },
+          "min": {
+            "nombre": "JOEL MARTINEZ COTA",
+            "rfc": "MACJ7808242Y7",
+            "percepciones": 202.23
+          }
+        },
+        "total": 10684
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 204,
+        "1,000 - 10,000": 1571,
+        "10,000 - 50,000": 1984,
+        "50,000 - 100,000": 6231,
+        "100,000 - 250,000": 2709,
+        "250,000 - 500,000": 407,
+        "500,000 - 1,000,000": 88
+      },
+      "distribucion_plazas": {
+        "1 plaza": 8340,
+        "2 plazas": 615,
+        "3 plazas": 299,
+        "4 plazas": 267,
+        "5 plazas": 261,
+        "6 o más plazas": 902
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 27391702.26999999,
+            "plazas": 147
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 11607763.360000016,
+            "plazas": 345
+          },
+          {
+            "nombre": "EST NUM. 13 ALBERTO ANDRES ALVARADO ARAMBURO",
+            "percepciones": 10820002.660000013,
+            "plazas": 356
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 10618788.809999995,
+            "plazas": 127
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 10586372.040000014,
+            "plazas": 347
+          },
+          {
+            "nombre": "C.R.E.N. MARCELO RUBIO RUIZ",
+            "percepciones": 10472787.859999996,
+            "plazas": 52
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 16",
+            "percepciones": 9908646.750000004,
+            "plazas": 374
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 10",
+            "percepciones": 9896639.660000015,
+            "plazas": 348
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 9670673.44000002,
+            "plazas": 278
+          },
+          {
+            "nombre": "EST NUM. 20 FRANCISCO CONTRERAS VERDUGO",
+            "percepciones": 9445206.720000008,
+            "plazas": 411
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 27391702.26999998
+          },
+          "min": {
+            "nombre": "NICOLAS BRAVO",
+            "percepciones": 10480.15
+          }
+        },
+        "total": 853
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 700250.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO GUADALUPE CASTRO COTA",
+            "rfc": "CACX530205IJ5",
+            "percepciones": 685048.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ENRIQUE GALLEGOS GONZALEZ",
+            "rfc": "GAGL681224TZ6",
+            "percepciones": 683782.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANTONIO BAREÑO ARCE",
+            "rfc": "BAAA560410RI0",
+            "percepciones": 683413.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "VALENTIN ZABALZA NAVARRO",
+            "rfc": "ZANV6801155J1",
+            "percepciones": 668579.43,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO LOPEZ CAZARES",
+            "rfc": "LOCM520726M72",
+            "percepciones": 663650.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO SALOME FLORES ZENDEJAS",
+            "rfc": "FOZF521006SW1",
+            "percepciones": 643873.17,
+            "plazas": 1
+          },
+          {
+            "nombre": "SANDRA LORENA TRUJILLO NARVAEZ MEZA",
+            "rfc": "TUMS6208263Y4",
+            "percepciones": 620304.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUANA HERMELINDA FUERTE DOMINGUEZ",
+            "rfc": "FUDJ630516TS3",
+            "percepciones": 615635.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALBERTO LEYVA LOPEZ",
+            "rfc": "LELA6503135T3",
+            "percepciones": 610571.75,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 700250.44
+          },
+          "min": {
+            "nombre": "KAREN MAQUEY GAMEZ",
+            "rfc": "MAGK900203357",
+            "percepciones": 225.81
+          }
+        },
+        "total": 10547
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 76,
+        "1,000 - 10,000": 1346,
+        "10,000 - 50,000": 2072,
+        "50,000 - 100,000": 5970,
+        "100,000 - 250,000": 2905,
+        "250,000 - 500,000": 302,
+        "500,000 - 1,000,000": 33
+      },
+      "distribucion_plazas": {
+        "1 plaza": 8365,
+        "2 plazas": 590,
+        "3 plazas": 263,
+        "4 plazas": 257,
+        "5 plazas": 243,
+        "6 o más plazas": 829
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 32167545.9,
+            "plazas": 146
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 16728782.390000008,
+            "plazas": 155
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 15865172.18999999,
+            "plazas": 350
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 15074569.250000011,
+            "plazas": 356
+          },
+          {
+            "nombre": "EST NUM. 13 ALBERTO ANDRES ALVARADO ARAMBURO",
+            "percepciones": 14958243.700000018,
+            "plazas": 365
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 10",
+            "percepciones": 13920180.830000011,
+            "plazas": 364
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 16",
+            "percepciones": 13290846.540000012,
+            "plazas": 378
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 12993149.900000006,
+            "plazas": 279
+          },
+          {
+            "nombre": "EST NUM. 20 FRANCISCO CONTRERAS VERDUGO",
+            "percepciones": 12778561.230000012,
+            "plazas": 403
+          },
+          {
+            "nombre": "C.R.E.N. MARCELO RUBIO RUIZ",
+            "percepciones": 12679321.209999999,
+            "plazas": 52
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 32167545.900000002
+          },
+          "min": {
+            "nombre": "ESCUELA NORMAL SUPERIOR DEL ESTADO DE B.C.S.",
+            "percepciones": 40623.6
+          }
+        },
+        "total": 866
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 1022573.35,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ENRIQUE GALLEGOS GONZALEZ",
+            "rfc": "GAGL681224TZ6",
+            "percepciones": 1003371.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO GUADALUPE CASTRO COTA",
+            "rfc": "CACX530205IJ5",
+            "percepciones": 1000775.53,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANTONIO BAREÑO ARCE",
+            "rfc": "BAAA560410RI0",
+            "percepciones": 1000084.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "VALENTIN ZABALZA NAVARRO",
+            "rfc": "ZANV6801155J1",
+            "percepciones": 976891.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO LOPEZ CAZARES",
+            "rfc": "LOCM520726M72",
+            "percepciones": 967695.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO SALOME FLORES ZENDEJAS",
+            "rfc": "FOZF521006SW1",
+            "percepciones": 943661.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "SANDRA LORENA TRUJILLO NARVAEZ MEZA",
+            "rfc": "TUMS6208263Y4",
+            "percepciones": 925065.94,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUANA HERMELINDA FUERTE DOMINGUEZ",
+            "rfc": "FUDJ630516TS3",
+            "percepciones": 898453.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALBERTO LEYVA LOPEZ",
+            "rfc": "LELA6503135T3",
+            "percepciones": 894856.54,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 1022573.35
+          },
+          "min": {
+            "nombre": "KAREN MAQUEY GAMEZ",
+            "rfc": "MAGK900203357",
+            "percepciones": 228.13
+          }
+        },
+        "total": 11055
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 105,
+        "1,000 - 10,000": 1050,
+        "10,000 - 50,000": 2088,
+        "50,000 - 100,000": 3900,
+        "100,000 - 250,000": 5775,
+        "250,000 - 500,000": 516,
+        "500,000 - 1,000,000": 141,
+        "Mayor a 1,000,000": 4
+      },
+      "distribucion_plazas": {
+        "1 plaza": 8554,
+        "2 plazas": 808,
+        "3 plazas": 278,
+        "4 plazas": 264,
+        "5 plazas": 262,
+        "6 o más plazas": 889
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 25906940.590000004,
+            "plazas": 147
+          },
+          {
+            "nombre": "NUEVA CREACIÓN",
+            "percepciones": 14043218.83,
+            "plazas": 162
+          },
+          {
+            "nombre": "JOSE VASCONCELOS",
+            "percepciones": 11744664.740000006,
+            "plazas": 358
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 11346614.109999998,
+            "plazas": 359
+          },
+          {
+            "nombre": "EST NUM. 13 ALBERTO ANDRES ALVARADO ARAMBURO",
+            "percepciones": 11290723.179999998,
+            "plazas": 366
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 10",
+            "percepciones": 10376913.919999996,
+            "plazas": 371
+          },
+          {
+            "nombre": "C.R.E.N. MARCELO RUBIO RUIZ",
+            "percepciones": 10231033.160000002,
+            "plazas": 52
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 16",
+            "percepciones": 10224649.960000006,
+            "plazas": 386
+          },
+          {
+            "nombre": "EST NUM. 20 FRANCISCO CONTRERAS VERDUGO",
+            "percepciones": 9947869.089999989,
+            "plazas": 409
+          },
+          {
+            "nombre": "JOSE MARIA MORELOS Y PAVON",
+            "percepciones": 9882114.479999987,
+            "plazas": 280
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA \"PROFR. DOMINGO CARBALLO FELIX\"",
+            "percepciones": 25906940.590000004
+          },
+          "min": {
+            "nombre": "ESCUELA PRIMARIA PARA NIÑOS MIGRANTES 33",
+            "percepciones": 13793.3
+          }
+        },
+        "total": 864
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 826387.99,
+            "plazas": 1
+          },
+          {
+            "nombre": "ANTONIO BAREÑO ARCE",
+            "rfc": "BAAA560410RI0",
+            "percepciones": 812191.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO GUADALUPE CASTRO COTA",
+            "rfc": "CACX530205IJ5",
+            "percepciones": 807690.59,
+            "plazas": 1
+          },
+          {
+            "nombre": "LUIS ENRIQUE GALLEGOS GONZALEZ",
+            "rfc": "GAGL681224TZ6",
+            "percepciones": 806721.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "VALENTIN ZABALZA NAVARRO",
+            "rfc": "ZANV6801155J1",
+            "percepciones": 792987.8,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIANO LOPEZ CAZARES",
+            "rfc": "LOCM520726M72",
+            "percepciones": 782043.82,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO SALOME FLORES ZENDEJAS",
+            "rfc": "FOZF521006SW1",
+            "percepciones": 756545.71,
+            "plazas": 1
+          },
+          {
+            "nombre": "SANDRA LORENA TRUJILLO NARVAEZ MEZA",
+            "rfc": "TUMS6208263Y4",
+            "percepciones": 736875.48,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE ALBERTO LEYVA LOPEZ",
+            "rfc": "LELA6503135T3",
+            "percepciones": 716075.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTHA RUTH ARAIZA DIAZ",
+            "rfc": "AADM650321823",
+            "percepciones": 711706.77,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ADOLFO DEL REAL MANZANARES",
+            "rfc": "REMA480307K41",
+            "percepciones": 826387.99
+          },
+          "min": {
+            "nombre": "KAREN MAQUEY GAMEZ",
+            "rfc": "MAGK900203357",
+            "percepciones": 228.14999999999998
+          }
+        },
+        "total": 11174
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 253,
+        "1,000 - 10,000": 1767,
+        "10,000 - 50,000": 2223,
+        "50,000 - 100,000": 6496,
+        "100,000 - 250,000": 2680,
+        "250,000 - 500,000": 349,
+        "500,000 - 1,000,000": 72
+      },
+      "distribucion_plazas": {
+        "1 plaza": 8515,
+        "2 plazas": 887,
+        "3 plazas": 310,
+        "4 plazas": 265,
+        "5 plazas": 260,
+        "6 o más plazas": 937
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nómina Educativa Federalizada</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Nómina Educativa Federalizada</h1>
+        <h2>Sueldo de un trabajador de la educación federal</h2>
+        <p>La Nómina Educativa Federalizada es un reporte oficial que muestra cuánto se paga a los trabajadores de la educación que dependen directamente de la Federación, y se publica trimestralmente en el portal de transparencia del <a
+                href="https://dgsanef.sep.gob.mx/art73lgcg">Gobierno de México</a>.</p>
+    </header>
+    <nav aria-label="Navegación principal">
+        <div class="nav-top">
+            <form id="formulario-consulta" aria-label="Formulario de consulta">
+                <label for="estado">Consulta por Estado de la República:</label>
+                <select id="estado" name="estado" required>
+                    <option value="">Cargando estados...</option>
+                </select>
+                <label for="trimestre">Trimestre:</label>
+                <select id="trimestre" name="trimestre" required>
+                    <option value="">Cargando trimestres...</option>
+                </select>
+                <button type="submit">Consultar</button>
+            </form>
+        </div>
+    </nav>
+    <main>
+        <section>
+            <h1><strong>Indicadores generales del trimestre 2026/01</strong></h1>
+        </section>
+        <section class="datos-generales" aria-label="Indicadores generales del trimestre 2026/01">
+            <article class="card">
+                <h2 class="card-title">Trabajadores en el país</h2>
+                <p class="card-value" id="numero-trabajadores-federal">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Plazas en el país</h2>
+                <p class="card-value" id="numero-plazas-federal">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con más trabajadores</h2>
+                <p class="card-value" id="estado-mas-trabajadores">Cargando...</p>
+                <p class="card-value-bold" id="estado-mas-trabajadores-plazas">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con menos trabajadores</h2>
+                <p class="card-value" id="estado-menos-trabajadores">Cargando...</p>
+                <p class="card-value-bold" id="estado-menos-trabajadores-plazas">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con más ingresos</h2>
+                <p class="card-value" id="estado-mas-percepciones">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con menos ingresos:</h2>
+                <p class="card-value" id="estado-menos-percepciones">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con más Centros de Trabajo</h2>
+                <p class="card-value" id="estado-mas-centros-trabajo">Cargando...</p>
+            </article>
+            <article class="card">
+                <h2 class="card-title">Estado con menos Centros de Trabajo:</h2>
+                <p class="card-value" id="estado-menos-centros-trabajo">Cargando...</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p><a href="https://dgsanef.sep.gob.mx/art73lgcg">Datos Públicos Artículo 73 de la Ley General de Contabilidad
+                Gubernamental</a></p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,814 @@
+{
+  "entidad_federativa": "JALISCO",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 104753653.37999998,
+            "plazas": 1639
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 104539957.25999969,
+            "plazas": 1571
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 83371349.97999978,
+            "plazas": 1486
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 77560191.6999999,
+            "plazas": 1255
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 73977282.99000002,
+            "plazas": 2180
+          },
+          {
+            "nombre": "JOSE MA MORELOS Y PAVON",
+            "percepciones": 64514369.70999979,
+            "plazas": 1045
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 58054247.41999977,
+            "plazas": 1302
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 57787757.29999993,
+            "plazas": 1008
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 56316984.70999988,
+            "plazas": 1032
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 53296268.0199999,
+            "plazas": 916
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 104753653.37999995
+          },
+          "min": {
+            "nombre": "ZONA ECONOMICA 40",
+            "percepciones": 6054.25
+          }
+        },
+        "total": 2464
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 921088.06,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN ZATARAIN MENDOZA",
+            "rfc": "ZAMR6309191Q2",
+            "percepciones": 865455.25,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCO IVAN VALLEJO MARTINEZ",
+            "rfc": "VAMM710407ET9",
+            "percepciones": 773579.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE JAIME GARCIA BUSTAMANTE",
+            "rfc": "GABJ680721DB6",
+            "percepciones": 770185.99,
+            "plazas": 2
+          },
+          {
+            "nombre": "ROSA MARTA MARTINEZ AGUILAR",
+            "rfc": "MAAR471128VD2",
+            "percepciones": 752880.84,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS RUBEN SANCHEZ PUC",
+            "rfc": "SAPC521025UQ7",
+            "percepciones": 744139.62,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAYMUNDO RODRIGUEZ FERNANDEZ",
+            "rfc": "ROFR4711085S1",
+            "percepciones": 743729.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "OMAR EDEL MORENO ARCINIEGA",
+            "rfc": "MOAO5304015C7",
+            "percepciones": 732890.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "ZENOBIA DEL ROSARIO VARGAS CERVANTES",
+            "rfc": "VACZ630522737",
+            "percepciones": 726939.5499999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "OLGA MARGARITA POLANCO DURAN",
+            "rfc": "PODO510506CDA",
+            "percepciones": 723912.74,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 921088.06
+          },
+          "min": {
+            "nombre": "BLANCA ARACELI CARBAJAL HERNANDEZ",
+            "rfc": "CAHB900526UYA",
+            "percepciones": 127.96
+          }
+        },
+        "total": 53658
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 772,
+        "1,000 - 10,000": 10524,
+        "10,000 - 50,000": 14304,
+        "50,000 - 100,000": 33246,
+        "100,000 - 250,000": 8382,
+        "250,000 - 500,000": 1064,
+        "500,000 - 1,000,000": 89
+      },
+      "distribucion_plazas": {
+        "1 plaza": 35493,
+        "2 plazas": 8152,
+        "3 plazas": 1700,
+        "4 plazas": 1432,
+        "5 plazas": 1212,
+        "6 o más plazas": 5669
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 99854862.10999997,
+            "plazas": 1601
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 99783804.22999981,
+            "plazas": 1536
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 80111160.24000031,
+            "plazas": 1451
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 73683714.14000027,
+            "plazas": 1220
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 70371242.47,
+            "plazas": 2098
+          },
+          {
+            "nombre": "JOSE MA MORELOS Y PAVON",
+            "percepciones": 60883195.86000033,
+            "plazas": 1014
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 55525323.03999997,
+            "plazas": 1038
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 55125215.73000019,
+            "plazas": 1279
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 54428413.24000021,
+            "plazas": 998
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 50520889.96999994,
+            "plazas": 898
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 99854862.11000007
+          },
+          "min": {
+            "nombre": "DIRECCION DE PSICOPEDAGOGIA",
+            "percepciones": 1594.49
+          }
+        },
+        "total": 2462
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JAVIER FLORES PADILLA",
+            "rfc": "FOPJ480101997",
+            "percepciones": 2383403.7,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA GUADALUPE BARRAGAN REYES",
+            "rfc": "BARM590805313",
+            "percepciones": 2034711.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "ESPERANZA SILVA SANCHEZ",
+            "rfc": "SISE610923TT2",
+            "percepciones": 836443.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 826366.04,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN ZATARAIN MENDOZA",
+            "rfc": "ZAMR6309191Q2",
+            "percepciones": 768705.14,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTHA BEATRIZ MEZA ROJAS",
+            "rfc": "MERM720728AIA",
+            "percepciones": 723304.21,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE JAIME GARCIA BUSTAMANTE",
+            "rfc": "GABJ680721DB6",
+            "percepciones": 711694.81,
+            "plazas": 2
+          },
+          {
+            "nombre": "ZENOBIA DEL ROSARIO VARGAS CERVANTES",
+            "rfc": "VACZ630522737",
+            "percepciones": 683716.65,
+            "plazas": 2
+          },
+          {
+            "nombre": "HELEM GUADALUPE GUTIERREZ RAMIREZ",
+            "rfc": "GURH741214H77",
+            "percepciones": 677320.7499999999,
+            "plazas": 9
+          },
+          {
+            "nombre": "CARLOS RUBEN SANCHEZ PUC",
+            "rfc": "SAPC521025UQ7",
+            "percepciones": 674145.96,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JAVIER FLORES PADILLA",
+            "rfc": "FOPJ480101997",
+            "percepciones": 2383403.7
+          },
+          "min": {
+            "nombre": "J JESUS ARROYO SOTELO",
+            "rfc": "AOSJ480817LY1",
+            "percepciones": 144.65
+          }
+        },
+        "total": 52749
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 790,
+        "1,000 - 10,000": 9135,
+        "10,000 - 50,000": 11828,
+        "50,000 - 100,000": 35172,
+        "100,000 - 250,000": 6928,
+        "250,000 - 500,000": 974,
+        "500,000 - 1,000,000": 57,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 35237,
+        "2 plazas": 7786,
+        "3 plazas": 1670,
+        "4 plazas": 1412,
+        "5 plazas": 1229,
+        "6 o más plazas": 5415
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 120408817.81000009,
+            "plazas": 1603
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 119467874.12999964,
+            "plazas": 1533
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 96008583.86999987,
+            "plazas": 1436
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 89212716.64999999,
+            "plazas": 1216
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 81142619.20999995,
+            "plazas": 2091
+          },
+          {
+            "nombre": "JOSE MA MORELOS Y PAVON",
+            "percepciones": 73512113.13999993,
+            "plazas": 1016
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 66314110.95000011,
+            "plazas": 1282
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 65786378.279999875,
+            "plazas": 985
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 63381242.95000008,
+            "plazas": 1031
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 61459422.65999996,
+            "plazas": 890
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 120408817.80999993
+          },
+          "min": {
+            "nombre": "SALVADOR FREGOSO",
+            "percepciones": 2343.48
+          }
+        },
+        "total": 2459
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MARIA ISABEL AURORA RICO NAVARRO",
+            "rfc": "RINI550120DIA",
+            "percepciones": 1715290.57,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELIDIA DE ANDA EZQUIVEL",
+            "rfc": "AAEE630929N28",
+            "percepciones": 1248849.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 879233.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN ZATARAIN MENDOZA",
+            "rfc": "ZAMR6309191Q2",
+            "percepciones": 865541.2,
+            "plazas": 1
+          },
+          {
+            "nombre": "ZENOBIA DEL ROSARIO VARGAS CERVANTES",
+            "rfc": "VACZ630522737",
+            "percepciones": 753448.82,
+            "plazas": 2
+          },
+          {
+            "nombre": "ROSA MARTA MARTINEZ AGUILAR",
+            "rfc": "MAAR471128VD2",
+            "percepciones": 746325.34,
+            "plazas": 1
+          },
+          {
+            "nombre": "OLGA MARGARITA POLANCO DURAN",
+            "rfc": "PODO510506CDA",
+            "percepciones": 731320.48,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS RUBEN SANCHEZ PUC",
+            "rfc": "SAPC521025UQ7",
+            "percepciones": 721582.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAYMUNDO RODRIGUEZ FERNANDEZ",
+            "rfc": "ROFR4711085S1",
+            "percepciones": 721261.48,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA MAGDALENA CASTILLON RODRIGUEZ",
+            "rfc": "CARM680722L35",
+            "percepciones": 713208.0,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MARIA ISABEL AURORA RICO NAVARRO",
+            "rfc": "RINI550120DIA",
+            "percepciones": 1715290.57
+          },
+          "min": {
+            "nombre": "JESUS OSORIO TEJEDA",
+            "rfc": "OOTJ920616SYA",
+            "percepciones": 80.69999999999999
+          }
+        },
+        "total": 52447
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 771,
+        "1,000 - 10,000": 8521,
+        "10,000 - 50,000": 12712,
+        "50,000 - 100,000": 29100,
+        "100,000 - 250,000": 13732,
+        "250,000 - 500,000": 1201,
+        "500,000 - 1,000,000": 103,
+        "Mayor a 1,000,000": 2
+      },
+      "distribucion_plazas": {
+        "1 plaza": 35477,
+        "2 plazas": 7497,
+        "3 plazas": 1612,
+        "4 plazas": 1393,
+        "5 plazas": 1213,
+        "6 o más plazas": 5255
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 137289611.50000015,
+            "plazas": 1658
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 133907732.56000014,
+            "plazas": 1567
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 110972082.81000014,
+            "plazas": 1492
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 100565080.49999997,
+            "plazas": 1250
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 90541925.32999973,
+            "plazas": 2066
+          },
+          {
+            "nombre": "JOSE MA MORELOS Y PAVON",
+            "percepciones": 83061214.68999985,
+            "plazas": 1043
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 75751651.72999994,
+            "plazas": 1292
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 73787335.86000003,
+            "plazas": 1017
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 71577423.68999997,
+            "plazas": 992
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 69093987.50999995,
+            "plazas": 924
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 137289611.5
+          },
+          "min": {
+            "nombre": "FEDERICO GOMEZ DE OROZCO",
+            "percepciones": 3681.53
+          }
+        },
+        "total": 2449
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "SILVIA MARQUEZ LEAL",
+            "rfc": "MALS651210A11",
+            "percepciones": 1285124.1,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 1050013.96,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN ZATARAIN MENDOZA",
+            "rfc": "ZAMR6309191Q2",
+            "percepciones": 1012780.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARCELA VALENCIA SANCHEZ",
+            "rfc": "VASM670803564",
+            "percepciones": 992687.1799999999,
+            "plazas": 3
+          },
+          {
+            "nombre": "ROSA MARTA MARTINEZ AGUILAR",
+            "rfc": "MAAR471128VD2",
+            "percepciones": 903101.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "OLGA MARGARITA POLANCO DURAN",
+            "rfc": "PODO510506CDA",
+            "percepciones": 878224.9,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS RUBEN SANCHEZ PUC",
+            "rfc": "SAPC521025UQ7",
+            "percepciones": 878187.59,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAYMUNDO RODRIGUEZ FERNANDEZ",
+            "rfc": "ROFR4711085S1",
+            "percepciones": 877760.0,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER REYES DELGADO",
+            "rfc": "REDJ571017634",
+            "percepciones": 869964.09,
+            "plazas": 1
+          },
+          {
+            "nombre": "ZENOBIA DEL ROSARIO VARGAS CERVANTES",
+            "rfc": "VACZ630522737",
+            "percepciones": 868401.81,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "SILVIA MARQUEZ LEAL",
+            "rfc": "MALS651210A11",
+            "percepciones": 1285124.1
+          },
+          "min": {
+            "nombre": "ELISEO NARANJO FRIAS",
+            "rfc": "NAFE8705044V5",
+            "percepciones": 285.7
+          }
+        },
+        "total": 53146
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 467,
+        "1,000 - 10,000": 7980,
+        "10,000 - 50,000": 13023,
+        "50,000 - 100,000": 29561,
+        "100,000 - 250,000": 13822,
+        "250,000 - 500,000": 1702,
+        "500,000 - 1,000,000": 301,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 35486,
+        "2 plazas": 7590,
+        "3 plazas": 1629,
+        "4 plazas": 1381,
+        "5 plazas": 1190,
+        "6 o más plazas": 5870
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 127306648.48000006,
+            "plazas": 1627
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 125513808.47999965,
+            "plazas": 1556
+          },
+          {
+            "nombre": "LAZARO CARDENAS DEL RIO",
+            "percepciones": 103941684.89999968,
+            "plazas": 1479
+          },
+          {
+            "nombre": "MIGUEL HIDALGO Y COSTILLA",
+            "percepciones": 94090685.06999987,
+            "plazas": 1243
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA",
+            "percepciones": 81266411.40999977,
+            "plazas": 1963
+          },
+          {
+            "nombre": "JOSE MA MORELOS Y PAVON",
+            "percepciones": 76287176.05000001,
+            "plazas": 1012
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 69165630.12999994,
+            "plazas": 1005
+          },
+          {
+            "nombre": "ADOLFO LOPEZ MATEOS",
+            "percepciones": 69082219.64,
+            "plazas": 1269
+          },
+          {
+            "nombre": "SUPERVISION DE EDUCACION FISICA",
+            "percepciones": 66851303.09999999,
+            "plazas": 989
+          },
+          {
+            "nombre": "NIÑOS HEROES",
+            "percepciones": 64625366.149999864,
+            "plazas": 909
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 127306648.47999987
+          },
+          "min": {
+            "nombre": "DIRECCION DE PSICOPEDAGOGIA",
+            "percepciones": 7537.88
+          }
+        },
+        "total": 2462
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "LAURA ELENA ARAGON HOPE",
+            "rfc": "AAHL610223CC0",
+            "percepciones": 1173602.95,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE LUIS GOMEZ TORRES",
+            "rfc": "GOTL4902187S3",
+            "percepciones": 1132322.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "RUBEN ZATARAIN MENDOZA",
+            "rfc": "ZAMR6309191Q2",
+            "percepciones": 1079558.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUANA ELISA CONTRERAS GONZALEZ",
+            "rfc": "COGJ690605466",
+            "percepciones": 1077466.15,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE JAIME GARCIA BUSTAMANTE",
+            "rfc": "GABJ680721DB6",
+            "percepciones": 950695.9299999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "ANA BERTHA RITA LEAL DE LA MORA",
+            "rfc": "LEMA560530N35",
+            "percepciones": 949328.26,
+            "plazas": 2
+          },
+          {
+            "nombre": "ROSA MARTA MARTINEZ AGUILAR",
+            "rfc": "MAAR471128VD2",
+            "percepciones": 929558.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "CARLOS RUBEN SANCHEZ PUC",
+            "rfc": "SAPC521025UQ7",
+            "percepciones": 915188.41,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAYMUNDO RODRIGUEZ FERNANDEZ",
+            "rfc": "ROFR4711085S1",
+            "percepciones": 914707.37,
+            "plazas": 1
+          },
+          {
+            "nombre": "ZENOBIA DEL ROSARIO VARGAS CERVANTES",
+            "rfc": "VACZ630522737",
+            "percepciones": 909351.01,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "LAURA ELENA ARAGON HOPE",
+            "rfc": "AAHL610223CC0",
+            "percepciones": 1173602.95
+          },
+          "min": {
+            "nombre": "ANA TONANTZIN TAPIA CHACON",
+            "rfc": "TACA900304Q83",
+            "percepciones": 365.83
+          }
+        },
+        "total": 53504
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 723,
+        "1,000 - 10,000": 8377,
+        "10,000 - 50,000": 13870,
+        "50,000 - 100,000": 29488,
+        "100,000 - 250,000": 13000,
+        "250,000 - 500,000": 1536,
+        "500,000 - 1,000,000": 283,
+        "Mayor a 1,000,000": 4
+      },
+      "distribucion_plazas": {
+        "1 plaza": 35952,
+        "2 plazas": 7743,
+        "3 plazas": 1665,
+        "4 plazas": 1431,
+        "5 plazas": 1262,
+        "6 o más plazas": 5451
+      }
+    }
+  }
+}

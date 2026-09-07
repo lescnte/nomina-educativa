@@ -1,0 +1,811 @@
+{
+  "entidad_federativa": "AGUASCALIENTES",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 24370841.08000001,
+            "plazas": 171
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 21082345.70000001,
+            "plazas": 144
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 19697167.109999992,
+            "plazas": 145
+          },
+          {
+            "nombre": "ROSARIO CASTELLANOS",
+            "percepciones": 16159156.519999998,
+            "plazas": 316
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 15081818.240000006,
+            "plazas": 334
+          },
+          {
+            "nombre": "ESCUELA NORMAL DE RINCON DE ROMOS \"DR. RAFAEL FRANCISCO AGUILAR LOMELI\"",
+            "percepciones": 12104962.689999998,
+            "plazas": 111
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 11828615.09000001,
+            "plazas": 146
+          },
+          {
+            "nombre": "SECUNDARIA TECNICA NUM. 32, FRANCISCO AGUAYO MORA",
+            "percepciones": 11493790.519999992,
+            "plazas": 271
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 11047020.840000007,
+            "plazas": 131
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 10994345.870000014,
+            "plazas": 234
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 24370841.08
+          },
+          "min": {
+            "nombre": "DAVID SERNA",
+            "percepciones": 29623.79
+          }
+        },
+        "total": 1104
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ARTURO NAJERA MORENO",
+            "rfc": "NAMA540225NH7",
+            "percepciones": 2056352.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROMELIA CHAVEZ ALBA",
+            "rfc": "CAAR611004NK9",
+            "percepciones": 1392990.86,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE JUAN ROSALES TORRES",
+            "rfc": "ROTJ621101PY0",
+            "percepciones": 1228376.67,
+            "plazas": 1
+          },
+          {
+            "nombre": "GERARDO CRUZ ULLOA",
+            "rfc": "CUUG610806CF3",
+            "percepciones": 711840.08,
+            "plazas": 2
+          },
+          {
+            "nombre": "JAVIER REYES MARIN",
+            "rfc": "REMJ4212309P4",
+            "percepciones": 690001.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 686732.07,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE JESUS GOMEZ MACIAS",
+            "rfc": "GOMM560605TF4",
+            "percepciones": 667007.52,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELOISA GAMBOA SILVA",
+            "rfc": "GASE630106IC6",
+            "percepciones": 655622.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELISA GONZALEZ MALDONADO",
+            "rfc": "GOME630109177",
+            "percepciones": 655122.4,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIO ALBERTO GONZALEZ GALLEGOS",
+            "rfc": "GOGM561130FVA",
+            "percepciones": 635956.37,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ARTURO NAJERA MORENO",
+            "rfc": "NAMA540225NH7",
+            "percepciones": 2056352.18
+          },
+          "min": {
+            "nombre": "JOSE GUADALUPE CONTRERAS GALVAN",
+            "rfc": "COGG930916HC1",
+            "percepciones": 1192.47
+          }
+        },
+        "total": 16439
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 82,
+        "1,000 - 10,000": 1942,
+        "10,000 - 50,000": 3695,
+        "50,000 - 100,000": 8765,
+        "100,000 - 250,000": 5087,
+        "250,000 - 500,000": 578,
+        "500,000 - 1,000,000": 40,
+        "Mayor a 1,000,000": 3
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12777,
+        "2 plazas": 1119,
+        "3 plazas": 723,
+        "4 plazas": 480,
+        "5 plazas": 381,
+        "6 o más plazas": 959
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 20325457.509999987,
+            "plazas": 170
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 18597164.159999996,
+            "plazas": 144
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 15879569.080000006,
+            "plazas": 146
+          },
+          {
+            "nombre": "ROSARIO CASTELLANOS",
+            "percepciones": 13269596.330000006,
+            "plazas": 313
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 12487487.98000002,
+            "plazas": 335
+          },
+          {
+            "nombre": "ESCUELA NORMAL DE RINCON DE ROMOS \"DR. RAFAEL FRANCISCO AGUILAR LOMELI\"",
+            "percepciones": 11586151.800000004,
+            "plazas": 111
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 10162733.69000001,
+            "plazas": 146
+          },
+          {
+            "nombre": "SECUNDARIA TECNICA NUM. 32, FRANCISCO AGUAYO MORA",
+            "percepciones": 9301095.490000006,
+            "plazas": 268
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 9259855.819999997,
+            "plazas": 132
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 9176117.489999998,
+            "plazas": 233
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 20325457.509999998
+          },
+          "min": {
+            "nombre": "JESUS DIAZ DE LEON",
+            "percepciones": 59954.57
+          }
+        },
+        "total": 1106
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MA DOLORES ROMO CUEVAS",
+            "rfc": "ROCD601129IE1",
+            "percepciones": 644448.6,
+            "plazas": 1
+          },
+          {
+            "nombre": "GLORIA ROMERO DURON",
+            "rfc": "RODG530124719",
+            "percepciones": 586806.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "VICTOR MANUEL JAIMEZ SANCHEZ",
+            "rfc": "JASV540820H15",
+            "percepciones": 586806.78,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER REYES MARIN",
+            "rfc": "REMJ4212309P4",
+            "percepciones": 551690.25,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 551671.29,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE JESUS GOMEZ MACIAS",
+            "rfc": "GOMM560605TF4",
+            "percepciones": 534091.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL SILVA PEREZCHICA",
+            "rfc": "SIPR590920KD4",
+            "percepciones": 533050.5,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSEFINA ARACELI REYES MARIN",
+            "rfc": "REMJ580907G66",
+            "percepciones": 531822.58,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELISA GONZALEZ MALDONADO",
+            "rfc": "GOME630109177",
+            "percepciones": 520459.23,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELOISA GAMBOA SILVA",
+            "rfc": "GASE630106IC6",
+            "percepciones": 520459.23,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MA DOLORES ROMO CUEVAS",
+            "rfc": "ROCD601129IE1",
+            "percepciones": 644448.6
+          },
+          "min": {
+            "nombre": "DAVID EMMANUEL CALVILLO MEDINA",
+            "rfc": "CAMD0107304F4",
+            "percepciones": 1743.04
+          }
+        },
+        "total": 16334
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 31,
+        "1,000 - 10,000": 1898,
+        "10,000 - 50,000": 3515,
+        "50,000 - 100,000": 10505,
+        "100,000 - 250,000": 3284,
+        "250,000 - 500,000": 350,
+        "500,000 - 1,000,000": 10
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12844,
+        "2 plazas": 1009,
+        "3 plazas": 703,
+        "4 plazas": 457,
+        "5 plazas": 380,
+        "6 o más plazas": 941
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 20731360.49999999,
+            "plazas": 169
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 18962249.690000013,
+            "plazas": 144
+          },
+          {
+            "nombre": "ROSARIO CASTELLANOS",
+            "percepciones": 16910444.529999997,
+            "plazas": 313
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 16812923.430000007,
+            "plazas": 146
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 15771236.760000005,
+            "plazas": 334
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 12367578.530000014,
+            "plazas": 146
+          },
+          {
+            "nombre": "SECUNDARIA TECNICA NUM. 32, FRANCISCO AGUAYO MORA",
+            "percepciones": 11951664.410000013,
+            "plazas": 272
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 11784846.41,
+            "plazas": 233
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 11744612.540000008,
+            "plazas": 132
+          },
+          {
+            "nombre": "ESCUELA NORMAL DE RINCON DE ROMOS \"DR. RAFAEL FRANCISCO AGUILAR LOMELI\"",
+            "percepciones": 11500284.850000001,
+            "plazas": 109
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 20731360.500000004
+          },
+          "min": {
+            "nombre": "DAVID SERNA",
+            "percepciones": 32936.520000000004
+          }
+        },
+        "total": 1106
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 620863.05,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER REYES MARIN",
+            "rfc": "REMJ4212309P4",
+            "percepciones": 617633.27,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL SILVA PEREZCHICA",
+            "rfc": "SIPR590920KD4",
+            "percepciones": 609657.72,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE JESUS GOMEZ MACIAS",
+            "rfc": "GOMM560605TF4",
+            "percepciones": 598971.75,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELOISA GAMBOA SILVA",
+            "rfc": "GASE630106IC6",
+            "percepciones": 583854.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELISA GONZALEZ MALDONADO",
+            "rfc": "GOME630109177",
+            "percepciones": 583854.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL GALLEGOS ESPINOZA",
+            "rfc": "GAEM441120NN5",
+            "percepciones": 563881.93,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE DE JESUS BAEZ RODRIGUEZ",
+            "rfc": "BARJ551230JL0",
+            "percepciones": 550926.89,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSEFINA ARACELI REYES MARIN",
+            "rfc": "REMJ580907G66",
+            "percepciones": 528800.96,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS ROMAN RODRIGUEZ",
+            "rfc": "RORJ620810274",
+            "percepciones": 517802.36,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 620863.05
+          },
+          "min": {
+            "nombre": "JESUS IVAN SANCHEZ TRINIDAD",
+            "rfc": "SATJ940213899",
+            "percepciones": 158.15
+          }
+        },
+        "total": 16431
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 118,
+        "1,000 - 10,000": 1968,
+        "10,000 - 50,000": 3440,
+        "50,000 - 100,000": 8503,
+        "100,000 - 250,000": 5745,
+        "250,000 - 500,000": 537,
+        "500,000 - 1,000,000": 14
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12786,
+        "2 plazas": 1109,
+        "3 plazas": 729,
+        "4 plazas": 454,
+        "5 plazas": 385,
+        "6 o más plazas": 968
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 26400596.119999964,
+            "plazas": 169
+          },
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 24954243.779999986,
+            "plazas": 144
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 21311901.020000003,
+            "plazas": 146
+          },
+          {
+            "nombre": "ROSARIO CASTELLANOS",
+            "percepciones": 18233236.99,
+            "plazas": 312
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 17835980.380000032,
+            "plazas": 351
+          },
+          {
+            "nombre": "ESCUELA NORMAL DE RINCON DE ROMOS \"DR. RAFAEL FRANCISCO AGUILAR LOMELI\"",
+            "percepciones": 14880188.87,
+            "plazas": 109
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 13609226.780000014,
+            "plazas": 147
+          },
+          {
+            "nombre": "SECUNDARIA TECNICA NUM. 32, FRANCISCO AGUAYO MORA",
+            "percepciones": 13311725.099999988,
+            "plazas": 272
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 13129005.370000007,
+            "plazas": 134
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 12842378.000000013,
+            "plazas": 239
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 26400596.119999997
+          },
+          "min": {
+            "nombre": "JESUS GONZALEZ ORTEGA",
+            "percepciones": 9764.56
+          }
+        },
+        "total": 1099
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MA. DEL SOCORRO GOMEZ MACIAS",
+            "rfc": "GOMM590727514",
+            "percepciones": 814778.97,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL SILVA PEREZCHICA",
+            "rfc": "SIPR590920KD4",
+            "percepciones": 781044.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER REYES MARIN",
+            "rfc": "REMJ4212309P4",
+            "percepciones": 781044.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 781025.36,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE JESUS GOMEZ MACIAS",
+            "rfc": "GOMM560605TF4",
+            "percepciones": 755507.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELOISA GAMBOA SILVA",
+            "rfc": "GASE630106IC6",
+            "percepciones": 741939.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELISA GONZALEZ MALDONADO",
+            "rfc": "GOME630109177",
+            "percepciones": 741939.76,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL GALLEGOS ESPINOZA",
+            "rfc": "GAEM441120NN5",
+            "percepciones": 705608.26,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSE DE JESUS BAEZ RODRIGUEZ",
+            "rfc": "BARJ551230JL0",
+            "percepciones": 687896.74,
+            "plazas": 1
+          },
+          {
+            "nombre": "JOSEFINA ARACELI REYES MARIN",
+            "rfc": "REMJ580907G66",
+            "percepciones": 665723.81,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MA. DEL SOCORRO GOMEZ MACIAS",
+            "rfc": "GOMM590727514",
+            "percepciones": 814778.97
+          },
+          "min": {
+            "nombre": "ANA BELEN GARDUÑO RAMIREZ",
+            "rfc": "GARA010831SP7",
+            "percepciones": 1351.7
+          }
+        },
+        "total": 16468
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 14,
+        "1,000 - 10,000": 1739,
+        "10,000 - 50,000": 3454,
+        "50,000 - 100,000": 7736,
+        "100,000 - 250,000": 6516,
+        "250,000 - 500,000": 780,
+        "500,000 - 1,000,000": 69
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12909,
+        "2 plazas": 1043,
+        "3 plazas": 708,
+        "4 plazas": 466,
+        "5 plazas": 387,
+        "6 o más plazas": 955
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 23370078.91999999,
+            "plazas": 149
+          },
+          {
+            "nombre": "JOSE SANTOS VALDES",
+            "percepciones": 22782463.709999986,
+            "plazas": 170
+          },
+          {
+            "nombre": "JUSTO SIERRA MENDEZ",
+            "percepciones": 18953077.83,
+            "plazas": 146
+          },
+          {
+            "nombre": "ROSARIO CASTELLANOS",
+            "percepciones": 17488229.879999995,
+            "plazas": 320
+          },
+          {
+            "nombre": "LIC. ADOLFO LOPEZ MATEOS",
+            "percepciones": 16084129.510000011,
+            "plazas": 343
+          },
+          {
+            "nombre": "CUAUHTEMOC",
+            "percepciones": 13067218.479999982,
+            "plazas": 147
+          },
+          {
+            "nombre": "SECUNDARIA TECNICA NUM. 32, FRANCISCO AGUAYO MORA",
+            "percepciones": 12354840.199999979,
+            "plazas": 268
+          },
+          {
+            "nombre": "BENITO JUAREZ",
+            "percepciones": 12329406.500000004,
+            "plazas": 136
+          },
+          {
+            "nombre": "ESCUELA NORMAL DE RINCON DE ROMOS \"DR. RAFAEL FRANCISCO AGUILAR LOMELI\"",
+            "percepciones": 12102790.979999997,
+            "plazas": 106
+          },
+          {
+            "nombre": "LIC. BENITO JUAREZ",
+            "percepciones": 11680129.259999992,
+            "plazas": 229
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "CENTRO REGIONAL DE EDUCACION NORMAL DE AGUASCALIENTES",
+            "percepciones": 23370078.92
+          },
+          "min": {
+            "nombre": "JESUS GONZALEZ ORTEGA",
+            "percepciones": 8864.91
+          }
+        },
+        "total": 1096
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "EMMA MARTINEZ MARTINEZ",
+            "rfc": "MAMX641109DQ5",
+            "percepciones": 991226.77,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DEL SOCORRO GOMEZ MACIAS",
+            "rfc": "GOMM590727514",
+            "percepciones": 779065.55,
+            "plazas": 1
+          },
+          {
+            "nombre": "JUAN CARLOS REYES CASTRO",
+            "rfc": "RECJ650113P4A",
+            "percepciones": 742883.92,
+            "plazas": 1
+          },
+          {
+            "nombre": "RAUL SILVA PEREZCHICA",
+            "rfc": "SIPR590920KD4",
+            "percepciones": 739653.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "JAVIER REYES MARIN",
+            "rfc": "REMJ4212309P4",
+            "percepciones": 739653.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "ROSA MARIA DIAZ HERNANDEZ",
+            "rfc": "DIHR540525BXA",
+            "percepciones": 736406.38,
+            "plazas": 1
+          },
+          {
+            "nombre": "MA. DE JESUS GOMEZ MACIAS",
+            "rfc": "GOMM560605TF4",
+            "percepciones": 718269.44,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELOISA GAMBOA SILVA",
+            "rfc": "GASE630106IC6",
+            "percepciones": 703745.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "ELISA GONZALEZ MALDONADO",
+            "rfc": "GOME630109177",
+            "percepciones": 703245.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "MANUEL GALLEGOS ESPINOZA",
+            "rfc": "GAEM441120NN5",
+            "percepciones": 667265.48,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "EMMA MARTINEZ MARTINEZ",
+            "rfc": "MAMX641109DQ5",
+            "percepciones": 991226.77
+          },
+          "min": {
+            "nombre": "ADRIANA ELIZABETH GALVAN ARAIZA",
+            "rfc": "GAAA031106QP5",
+            "percepciones": 802.07
+          }
+        },
+        "total": 16627
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 65,
+        "1,000 - 10,000": 1951,
+        "10,000 - 50,000": 3648,
+        "50,000 - 100,000": 8945,
+        "100,000 - 250,000": 5159,
+        "250,000 - 500,000": 670,
+        "500,000 - 1,000,000": 48
+      },
+      "distribucion_plazas": {
+        "1 plaza": 12881,
+        "2 plazas": 1190,
+        "3 plazas": 701,
+        "4 plazas": 476,
+        "5 plazas": 385,
+        "6 o más plazas": 994
+      }
+    }
+  }
+}

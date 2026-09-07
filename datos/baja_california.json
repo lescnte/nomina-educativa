@@ -1,0 +1,815 @@
+{
+  "entidad_federativa": "BAJA CALIFORNIA",
+  "trimestres": {
+    "2025/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 20241910.63000001,
+            "plazas": 276
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 18728077.750000004,
+            "plazas": 515
+          },
+          {
+            "nombre": "EUGENIO ELORDUY GALLASTEGUI",
+            "percepciones": 16180509.399999984,
+            "plazas": 464
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 15923724.510000015,
+            "plazas": 314
+          },
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA FEDERAL FRONTERIZA",
+            "percepciones": 13250149.83,
+            "plazas": 82
+          },
+          {
+            "nombre": "ESCUELA NORMAL FRONTERIZA TIJUANA",
+            "percepciones": 12593420.57000001,
+            "plazas": 211
+          },
+          {
+            "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL, UNIDAD 021 MEXICALI",
+            "percepciones": 12480895.959999999,
+            "plazas": 83
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 12402427.900000015,
+            "plazas": 190
+          },
+          {
+            "nombre": "COORDINACION DE EDUCACION FISICA EN PRIMARIA FEDERAL NUM. 6",
+            "percepciones": 12057914.739999995,
+            "plazas": 124
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA 18",
+            "percepciones": 11976709.270000009,
+            "plazas": 469
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 20241910.629999988
+          },
+          "min": {
+            "nombre": "JOSE MARIA VELASCO",
+            "percepciones": 37689.6
+          }
+        },
+        "total": 1451
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "GLORIA ESTELA ALVAREZ GALLEGOS",
+            "rfc": "AAGG561021N28",
+            "percepciones": 4303067.22,
+            "plazas": 1
+          },
+          {
+            "nombre": "BLANCA LUZ TINOCO GRACIA",
+            "rfc": "TIGB650107DM8",
+            "percepciones": 4012732.6899999995,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARTHA YOLANDA CASTAÑEDA HERRERA",
+            "rfc": "CAHM640817L94",
+            "percepciones": 3436957.8600000003,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARTHA LUCINA TINOCO GRACIA",
+            "rfc": "TIGM6401207K1",
+            "percepciones": 2973064.6799999997,
+            "plazas": 2
+          },
+          {
+            "nombre": "DELMA MARIA PACHECO JIMENEZ",
+            "rfc": "PAJD670926PC3",
+            "percepciones": 2612550.58,
+            "plazas": 2
+          },
+          {
+            "nombre": "BELEM RAMONA DUARTE JIMENEZ",
+            "rfc": "DUJB6302198C6",
+            "percepciones": 2532692.25,
+            "plazas": 3
+          },
+          {
+            "nombre": "LETICIA HEREDIA CARDIEL",
+            "rfc": "HECL640306CI4",
+            "percepciones": 2489569.38,
+            "plazas": 3
+          },
+          {
+            "nombre": "IGNACIO LOPEZ ZAYJAS",
+            "rfc": "LOZI601030L34",
+            "percepciones": 2335917.92,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA DE JESUS SALAZAR CUEVAS",
+            "rfc": "SACJ650930J22",
+            "percepciones": 2260300.85,
+            "plazas": 2
+          },
+          {
+            "nombre": "ALMA ROSA GALICIA VEGA",
+            "rfc": "GAVA590917LL0",
+            "percepciones": 2233708.21,
+            "plazas": 2
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "GLORIA ESTELA ALVAREZ GALLEGOS",
+            "rfc": "AAGG561021N28",
+            "percepciones": 4303067.22
+          },
+          "min": {
+            "nombre": "TERESITA DE JESUS RODRIGUEZ BECERRA",
+            "rfc": "ROBT6310037W7",
+            "percepciones": 156.28
+          }
+        },
+        "total": 23547
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 242,
+        "1,000 - 10,000": 3295,
+        "10,000 - 50,000": 5359,
+        "50,000 - 100,000": 15159,
+        "100,000 - 250,000": 3609,
+        "250,000 - 500,000": 556,
+        "500,000 - 1,000,000": 103,
+        "Mayor a 1,000,000": 25
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15227,
+        "2 plazas": 4060,
+        "3 plazas": 651,
+        "4 plazas": 452,
+        "5 plazas": 470,
+        "6 o más plazas": 2687
+      }
+    },
+    "2025/02": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 23233827.01999998,
+            "plazas": 273
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 21272338.51,
+            "plazas": 519
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 17729606.14000003,
+            "plazas": 316
+          },
+          {
+            "nombre": "EUGENIO ELORDUY GALLASTEGUI",
+            "percepciones": 16568940.690000013,
+            "plazas": 474
+          },
+          {
+            "nombre": "ESCUELA NORMAL FRONTERIZA TIJUANA",
+            "percepciones": 15706354.279999988,
+            "plazas": 208
+          },
+          {
+            "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL, UNIDAD 021 MEXICALI",
+            "percepciones": 15150073.980000004,
+            "plazas": 83
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 15009305.700000007,
+            "plazas": 192
+          },
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA FEDERAL FRONTERIZA",
+            "percepciones": 14917445.89,
+            "plazas": 82
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 13921984.010000002,
+            "plazas": 178
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA 18",
+            "percepciones": 13316739.459999979,
+            "plazas": 452
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 23233827.02
+          },
+          "min": {
+            "nombre": "MTRO MATIAS GOMEZ",
+            "percepciones": 49824.52
+          }
+        },
+        "total": 1450
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ANGEL MEJORADO LERMA",
+            "rfc": "MELA540808QRA",
+            "percepciones": 3740171.13,
+            "plazas": 2
+          },
+          {
+            "nombre": "IMELDA HERNANDEZ SOLORIO",
+            "rfc": "HESI540204EWA",
+            "percepciones": 2634905.08,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIO ENRIQUE GONZALEZ PEREIRA",
+            "rfc": "GOPM521206FZ8",
+            "percepciones": 2138316.56,
+            "plazas": 1
+          },
+          {
+            "nombre": "BEATRIZ RODRIGUEZ PAYAN",
+            "rfc": "ROPB610714SZ9",
+            "percepciones": 2136428.16,
+            "plazas": 2
+          },
+          {
+            "nombre": "MACARIO HARO CORDERO",
+            "rfc": "HACM451021IU7",
+            "percepciones": 2120031.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "ARTURO FELICIANO CHABOYA CAMPOS",
+            "rfc": "CACX5706096X5",
+            "percepciones": 1873361.38,
+            "plazas": 2
+          },
+          {
+            "nombre": "TEODORA MARGARITA SILLAS MALDONADO",
+            "rfc": "SIMT650212116",
+            "percepciones": 1687060.8399999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "ANA MARIA MARTINEZ GARCIA",
+            "rfc": "MAGA690207SP3",
+            "percepciones": 1674335.71,
+            "plazas": 2
+          },
+          {
+            "nombre": "EVANGELINA CASTRO JIMENEZ",
+            "rfc": "CAJE6301115Z9",
+            "percepciones": 1650940.19,
+            "plazas": 1
+          },
+          {
+            "nombre": "FRANCISCO JAVIER AGUNDEZ MARQUEZ",
+            "rfc": "AUMF670225U64",
+            "percepciones": 1632843.35,
+            "plazas": 21
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ANGEL MEJORADO LERMA",
+            "rfc": "MELA540808QRA",
+            "percepciones": 3740171.13
+          },
+          "min": {
+            "nombre": "MARIA HERLINDA PARRA VEGA",
+            "rfc": "PAVH6502272R2",
+            "percepciones": 85.39
+          }
+        },
+        "total": 22780
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 39,
+        "1,000 - 10,000": 2271,
+        "10,000 - 50,000": 4493,
+        "50,000 - 100,000": 14472,
+        "100,000 - 250,000": 4385,
+        "250,000 - 500,000": 762,
+        "500,000 - 1,000,000": 146,
+        "Mayor a 1,000,000": 17
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15235,
+        "2 plazas": 3627,
+        "3 plazas": 519,
+        "4 plazas": 398,
+        "5 plazas": 450,
+        "6 o más plazas": 2551
+      }
+    },
+    "2025/03": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 21798491.269999992,
+            "plazas": 257
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 21675013.139999997,
+            "plazas": 532
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 16519687.599999992,
+            "plazas": 321
+          },
+          {
+            "nombre": "EUGENIO ELORDUY GALLASTEGUI",
+            "percepciones": 16486377.57,
+            "plazas": 481
+          },
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA FEDERAL FRONTERIZA",
+            "percepciones": 16327677.240000002,
+            "plazas": 82
+          },
+          {
+            "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL, UNIDAD 021 MEXICALI",
+            "percepciones": 15565886.530000005,
+            "plazas": 83
+          },
+          {
+            "nombre": "ESCUELA NORMAL FRONTERIZA TIJUANA",
+            "percepciones": 14589903.670000004,
+            "plazas": 210
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 14474814.07000001,
+            "plazas": 190
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 14013913.790000001,
+            "plazas": 183
+          },
+          {
+            "nombre": "ESCUELA SECUNDARIA TECNICA NUM. 20 EL NIGROMANTE",
+            "percepciones": 13233394.399999995,
+            "plazas": 450
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 21798491.270000003
+          },
+          "min": {
+            "nombre": "CENTRO DE ATENCIÓN MÚLTIPLE NUEVA CREACIÓN VALLE DORADO",
+            "percepciones": 12217.62
+          }
+        },
+        "total": 1451
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "ALBERTO VEGA MARTINEZ",
+            "rfc": "VEMA550524MV2",
+            "percepciones": 2789050.03,
+            "plazas": 1
+          },
+          {
+            "nombre": "RIGOBERTO VAZQUEZ MARIN",
+            "rfc": "VAMR670523877",
+            "percepciones": 2262850.69,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA GUADALUPE LOPEZ ZAZUETA",
+            "rfc": "LOZG650814V84",
+            "percepciones": 2176870.35,
+            "plazas": 2
+          },
+          {
+            "nombre": "TITO SAUL VELAZQUEZ VARELA",
+            "rfc": "VEVT590302IAA",
+            "percepciones": 2101461.39,
+            "plazas": 1
+          },
+          {
+            "nombre": "JESUS ANTONIO GONZALEZ RUIZ",
+            "rfc": "GORJ730312LF4",
+            "percepciones": 1123671.3,
+            "plazas": 1
+          },
+          {
+            "nombre": "ALICIA LOPEZ ROMERO",
+            "rfc": "LORA681226K41",
+            "percepciones": 1106372.18,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARTIN EDUARDO OSUNA OLACHEA",
+            "rfc": "OUOM7409187M9",
+            "percepciones": 1089426.16,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARIA DE LOURDES BRAMBILA MIRANDA",
+            "rfc": "BAML580217LF6",
+            "percepciones": 914438.4100000001,
+            "plazas": 9
+          },
+          {
+            "nombre": "ROSA ELVIRA CONTRERAS MEZA",
+            "rfc": "COMR600817QN3",
+            "percepciones": 878849.6699999999,
+            "plazas": 2
+          },
+          {
+            "nombre": "LORENZO GONZALEZ GARCIA",
+            "rfc": "GOGL710911QJ8",
+            "percepciones": 841459.74,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "ALBERTO VEGA MARTINEZ",
+            "rfc": "VEMA550524MV2",
+            "percepciones": 2789050.03
+          },
+          "min": {
+            "nombre": "ESTRELLA GABRIELA OCEGUEDA RODRIGUEZ",
+            "rfc": "OERE90060568A",
+            "percepciones": 125.75
+          }
+        },
+        "total": 23069
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 209,
+        "1,000 - 10,000": 2489,
+        "10,000 - 50,000": 5298,
+        "50,000 - 100,000": 14060,
+        "100,000 - 250,000": 4562,
+        "250,000 - 500,000": 640,
+        "500,000 - 1,000,000": 89,
+        "Mayor a 1,000,000": 7
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15299,
+        "2 plazas": 3769,
+        "3 plazas": 512,
+        "4 plazas": 394,
+        "5 plazas": 456,
+        "6 o más plazas": 2639
+      }
+    },
+    "2025/04": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 26154336.19000003,
+            "plazas": 277
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 24425108.290000018,
+            "plazas": 530
+          },
+          {
+            "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL, UNIDAD 021 MEXICALI",
+            "percepciones": 20491942.84,
+            "plazas": 83
+          },
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA FEDERAL FRONTERIZA",
+            "percepciones": 20099886.470000006,
+            "plazas": 82
+          },
+          {
+            "nombre": "EUGENIO ELORDUY GALLASTEGUI",
+            "percepciones": 19568743.470000014,
+            "plazas": 475
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 19111805.69000001,
+            "plazas": 322
+          },
+          {
+            "nombre": "ESCUELA NORMAL FRONTERIZA TIJUANA",
+            "percepciones": 17725872.43,
+            "plazas": 199
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 17011079.56999997,
+            "plazas": 192
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 16268455.610000003,
+            "plazas": 180
+          },
+          {
+            "nombre": "NORMAL \"ESTEFANIA CASTAÇ`EDA Y NUÇ`EZ DE CACERES\"",
+            "percepciones": 15376013.319999997,
+            "plazas": 55
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 26154336.19000001
+          },
+          "min": {
+            "nombre": "MTRO MATIAS GOMEZ",
+            "percepciones": 56576.87
+          }
+        },
+        "total": 1449
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "MARTHA LETICIA GUEVARA BENITEZ",
+            "rfc": "GUBM4203143T8",
+            "percepciones": 3712683.12,
+            "plazas": 1
+          },
+          {
+            "nombre": "MARITZA RODRIGUEZ GONZALEZ",
+            "rfc": "ROGM690703542",
+            "percepciones": 1723764.08,
+            "plazas": 2
+          },
+          {
+            "nombre": "GIL CORNEJO FREGOSO",
+            "rfc": "COFG670901HT7",
+            "percepciones": 1445955.9100000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "MA. JESUS RAZO ARREDONDO",
+            "rfc": "RAAJ710616QHA",
+            "percepciones": 1332683.73,
+            "plazas": 3
+          },
+          {
+            "nombre": "RAMIRO PLACENCIA HERRERA",
+            "rfc": "PAHR670916EE0",
+            "percepciones": 1195101.3800000001,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA ELENA VARELA COTA",
+            "rfc": "VACE480301TX1",
+            "percepciones": 1042344.61,
+            "plazas": 1
+          },
+          {
+            "nombre": "SORAYA BELTRAN PICOS",
+            "rfc": "BEPS6906149V5",
+            "percepciones": 1030940.67,
+            "plazas": 2
+          },
+          {
+            "nombre": "JOSE DURAN HERNANDEZ",
+            "rfc": "DUHJ670517CI3",
+            "percepciones": 1027898.93,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA GRISELDA VAZQUEZ RUEDA",
+            "rfc": "VARG510206BA9",
+            "percepciones": 1003872.49,
+            "plazas": 1
+          },
+          {
+            "nombre": "JESUS ARTURO GUERRERO SOTO",
+            "rfc": "GUSJ570913C79",
+            "percepciones": 1003798.92,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "MARTHA LETICIA GUEVARA BENITEZ",
+            "rfc": "GUBM4203143T8",
+            "percepciones": 3712683.12
+          },
+          "min": {
+            "nombre": "ASHLY MAYELA CASTILLO VAZQUEZ",
+            "rfc": "CAVA980904VD2",
+            "percepciones": 397.7999999999999
+          }
+        },
+        "total": 23390
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 210,
+        "1,000 - 10,000": 2044,
+        "10,000 - 50,000": 4995,
+        "50,000 - 100,000": 5417,
+        "100,000 - 250,000": 13139,
+        "250,000 - 500,000": 770,
+        "500,000 - 1,000,000": 216,
+        "Mayor a 1,000,000": 5
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15490,
+        "2 plazas": 3758,
+        "3 plazas": 555,
+        "4 plazas": 407,
+        "5 plazas": 472,
+        "6 o más plazas": 2708
+      }
+    },
+    "2026/01": {
+      "centros_trabajo": {
+        "top_10": [
+          {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 29411900.499999993,
+            "plazas": 301
+          },
+          {
+            "nombre": "FRANCISCO I. MADERO",
+            "percepciones": 26939147.780000046,
+            "plazas": 536
+          },
+          {
+            "nombre": "EUGENIO ELORDUY GALLASTEGUI",
+            "percepciones": 21612821.710000027,
+            "plazas": 486
+          },
+          {
+            "nombre": "VICENTE GUERRERO",
+            "percepciones": 20686505.289999966,
+            "plazas": 326
+          },
+          {
+            "nombre": "EMILIANO ZAPATA",
+            "percepciones": 18481265.050000027,
+            "plazas": 194
+          },
+          {
+            "nombre": "BENEMERITA ESCUELA NORMAL URBANA FEDERAL FRONTERIZA",
+            "percepciones": 17882194.63,
+            "plazas": 82
+          },
+          {
+            "nombre": "UNIVERSIDAD PEDAGOGICA NACIONAL, UNIDAD 021 MEXICALI",
+            "percepciones": 17291584.71,
+            "plazas": 83
+          },
+          {
+            "nombre": "JUAN ESCUTIA",
+            "percepciones": 17141795.42,
+            "plazas": 179
+          },
+          {
+            "nombre": "ESCUELA NORMAL FRONTERIZA TIJUANA",
+            "percepciones": 16792771.64,
+            "plazas": 209
+          },
+          {
+            "nombre": "LAZARO CARDENAS",
+            "percepciones": 16052197.539999986,
+            "plazas": 340
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "NUEVA CREACION",
+            "percepciones": 29411900.499999993
+          },
+          "min": {
+            "nombre": "MTRO MATIAS GOMEZ",
+            "percepciones": 65063.92
+          }
+        },
+        "total": 1450
+      },
+      "trabajadores": {
+        "top_10": [
+          {
+            "nombre": "OLGA ISABEL ESTRADA MONTES",
+            "rfc": "EAMO561227JE5",
+            "percepciones": 5105483.93,
+            "plazas": 1
+          },
+          {
+            "nombre": "AIDA CORREA BAUTISTA",
+            "rfc": "COBA580605T97",
+            "percepciones": 4792310.42,
+            "plazas": 3
+          },
+          {
+            "nombre": "MANUEL CERVANTES RIOS",
+            "rfc": "CERM591212NLA",
+            "percepciones": 3245798.85,
+            "plazas": 3
+          },
+          {
+            "nombre": "MARTHA AGUILERA ALCALA",
+            "rfc": "AUAM660605UI3",
+            "percepciones": 2300659.11,
+            "plazas": 2
+          },
+          {
+            "nombre": "ELEAZAR AVILES GARCIA",
+            "rfc": "AIGE7007305A8",
+            "percepciones": 2097590.05,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA MARGARITA CASTILLO",
+            "rfc": "CAMA660610KD0",
+            "percepciones": 1723551.19,
+            "plazas": 3
+          },
+          {
+            "nombre": "LUZ MARIA CASTRO FUENTES",
+            "rfc": "CAFL690709UA0",
+            "percepciones": 1718629.98,
+            "plazas": 3
+          },
+          {
+            "nombre": "SERGIO FLORENTINO ESTRADA ABOYTES",
+            "rfc": "EAAS640902385",
+            "percepciones": 1701888.52,
+            "plazas": 2
+          },
+          {
+            "nombre": "MARIA MARGARITA AGUILERA SILVESTRE",
+            "rfc": "AUSM690829QHA",
+            "percepciones": 1654929.9500000002,
+            "plazas": 2
+          },
+          {
+            "nombre": "ARACELI DEL CARMEN IRRA BELTRAN",
+            "rfc": "IABA641010FQ9",
+            "percepciones": 1533549.33,
+            "plazas": 1
+          }
+        ],
+        "min_max": {
+          "max": {
+            "nombre": "OLGA ISABEL ESTRADA MONTES",
+            "rfc": "EAMO561227JE5",
+            "percepciones": 5105483.93
+          },
+          "min": {
+            "nombre": "AMPARO JUDITH DE DIOS MALDONADO",
+            "rfc": "DIMA020124CR2",
+            "percepciones": 62.85
+          }
+        },
+        "total": 23900
+      },
+      "distribucion_sueldos": {
+        "Menor a 1,000": 267,
+        "1,000 - 10,000": 2468,
+        "10,000 - 50,000": 5340,
+        "50,000 - 100,000": 6485,
+        "100,000 - 250,000": 12401,
+        "250,000 - 500,000": 817,
+        "500,000 - 1,000,000": 255,
+        "Mayor a 1,000,000": 18
+      },
+      "distribucion_plazas": {
+        "1 plaza": 15553,
+        "2 plazas": 3985,
+        "3 plazas": 629,
+        "4 plazas": 433,
+        "5 plazas": 487,
+        "6 o más plazas": 2813
+      }
+    }
+  }
+}
