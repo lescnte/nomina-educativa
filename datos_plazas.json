@@ -1,0 +1,37 @@
+{
+  "numero_plazas_federal": 1780561,
+  "numero_trabajadores_federal": 1039565,
+  "estado_con_mas_trabajadores": {
+    "entidad_federativa": "OAXACA",
+    "trabajadores_unicos": 86298,
+    "plazas_unicas": 119149
+  },
+  "estado_con_menos_trabajadores": {
+    "entidad_federativa": "COLIMA",
+    "trabajadores_unicos": 9244,
+    "plazas_unicas": 14951
+  },
+  "estado_con_mas_percepciones": {
+    "entidad_federativa": "OAXACA",
+    "percepciones_total": 9425096511.58
+  },
+  "estado_con_menos_percepciones": {
+    "entidad_federativa": "COLIMA",
+    "percepciones_total": 1038973644.02
+  },
+  "estado_con_mas_centros_trabajo": {
+    "entidad_federativa": "VERACRUZ",
+    "centros_trabajo": 3861
+  },
+  "estado_con_menos_centros_trabajo": {
+    "entidad_federativa": "COLIMA",
+    "centros_trabajo": 575
+  },
+  "estado_con_mas_plazas": {
+    "entidad_federativa": "OAXACA",
+    "plazas_unicas": 119149
+  },
+  "trimestre": "2026/01",
+  "fuente": "Base de datos plazas",
+  "metodo": "count distinct / aggregations"
+}
