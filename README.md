@@ -49,7 +49,7 @@ pip install -r requirements.txt
 El proyecto usa esta conexión:
 
 ```python
-DB_URL = "postgresql+psycopg2://postgres:Iv3uv.miJppp9Ql@localhost:5432/plazas"
+DB_URL = "postgresql+psycopg2://postgres:xxxxxxxxx@localhost:xxx/plazas"
 ```
 
 ### 3. Generar los datos
